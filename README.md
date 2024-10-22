@@ -32,10 +32,10 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
         <td><a href="https://github.com/ccarlaa">@ccarlaa</a></td>
     </tr>
     <tr>
-        <td><img alt="img_Duda" src="" style="border-radius:50%" width="100"></td>
-        <td></td>
-        <td></td>
-        <td><a href="https://github.com/">@</a></td>
+        <td><img alt="img_Duda" src="./images/Eduarda_Tavares.JPG" style="border-radius:50%" width="100"></td>
+        <td>Eduarda Rodrigues Tavares</td>
+        <td>erteduarda@gmail.com</td>
+        <td><a href="https://github.com/erteduarda">@erteduarda</a></td>
     </tr>
     <tr>
         <td><img alt="img_Davi" src="" style="border-radius:50%" width="100"></td>
@@ -65,7 +65,7 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
     <table>
     <tr>
         <th>Data</th>
-        <th>Data Prevista de Revisão</th>
+        <th>Data de Revisão</th>
         <th>Versão</th>
         <th>Descrição</th>
         <th>Autor</th>
