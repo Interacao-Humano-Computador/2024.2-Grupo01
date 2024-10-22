@@ -77,6 +77,7 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
         <td>1.0</td>
         <td>Criação inicial</td>
         <td><a href="https://github.com/ccarlaa">Carla</a></td>
+        <td><a href="https://github.com/"></a></td>
     </tr>
     </table>
 </div>
