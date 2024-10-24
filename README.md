@@ -26,7 +26,7 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
         <th>GitHub</th>
     </tr>
     <tr>
-        <td><img alt="img_Carla" src="" style="border-radius:50%" width="100"></td>
+        <td><img alt="img_Carla" src="./images/Carla_Clementino.jpeg" style="border-radius:50%" width="100"></td>
         <td>Carla A. C. Ribeiro</td>
         <td>carlacarlaclementino@gmail.com</td>
         <td><a href="https://github.com/ccarlaa">@ccarlaa</a></td>
@@ -38,21 +38,21 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
         <td><a href="https://github.com/erteduarda">@erteduarda</a></td>
     </tr>
     <tr>
-        <td><img alt="img_Davi" src="" style="border-radius:50%" width="100"></td>
-        <td></td>
-        <td></td>
-        <td><a href="https://github.com/">@</a></td>
+        <td><img alt="img_Davi" src="./images/Davi_Nobre.jpg" style="border-radius:50%" width="100"></td>
+        <td>Davi dos Santos Brito Nobre</td>
+        <td>davinobre.ik@gmail.com</td>
+        <td><a href="https://github.com/Jagaima">@Jagaima</a></td>
     </tr>
     <tr>
-        <td><img alt="img_Gabriel" src="" style="border-radius:50%" width="100"></td>
-        <td></td>
-        <td></td>
-        <td><a href="https://github.com/">@</a></td>
+        <td><img alt="img_Gabriel" src="./images/Gabriel.jpg" style="border-radius:50%" width="100"></td>
+        <td>Gabriel Santos Monteiro</td>
+        <td>gabrielmonteiro1203@gmail.com</td>
+        <td><a href="https://github.com/GabrielSMonteiro">@GabrielSMonteiro</a></td>
     </tr>
     <tr>
-        <td><img alt="img_Joao" src="" style="border-radius:50%" width="100"></td>
-        <td></td>
-        <td></td>
+        <td><img alt="img_Joao" src="./images/João_Vitor.jpg" style="border-radius:50%" width="100"></td>
+        <td>João Vitor Lopes Ribeiro</td>
+        <td>joao.vitortnt5@gmail.com</td>
         <td><a href="https://github.com/">@</a></td>
     </tr>
     </table>
@@ -74,7 +74,7 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
     <tr>
         <td>22/10/2024</td>
         <td>22/10/2024</td>
-        <td>1.0</td>
+        <td>1.*</td>
         <td>Criação inicial</td>
         <td><a href="https://github.com/ccarlaa">Carla</a></td>
         <td><a href="https://github.com/"></a></td>
