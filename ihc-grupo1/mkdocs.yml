@@ -70,5 +70,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-
+  - Desenvolvimento:
+    - Ferramentas: Desenvolvimento/ferramentas.md
+    - Processo de Desing: Desenvolvimento/ProcessoDesing.md
   
