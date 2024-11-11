@@ -63,6 +63,18 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
     
 </div>
 
+
+## Referência Bibliográfica / Bibliografia
+Figma disponível em: https://www.figma.com/
+
+Google Docs Disponível em:https://docs.google.com/document/u/0/?hl=pt-BR
+Github Disponível em:  https://github.com/
+Mkdocs Disponível em: https://www.mkdocs.org
+Vscode Disponível em: https://code.visualstudio.com/
+whatsapp Disponível em: https://web.whatsapp.com
+This Person does not exist Disponível em: https://thispersonnotexist.org/
+
+
 ## :round_pushpin: Histórico de Versão 
 <div align="center">
     <table style="margin: auto;">
