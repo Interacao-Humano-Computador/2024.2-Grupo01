@@ -1,8 +1,8 @@
 # :mag_right: Grupo 1 - Interação Humano Computador
 
-<!-- <div align="center">
-    Logo do nosso app
-</div> -->
+<div align="center">
+    <img src='./assets/images/fab.jpeg' alt='logo'>
+</div>
 
 ## :round_pushpin: Sobre o projeto
 
@@ -74,8 +74,16 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
     <tr>
         <td>22/10/2024</td>
         <td>22/10/2024</td>
-        <td>1.*</td>
+        <td>1.0</td>
         <td>Criação inicial</td>
+        <td><a href="https://github.com/ccarlaa">Carla</a></td>
+        <td><a href="https://github.com/"></a></td>
+    </tr>
+        <tr>
+        <td>11/11/2024</td>
+        <td>**/11/2024</td>
+        <td>1.2</td>
+        <td>Adicionar logo do site</td>
         <td><a href="https://github.com/ccarlaa">Carla</a></td>
         <td><a href="https://github.com/"></a></td>
     </tr>
