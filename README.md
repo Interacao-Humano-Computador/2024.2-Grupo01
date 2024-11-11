@@ -1,8 +1,7 @@
 # :mag_right: Grupo 1 - Interação Humano Computador
 
-<!-- <div align="center">
-    Logo do nosso app
-</div> -->
+![fab](https://github.com/user-attachments/assets/86656808-f120-4f50-a44b-57617fd1bf15)
+
 
 ## :round_pushpin: Sobre o projeto:
 
