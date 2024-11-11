@@ -38,7 +38,7 @@ Após a análise dos resultados coletados, foi decidido que as reuniões ocorrer
             <td>Criação do documento</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>03/11</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Jagaima"> Davi Nobre</a></td>
         </tr>
     </table>
 </div>
