@@ -38,7 +38,7 @@ A Tabela 1 indica todos os sites avaliados pelo grupo, indicando o caminho de ca
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
-            <td><a href="#site-4">Site4</a></td>
+            <td><a href="#site-4">ITA</a></td>
             <td><a href="https://github.com/erteduarda">Eduarda</a></td>
         </tr>
         <tr>
@@ -60,12 +60,22 @@ Força áerea brasileira é uma organização militar brasileira que tem com o i
 - Funcionalidades: O site possui diversas funcionalidades (algumas não funcionando) que podem ter seu modo de funcionamento repensado para melhor intuitividade. 
 - Contribuição acadêmica: Por se tratar de um software governamental aparentemente com baixa manutenção mas de uma base aceitavel de uso e de livre acesso pelos estudantes da UNB, se torna ideal em seu estágio atual sua pesquisa. 
 
-Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site da [FAB](https://www.fab.mil.br/index.php). 
+Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site da [FAB](https://www.fab.mil.br/index.php).
+
+## Instituto Tecnológico de Aeronáutica (ITA)
+Instituto Tecnológico de Aeronáutica (ITA) é uma instituição de ensino superior brasileira voltada para a formação de engenheiros de alta competência nas áreas de aviação, aeroespacial e tecnologia avançada. A comunicação oficial do ITA com a população e a mídia ocorre principalmente através de seu site, que será avaliado neste projeto. Entre os pontos positivos que justificam a escolha do site do ITA para o projeto da disciplina Requisitos de Software, destacam-se:
+
+- Relevância: O site do ITA é uma fonte essencial de informações sobre o ensino superior e a pesquisa aeroespacial no Brasil. Ele serve como um portal central para notícias e atualizações institucionais, sendo relevante para a comunidade acadêmica, o setor industrial e o público em geral.
+- Base de usuários ampla: O site atende a uma variedade de públicos, incluindo candidatos ao vestibular, estudantes, professores e pesquisadores, além de parceiros institucionais e interessados na área aeroespacial. Com isso, o site é de grande importância tanto para a comunidade interna do ITA quanto para o público externo.
+- Funcionalidades: O site possui várias funcionalidades, como seções de notícias, informações sobre processos seletivos, cursos, projetos de pesquisa, entre outras. No entanto, algumas dessas funcionalidades poderiam ser aprimoradas para melhorar a experiência do usuário, facilitando a navegação e o acesso às informações.
+- Contribuição acadêmica: Por se tratar de um portal de uma instituição governamental com grande impacto educacional e científico, e por estar acessível ao público, o site do ITA representa uma excelente oportunidade para análise e melhoria em requisitos de software, contribuindo para a pesquisa e desenvolvimento acadêmico dos estudantes da UNB.
+  
+Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site da [ITA](http://ita.br).
 
 <div align="center">                                                                        
-    <a href="../../assets/avaliacao.pdf" target="_blank">Avaliação</a>     
+    <a href="../../assets/avaliacao_ita.pdf" target="_blank">Avaliação</a>     
     e
-    <a href="../../assets/execucao.pdf" target="_blank">Execução</a>
+    <a href="../../assets/execucao_ita.pdf" target="_blank">Execução</a>
 </div>
 
 

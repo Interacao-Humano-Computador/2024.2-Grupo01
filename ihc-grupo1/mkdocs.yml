@@ -76,3 +76,9 @@ nav:
     - Sites Avaliados: Desenvolvimento/sitesAvaliados.md
     - Site Avaliado: Desenvolvimento/SiteEscolhido.md
     - Disponibilidade dos Integrantes: Desenvolvimento/disponibilidade.md
+  - Inspeção:
+    - Etapa 1: 
+      - Planejamento: Inspecao/planejamento.md
+      - Inspeção final: Inspecao/inspecaoFinal.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2.md
+     
