@@ -15,12 +15,11 @@ A Tabela 01 abaixo fornece as datas das realizações das atividades durante o s
 
 <p align="center"><b>Tabela 01</b> - Cronograma de Entregas </p>
 
-Com base no novo plano de ensino da disciplina de Interação Humano-Computador para o semestre 2023.2, as datas e descrições atualizadas das atividades do cronograma são as seguintes:
 
 | **Nº da entrega** | **Fase** | **Atividade** | **Data de gravação** | **Data de entrega** | **Data da apresentação** |
 |:---------------:|:------------:|:---------:|:------------------:|:----------------:|:----------------:|
-| 1 | Planejamento | Planejamento do projeto e do Processo de Design | 07/11/2023 | 12/11/2023 | 14/11/2023 |
-| 2 | Perfil do usuário | Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas e Análise de tarefas | 24/11/2023 | 26/11/2024 | 28/11/2024 |
+| 1 | Planejamento | Planejamento do projeto e do Processo de Design | 07/11/2024 | 12/11/2024 | 14/11/2024 |
+| 2 | Perfil do usuário | Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas e Análise de tarefas | 24/11/2024 | 26/11/2024 | 28/11/2024 |
 | 3 | Análise de requisitos | Princípios Gerais de Projeto, Metas de Usabilidade, Guia de Estilo e características da plataforma para o projeto | 01/12/2024 | 03/12/2024 | 05/12/2024 |
 | 4 | Storyboard e Análise de Tarefas | Planejamento da Avaliação do Storyboard, planejamento do relato dos resultados da avaliação do Storyboard e da Análise de Tarefas | 08/12/2024 | 10/12/2024 | 12/12/2024 |
 | 5 | Planejamento da Avaliação do Protótipo de Papel | Relato dos resultados do Storyboard e da Análise de Tarefas, Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados | 03/01/2025 | 05/01/2025 | 07/01/2025 |
@@ -35,23 +34,25 @@ Com base no novo plano de ensino da disciplina de Interação Humano-Computador 
 
 ### Entrega 1.
 
-Abaixo na Tabela 02, está apresentado o planejamento para a entrega 01 do projeto.
+Abaixo, na Tabela 02, está apresentado o planejamento para a entrega 01 do projeto.
 
 <p align="center"><b>Tabela 02</b> - Entrega 1. Planejamento do projeto e do Processo de Design </p>
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
-| Definir horários de reunião                                      | Início: 22/10<br>Fim: 24/10 | Carla              |           |                    |
-| Configurar MkDocs                                             | Início: 22/10<br>Fim: 23/10 | Carla              |           |                    |
-| Selecionar possíveis sites para o projeto                        | Início: 22/10<br>Fim: 25/10 | Carla, Eduarda, Gabriel, Davi e João Vitor |           |                    |
-| Definir e justificar site utilizado no projeto                   | Início: 25/10<br>Fim: 28/10 | Carla, Eduarda, Gabriel, Davi e João Vitor |           |                    |
-| Definir ferramentas                                              | Início: 25/10<br>Fim: 28/10 |             |           |                    |
-| Documentar equipe                                                | Início: 31/10<br>Fim: 05/11 | Carla |           |                    |
-| Definir o processo de Design do projeto                          | Início: <br> Fim: |       |           |                    |
-| Executar o planejamento do projeto                               | Início: 28/11<br>Fim: 09/11 | Davi           |           |                    |
-| Inserir termo de uso do site                                     | Início: 11/11<br>Fim: 12/11 | Vinícius           |           |                    |
-| Gravação da apresentação                                         | Início: 12/11<br>Fim: 12/11 | Gabriel Monteiro, Carla, Eduarda, Gabriel, Davi e João Vitor|           |                    |
-| Inserir cronograma                                    | Início: 05/11<br>Fim: 12/11 | Gabriel Monteiro   |           |                    |
+| Definir horários de reunião                                      | Início: 22/10<br>Fim: 24/10 | Carla              | 12/11     | Davi               |
+| Configurar MkDocs                                                | Início: 22/10<br>Fim: 23/10 | Carla              | 12/11     | Gabriel Monteiro   |
+| Selecionar possíveis sites para o projeto                        | Início: 22/10<br>Fim: 25/10 | Carla, Eduarda, Gabriel, Davi e João Vitor | 12/11     | Eduarda            |
+| Definir e justificar site utilizado no projeto                   | Início: 25/10<br>Fim: 28/10 | Carla, Eduarda, Gabriel, Davi e João Vitor | 12/11     | João Vitor         |
+| Definir ferramentas                                              | Início: 25/10<br>Fim: 28/10 | Davi               | 12/11     | Carla             |
+| Documentar equipe                                                | Início: 31/10<br>Fim: 05/11 | Carla              | 12/11     | Eduarda           |
+| Definir quadro de disponibilidade dos membros                    | Início: 03/11<br>Fim: 11/11 | Carla              | 12/11     | Gabriel Monteiro   |
+| Definir o processo de Design do projeto                          | Início: <br>Fim:            | Davi               | 12/11     | João Vitor        |
+| Executar o planejamento do projeto                               | Início: 28/11<br>Fim: 09/11 | Davi               | 12/11     | Carla             |
+| Inserir termo de uso do site                                     | Início: 11/11<br>Fim: 12/11 | Gabriel Monteiro   | 12/11     | Eduarda           |
+| Gravação da apresentação                                         | Início: 12/11<br>Fim: 12/11 | Gabriel Monteiro, Carla, Eduarda, Gabriel, Davi e João Vitor | 12/11     | Davi               |
+| Inserir cronograma                                               | Início: 05/11<br>Fim: 12/11 | Gabriel Monteiro   | 12/11     | João Vitor        |
+
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
 
 Na Tabela 03 abaixo é definido o que foi e o tempo utilizado para cumprir o planejado da Tabela 02.
@@ -62,17 +63,18 @@ Na Tabela 03 abaixo é definido o que foi e o tempo utilizado para cumprir o pla
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
-| Definir horários de reunião                                      | Início: 22/10<br>Fim: 24/10 | Carla              |           |                    |
-| Configurar MkDocs                                                | Início: 22/10<br>Fim: 23/10 | Carla              |           |                    |
-| Selecionar possíveis sites para o projeto                        | Início: 22/10<br>Fim: 25/10 | Carla, Eduarda, Gabriel, Davi e João Vitor |           |                    |
-| Definir e justificar site utilizado no projeto                   | Início: 25/10<br>Fim: 28/10 | Carla, Eduarda, Gabriel, Davi e João Vitor |           |                    |
-| Definir ferramentas                                              | Início: 25/10<br>Fim: 28/10 |                    |           |                    |
-| Documentar equipe                                                | Início: 31/10<br>Fim: 05/11 | Carla              |           |                    |
-| Definir o processo de Design do projeto                          | Início: <br>Fim:            |                    |           |                    |
-| Executar o planejamento do projeto                               | Início: 28/11<br>Fim: 09/11 | Davi               |           |                    |
-| Inserir termo de uso do site                                     | Início: 11/11<br>Fim: 12/11 | Vinícius           |           |                    |
-| Gravação da apresentação                                         | Início: 12/11<br>Fim: 12/11 | Gabriel Monteiro, Carla, Eduarda, Gabriel, Davi e João Vitor |           |                    |
-| Inserir cronograma                                               | Início: 05/11<br>Fim: 12/11 | Gabriel Monteiro   |           |                    |
+| Definir horários de reunião                                      | Início: 22/10<br>Fim: 24/10 | Carla              | 12/11     | Davi               |
+| Configurar MkDocs                                                | Início: 22/10<br>Fim: 23/10 | Carla              | 12/11     | Gabriel Monteiro   |
+| Selecionar possíveis sites para o projeto                        | Início: 22/10<br>Fim: 25/10 | Carla, Eduarda, Gabriel, Davi e João Vitor | 12/11     | Eduarda            |
+| Definir e justificar site utilizado no projeto                   | Início: 25/10<br>Fim: 28/10 | Carla, Eduarda, Gabriel, Davi e João Vitor | 12/11     | João Vitor         |
+| Definir ferramentas                                              | Início: 25/10<br>Fim: 28/10 | Davi               | 12/11     | Carla             |
+| Documentar equipe                                                | Início: 31/10<br>Fim: 05/11 | Carla              | 12/11     | Eduarda           |
+| Definir quadro de disponibilidade dos membros                    | Início: 03/11<br>Fim: 11/11 | Carla              | 12/11     | Gabriel Monteiro   |
+| Definir o processo de Design do projeto                          | Início: <br>Fim:            | Davi               | 12/11     | João Vitor        |
+| Executar o planejamento do projeto                               | Início: 28/11<br>Fim: 09/11 | Davi               | 12/11     | Carla             |
+| Inserir termo de uso do site                                     | Início: 11/11<br>Fim: 12/11 | Gabriel Monteiro   | 12/11     | Eduarda           |
+| Gravação da apresentação                                         | Início: 12/11<br>Fim: 12/11 | Gabriel Monteiro, Carla, Eduarda, Gabriel, Davi e João Vitor | 12/11     | Davi               |
+| Inserir cronograma                                               | Início: 05/11<br>Fim: 12/11 | Gabriel Monteiro   | 12/11     | João Vitor        |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
 

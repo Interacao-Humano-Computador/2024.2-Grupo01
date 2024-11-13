@@ -26,7 +26,7 @@ A Tabela 1 indica todos os sites avaliados pelo grupo, indicando o caminho de ca
             <th>Integrante responsável</th>
         </tr>
         <tr>
-            <td><a  href="#site-1">Site1</a></td>
+            <td><a  href="#cebraspe">Cebraspe</a></td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>
         <tr>
