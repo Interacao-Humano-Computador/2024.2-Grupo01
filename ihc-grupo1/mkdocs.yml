@@ -68,9 +68,12 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Apresentação:
+    - Entrega 1: Apresentacao/entrega1.md
   - Atas: 
     - Reunião 1: Atas/reuniao_1.md
   - Desenvolvimento:
+    - Cronograma: Desenvolvimento/Cronograma.md
     - Ferramentas: Desenvolvimento/ferramentas.md
     - Processo de Desing: Desenvolvimento/ProcessoDesing.md
     - Sites Avaliados: Desenvolvimento/sitesAvaliados.md

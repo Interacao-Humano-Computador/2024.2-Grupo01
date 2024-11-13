@@ -28,7 +28,7 @@ Para realizar a inspeção, o Grupo 01 utilizará um checklist específico elabo
 |  15   |                                                                               A gravação da reunião do grupo.                                                                               |    -     |        07/11        |
 |  16   |                                                                Vídeo de apresentação na categoria “  - listado” no youtube?                                                                 |    -     |        07/11        |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ### Conclusão
 <!-- A estrega está boa, mas foram encontrados alguns erros. Aqui vão algumas sugestões de melhoria:

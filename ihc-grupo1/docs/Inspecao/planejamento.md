@@ -50,7 +50,7 @@ A tabela 2 mostra o checklist da home e foi construído pela integrante [Eduarda
 <p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## ATAs
-A tabela 3 mostra o checklist das ATAS e foi construído pela integrante [Renata](https://github.com/Renatinha28).
+A tabela 3 mostra o checklist das ATAS e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda).
 
     Tabela 3: Checklist das ATAs
 |  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   |
@@ -66,7 +66,7 @@ A tabela 3 mostra o checklist das ATAS e foi construído pela integrante [Renata
 <p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Apresentação
-A tabela 4 mostra o checklist das apresentações e foi construído pela integrante [Renata](https://github.com/Renatinha28).
+A tabela 4 mostra o checklist das apresentações e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda).
 
     Tabela 4: Checklist das apresentações
 |  ID   |                                  Descrição                                   | Avaliação |                                                                   Referência                                                                   |
@@ -81,7 +81,7 @@ A tabela 4 mostra o checklist das apresentações e foi construído pela integra
 <p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Cronograma
-A tabela 5 mostra o checklist do cronograma do projeto e foi construído pela integrante [Renata](https://github.com/Renatinha28) e [João Vitor](https://github.com/Joa0V)
+A tabela 5 mostra o checklist do cronograma do projeto e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda) e [João Vitor](https://github.com/Joa0V)
 
      Tabela 5: Checklist do cronograma
 | ID  | Descrição da Pergunta                                                                               | Avaliação | Referência                                                                                              |
@@ -101,7 +101,7 @@ A tabela 5 mostra o checklist do cronograma do projeto e foi construído pela in
 <p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Disponibilidade
-A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído pela integrante [Renata](https://github.com/Renatinha28).
+A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda).
 
     Tabela 6: Checklist das disponibilidades
 |  ID   |                                  Descrição                                   | Avaliação |                                                                   Referência                                                                   |

@@ -65,14 +65,13 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
 
 
 ## Referência Bibliográfica / Bibliografia
-Figma disponível em: https://www.figma.com/
-
-Google Docs Disponível em:https://docs.google.com/document/u/0/?hl=pt-BR
-Github Disponível em:  https://github.com/
-Mkdocs Disponível em: https://www.mkdocs.org
-Vscode Disponível em: https://code.visualstudio.com/
-whatsapp Disponível em: https://web.whatsapp.com
-This Person does not exist Disponível em: https://thispersonnotexist.org/
+> Figma disponível em: https://www.figma.com/ <br>
+> Google Docs Disponível em:https://docs.google.com/document/u/0/?hl=pt-BR<br>
+> Github Disponível em:  https://github.com/<br>
+> Mkdocs Disponível em: https://www.mkdocs.org<br>
+> Vscode Disponível em: https://code.visualstudio.com/<br>
+> whatsapp Disponível em: https://web.whatsapp.com<br>
+> This Person does not exist Disponível em: https://thispersonnotexist.org/
 
 
 ## :round_pushpin: Histórico de Versão 
@@ -92,8 +91,7 @@ This Person does not exist Disponível em: https://thispersonnotexist.org/
             <td>Criação inicial</td>
             <td><a href="https://github.com/Jagaima">Davi</a></td>
             <td>03/11</td>
-            <td><a</a></td>
-            <td><a></a></td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
          </tr>    
         </table>
     </div>

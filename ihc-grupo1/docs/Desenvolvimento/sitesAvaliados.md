@@ -101,8 +101,7 @@ Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site da
             <td>Criação inicial e adição do site FAB</td>
             <td><a href="https://github.com/Jagaima">Davi</a></td>
             <td>10/11</td>
-            <td><a</a></td>
-            <td><a></a></td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
          </tr>    
         </table>
     </div>

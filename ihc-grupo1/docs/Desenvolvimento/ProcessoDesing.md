@@ -95,8 +95,8 @@ Nossa equipe irá utilizar o modelo de Mayhew, por estar amplamente detalhado ao
             <td>1.0</td>
             <td>Criação do documento e seleção do metódo </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td></td>
-            <td><a</a></td>
+            <td>12/11</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 </div>

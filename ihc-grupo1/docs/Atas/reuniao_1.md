@@ -46,7 +46,7 @@
         <td>1.0</td>
         <td>Criação inicial</td>
         <td><a href="https://github.com/ccarlaa">Carla</a></td>
-        <td><a href="https://github.com/"></a></td>
+        <td><a href="https://github.com/erteduarda"></a>Eduarda Tavares</td>
     </tr>
     </table>
 </div>
