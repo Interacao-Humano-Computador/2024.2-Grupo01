@@ -1,4 +1,4 @@
-site_name: grupo1
+site_name: Força Aérea
 
 repo_name: '2024.2-Grupo01'
 repo_url: https://github.com/Interacao-Humano-Computador/2024.2-Grupo01
@@ -16,8 +16,6 @@ theme:
   custom_dir: overrides
   name: material
   language: pt-BR
-  # logo: assets/imagens/logo.png
-  # favicon: assets/imagens/logo.png
 
   icon:
     repo: fontawesome/brands/github
@@ -46,16 +44,16 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: green
-      accent: orange
+      primary: indigo
+      accent: indigo
       toggle:
         icon: custom-icons/contrast-light
         name: Modo Claro
     
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: light green
-      accent: yellow
+      primary: light indigo
+      accent: indigo
       toggle:
         icon: custom-icons/contrast-dark
         name: Modo Escuro
@@ -70,5 +68,17 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-
-  
+  - Atas: 
+    - Reunião 1: Atas/reuniao_1.md
+  - Desenvolvimento:
+    - Ferramentas: Desenvolvimento/ferramentas.md
+    - Processo de Desing: Desenvolvimento/ProcessoDesing.md
+    - Sites Avaliados: Desenvolvimento/sitesAvaliados.md
+    - Site Avaliado: Desenvolvimento/SiteEscolhido.md
+    - Disponibilidade dos Integrantes: Desenvolvimento/disponibilidade.md
+  - Inspeção:
+    - Etapa 1: 
+      - Planejamento: Inspecao/planejamento.md
+      - Inspeção final: Inspecao/inspecaoFinal.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2.md
+     
