@@ -33,6 +33,9 @@ Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site da
     <a href="../../assets/execucao.pdf" target="_blank">Execução</a>
 </div>
 
+## Termo de uso do site
+[Termo-de-Uso-FAB](https://www2.fab.mil.br/cenipa/index.php/termo-de-uso-e-politica-de-privacidade)
+
 ## Referência Bibliográfica / Bibliografia
 
 BARBOSA, S D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro:

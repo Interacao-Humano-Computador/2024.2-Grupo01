@@ -26,7 +26,7 @@ A Tabela 1 indica todos os sites avaliados pelo grupo, indicando o caminho de ca
             <th>Integrante responsável</th>
         </tr>
         <tr>
-            <td><a  href="#site-1">Site1</a></td>
+            <td><a  href="#site-1">Cebraspe</a></td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>
         <tr>
@@ -78,7 +78,22 @@ Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site da
     <a href="../../assets/execucao_ita.pdf" target="_blank">Execução</a>
 </div>
 
+## Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe)
+O site do Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe) foi avaliado com base nas heurísticas de usabilidade de Nielsen, visando identificar e corrigir problemas para melhorar a experiência do usuário. O Cebraspe desempenha um papel importante na realização de concursos públicos e exames educacionais no Brasil, sendo um site amplamente utilizado por candidatos e interessados em processos seletivos.
 
+- **Relevância**: O site do Cebraspe é uma ferramenta central para acesso a informações de concursos e exames, atendendo a um público amplo de candidatos e instituições. Sua relevância se destaca pela utilidade no setor de educação e empregabilidade, sendo essencial para quem busca informações oficiais sobre processos seletivos no Brasil.
+  
+- **Base de usuários ampla**: O site é utilizado por uma gama diversa de usuários, incluindo candidatos a concursos e vestibulares, profissionais da área de educação e órgãos governamentais. A plataforma precisa, portanto, ser intuitiva e oferecer um suporte eficiente para este público variado.
+
+- **Funcionalidades**: Entre as funcionalidades disponíveis, o site oferece acesso a editais, resultados, inscrições e acompanhamento de processos seletivos. Contudo, a análise revelou que certas funcionalidades podem ser aprimoradas, como a navegação e o acesso rápido a informações essenciais, além de melhorias no design para maior clareza e praticidade.
+
+- **Contribuição acadêmica**: O site do Cebraspe representa uma oportunidade relevante para estudos de usabilidade e design de interação, proporcionando um campo de aplicação prática para o aprimoramento de requisitos de software. Melhorias na interface e nas funcionalidades do site podem resultar em uma experiência de usuário mais eficaz e agradável, beneficiando tanto a instituição quanto seus usuários.
+
+Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site do [Cebraspe](https://www.cebraspe.org.br/).
+
+<div align="center">                                                                        
+    <a href="../../assets/AvaliacaoCebraspe.pdf" target="_blank">Avaliação</a>
+    </div>
 
 ## Referência Bibliográfica / Bibliografia
 [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf)
