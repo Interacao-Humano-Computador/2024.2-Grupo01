@@ -1,7 +1,6 @@
 # :mag_right: Grupo 1 - Interação Humano Computador
 
-![fab](https://github.com/user-attachments/assets/86656808-f120-4f50-a44b-57617fd1bf15)
-
+![image](https://github.com/user-attachments/assets/9c2f13db-dcb1-4d97-9113-4001b500bd12)
 
 ## :round_pushpin: Sobre o projeto:
 
