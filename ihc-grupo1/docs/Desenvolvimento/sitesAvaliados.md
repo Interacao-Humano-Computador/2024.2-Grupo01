@@ -26,10 +26,6 @@ A Tabela 1 indica todos os sites avaliados pelo grupo, indicando o caminho de ca
             <th>Integrante responsável</th>
         </tr>
         <tr>
-            <td><a  href="#site-1">Site1</a></td>
-            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
-        </tr>
-        <tr>
             <td><a href="#site-2">BlueSky</a></td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
@@ -40,10 +36,6 @@ A Tabela 1 indica todos os sites avaliados pelo grupo, indicando o caminho de ca
         <tr>
             <td><a href="#site-4">ITA</a></td>
             <td><a href="https://github.com/erteduarda">Eduarda</a></td>
-        </tr>
-        <tr>
-            <td><a href="#site-5">Site5</a></td>
-            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 
@@ -115,7 +107,7 @@ O Bluesky Social é uma plataforma de mídia social voltada para a construção 
             <td>09/11</td>
             <td>1.0</td>
             <td>Criação inicial e adição do site FAB</td>
-            <td><a href="https://github.com/Jagaima">Davi</a></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>10/11</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
          </tr>
@@ -124,8 +116,8 @@ O Bluesky Social é uma plataforma de mídia social voltada para a construção 
             <td>2.0</td>
             <td>Adição do BlueSky</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>19/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
          </tr>       
         </table>
     </div>

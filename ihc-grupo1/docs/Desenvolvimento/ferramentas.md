@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A fim de documentar o desenvolvimento do nosso projeto e definir ferramentas para nosso projeto na disciplina de Interação humano computador, listamos as ferramentas que serão utilizadas no projeto como um todo, visando sua completude. 
+A fim de documentar o desenvolvimento do nosso projeto e definir ferramentas para nosso projeto, listamos as ferramentas que serão utilizadas no projeto como um todo, visando sua completude. 
 
 ## Ferramentas do Projeto
 
@@ -58,20 +58,34 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
                 <td>YouTube</td>
                 <td>Referência de tutoriais e conteúdos técnicos relacionados ao projeto.</td>
             </tr>
+            <tr>
+                <td><img src="../../assets/images/draw.png"  style="width: 10%; height: auto; object-fit: cover;"></td>
+                <td>Draw.io</td>
+                <td>Criação de modelos ou histórias de usuário.</td>
+            </tr>
+            <tr>
+                <td><img src="../../assets/images/teams.jpeg"  style="width: 10%; height: auto; object-fit: cover;"></td>
+                <td>Microsoft Teams</td>
+                <td>Realização e gravação das Reuniões do grupo.</td>
+            </tr>
         </tbody>
     </table>
     
 </div>
 
+## Referência á Bibliografia
+> Figma disponível em: https://www.figma.com/  Acessado dia 14/11/2024 ás 22:08<br> 
+> Google Docs Disponível em:https://docs.google.com/document/u/0/?hl=pt-BR Acessado dia 14/11/2024 ás 22:10<br> 
+> Github Disponível em:  https://github.com/ Acessado dia 14/11/2024 ás 22:08 <br> 
+> Mkdocs Disponível em: https://www.mkdocs.org Acessado dia 14/11/2024 ás 22:08 <br> 
+> Vscode Disponível em: https://code.visualstudio.com/ Acessado dia 14/11/2024 ás 22:08 <br> 
+> whatsapp Disponível em: https://web.whatsapp.com Acessado dia 14/11/2024 ás 22:08 <br> 
+> This Person does not exist Disponível em: https://thispersonnotexist.org/ Acessado dia 14/11/2024 ás 22:15 <br>
+> Youtube Disponível em: https://www.youtube.com/ Acessado dia 14/11/2024 ás 22:10 <br>
+> Draw.io Disponível em: https://app.diagrams.net/ Acessado dia 14/11/2024 ás 22:11 <br>
+> Microsoft Teams disponível em: https://www.microsoft.com/pt-br/microsoft-teams/log-in Acessado dia 14/11/2024 ás 22:12 <br>
 
-## Referência Bibliográfica / Bibliografia
-> Figma disponível em: https://www.figma.com/ <br>
-> Google Docs Disponível em:https://docs.google.com/document/u/0/?hl=pt-BR<br>
-> Github Disponível em:  https://github.com/<br>
-> Mkdocs Disponível em: https://www.mkdocs.org<br>
-> Vscode Disponível em: https://code.visualstudio.com/<br>
-> whatsapp Disponível em: https://web.whatsapp.com<br>
-> This Person does not exist Disponível em: https://thispersonnotexist.org/
+
 
 
 ## :round_pushpin: Histórico de Versão 
@@ -92,6 +106,14 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
             <td><a href="https://github.com/Jagaima">Davi</a></td>
             <td>03/11</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+         </tr>    
+        <tr>
+            <td>19/11</td>
+            <td>2.0</td>
+            <td>Adição de ferramentas</td>
+            <td><a href="https://github.com/Jagaima">Davi</a></td>
+            <td>**/11</td>
+            <td><a href="https://github.com/"></a></td>
          </tr>    
         </table>
     </div>

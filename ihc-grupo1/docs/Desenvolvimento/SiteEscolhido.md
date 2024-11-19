@@ -69,8 +69,8 @@ go.pdf
             <td>2.0</td>
             <td>Atualização do site escolhido </td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
-            <td>**/11</td>
-            <td><a href="https://github.com/"></a></td>
+            <td>19/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>
