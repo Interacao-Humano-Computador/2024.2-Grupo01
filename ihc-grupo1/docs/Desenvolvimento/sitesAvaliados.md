@@ -30,7 +30,7 @@ A Tabela 1 indica todos os sites avaliados pelo grupo, indicando o caminho de ca
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>
         <tr>
-            <td><a href="#site-2">Site2</a></td>
+            <td><a href="#site-2">BlueSky</a></td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
         <tr>
@@ -78,7 +78,23 @@ Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site da
     <a href="../../assets/execucao_ita.pdf" target="_blank">Execução</a>
 </div>
 
+## Bluesky Social
 
+O Bluesky Social é uma plataforma de mídia social voltada para a construção de um ecossistema descentralizado, promovendo maior controle e liberdade para os usuários. Entre os pontos que justificam a escolha do site do Bluesky para o projeto da disciplina Interação Humano-Computador, destacam-se:
+
+- Relevância: O site do Bluesky desempenha um papel fundamental ao apresentar informações sobre a plataforma, seu conceito inovador de descentralização e suas funcionalidades. É uma referência importante para o público que busca compreender a missão e os valores da rede social, além de acompanhar atualizações e novidades.
+
+- Base de usuários ampla: O site atende a uma comunidade diversificada, incluindo usuários interessados em explorar novas redes sociais, desenvolvedores engajados com o conceito de descentralização e entusiastas de tecnologia. Sua audiência engloba tanto o público geral quanto um público técnico, ampliando sua relevância e escopo de uso.
+
+- Funcionalidades: O site apresenta seções como informações sobre o protocolo descentralizado, notícias, convites para acesso à plataforma e detalhes sobre seu funcionamento. No entanto, existem oportunidades de melhoria, especialmente na organização da informação e na clareza da navegação, que podem otimizar a experiência do usuário.
+
+- Contribuição acadêmica: Por ser uma plataforma emergente e inovadora, o Bluesky representa uma excelente oportunidade para análise e proposição de melhorias na usabilidade e na interface de sistemas modernos. Avaliar o site com base nas heurísticas permite contribuir para a pesquisa acadêmica na área de design e usabilidade, além de gerar insights práticos sobre como melhorar a interação humano-computador no contexto de redes sociais.
+
+<div align="center">                                                                        
+    <a href="../../assets/planejamento_bluesky.pdf" target="_blank">Planejamento</a>     
+    e
+    <a href="../../assets/avaliacao_bluesky.pdf" target="_blank">Execução</a>
+</div>
 
 ## Referência Bibliográfica / Bibliografia
 [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf)
@@ -102,6 +118,14 @@ Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site da
             <td><a href="https://github.com/Jagaima">Davi</a></td>
             <td>10/11</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-         </tr>    
+         </tr>
+         <tr>
+            <td>19/11</td>
+            <td>2.0</td>
+            <td>Adição do BlueSky</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td></td>
+            <td><a href="https://github.com/"></a></td>
+         </tr>       
         </table>
     </div>

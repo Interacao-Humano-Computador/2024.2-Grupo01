@@ -1,4 +1,4 @@
-site_name: Força Aérea
+site_name: BlueSky
 
 repo_name: '2024.2-Grupo01'
 repo_url: https://github.com/Interacao-Humano-Computador/2024.2-Grupo01
@@ -44,16 +44,16 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: blue
+      accent: blue
       toggle:
         icon: custom-icons/contrast-light
         name: Modo Claro
     
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: light indigo
-      accent: indigo
+      primary: light blue
+      accent: blue
       toggle:
         icon: custom-icons/contrast-dark
         name: Modo Escuro

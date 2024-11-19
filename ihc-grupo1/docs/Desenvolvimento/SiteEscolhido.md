@@ -1,6 +1,6 @@
 ## Introdução
 
-Neste documento são apresentados os critérios e motivações para a escolha do site da **FAB**, escolhido pelo grupo para o projeto da disciplina de Requisitos de Software. Também será apresentado a execucção de sua avaliação com o Framework DECIDE. 
+Neste documento são apresentados os critérios e motivações para a escolha do site da **BlueSky**, escolhido pelo grupo para o projeto da disciplina de Requisitos de Software. Também será apresentado a execucção de sua avaliação com o Framework DECIDE. 
 
 ## Objetivo
 
@@ -13,19 +13,20 @@ Para decidir o site foi utilizado o Framework DECIDE e para execução as heurí
 
 ## Critérios para escolha
 
-- Aplicativo governamental
-- Complexidade do aplicativo condizente com a disciplina
+- Site open source
+- Complexidade do site condizente com a disciplina
 - Site observável e utilizável pelo público
 - Não ter sido utilizado em trabalhos anteriores da disciplina
 
 ## Motivos pra escolha: 
 
-- Relevância: O site é uma fonte de informações primordial para o meio jornalistico, pois é aqui que os mesmos disponibilizam suas notícias para todos os veículos de mídia. 
-- Base de usuários ampla: O site possui funções tanto para usuários que compõe o corpo militar (como informações monetárias) até para civis, com direcionamento ao alistamento e uma rádio da própria FAB.
-- Funcionalidades: O site possui diversas funcionalidades (algumas não funcionando) que podem ter seu modo de funcionamento repensado para melhor intuitividade. 
-- Contribuição acadêmica: Por se tratar de um software governamental aparentemente com baixa manutenção mas de uma base aceitavel de uso e de livre acesso pelos estudantes da UNB, se torna ideal em seu estágio atual sua pesquisa. 
+- Relevância: O site do Bluesky desempenha um papel fundamental ao apresentar informações sobre a plataforma, seu conceito inovador de descentralização e suas funcionalidades. É uma referência importante para o público que busca compreender a missão e os valores da rede social, além de acompanhar atualizações e novidades.
 
-Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site da [FAB](https://www.fab.mil.br/index.php). 
+- Base de usuários ampla: O site atende a uma comunidade diversificada, incluindo usuários interessados em explorar novas redes sociais, desenvolvedores engajados com o conceito de descentralização e entusiastas de tecnologia. Sua audiência engloba tanto o público geral quanto um público técnico, ampliando sua relevância e escopo de uso.
+
+- Funcionalidades: O site apresenta seções como informações sobre o protocolo descentralizado, notícias, convites para acesso à plataforma e detalhes sobre seu funcionamento. No entanto, existem oportunidades de melhoria, especialmente na organização da informação e na clareza da navegação, que podem otimizar a experiência do usuário.
+
+- Contribuição acadêmica: Por ser uma plataforma emergente e inovadora, o Bluesky representa uma excelente oportunidade para análise e proposição de melhorias na usabilidade e na interface de sistemas modernos. Avaliar o site com base nas heurísticas permite contribuir para a pesquisa acadêmica na área de design e usabilidade, além de gerar insights práticos sobre como melhorar a interação humano-computador no contexto de redes sociais.
 
 <div align="center">                                                                        
     <a href="../../assets/avaliacao.pdf" target="_blank">Avaliação</a>     
@@ -62,6 +63,14 @@ go.pdf
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>12/11</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>19/11</td>
+            <td>2.0</td>
+            <td>Atualização do site escolhido </td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>**/11</td>
+            <td><a href="https://github.com/"></a></td>
         </tr>
     </table>
 </div>
