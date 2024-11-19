@@ -1,7 +1,7 @@
 # :mag_right: Grupo 1 - Interação Humano Computador
 
 <div align="center">
-    <img src='./assets/images/fab.jpeg' alt='logo'>
+    <img src='./assets/images/logo.png' alt='logo' width='400'>
 </div>
 
 ## :round_pushpin: Sobre o projeto
@@ -79,13 +79,21 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
         <td><a href="https://github.com/ccarlaa">Carla</a></td>
         <td><a href="https://github.com/erteduarda"></a>Eduarda Tavares</td>
     </tr>
-        <tr>
+    <tr>
         <td>11/11/2024</td>
         <td>**/11/2024</td>
         <td>1.2</td>
         <td>Adicionar logo do site</td>
         <td><a href="https://github.com/ccarlaa">Carla</a></td>
         <td><a href="https://github.com/erteduarda"></a>Eduarda Tavares</td>
+    </tr>
+        <tr>
+        <td>19/11/2024</td>
+        <td>**/11/2024</td>
+        <td>2.0</td>
+        <td>Atualizar logo do site</td>
+        <td><a href="https://github.com/ccarlaa">Carla</a></td>
+        <td><a href="https://github.com/"></a></td>
     </tr>
     </table>
 </div>
