@@ -2,12 +2,12 @@
 
 ## Introdução
 
-A elaboração desse cronograma é fundamental para o andamento e planejamento do projeto, com ele temos uma dimensão temporal das entregas e do ritmo e desempenho da Carla, Davi, Eduarda, Gabriel e João Vitor, o que fornece uma direção clara do modo de execução das tarefas e torna possível uma melhor gestão de tempo. Ademais, o cronograma criado pela Carla, Davi, Eduarda, Gabriel e João Vitor visa oferecer uma visão ampla do progresso do projeto, com datas de início e término definidas para cada atividade, ajudando a evitar atrasos e garantir um acompanhamento eficaz, dado que orienta e facilita o planejamento, a organização e a distribuição das atividades a serem realizadas e entregues ao longo da disciplina de  "Interação Humano Computador", ministrado pelo professor André Barros de Sales na FCTE - UnB, no período letivo de 2024.2. 
+A elaboração desse cronograma é fundamental para o andamento e planejamento do projeto, com ele temos uma dimensão temporal das entregas e do ritmo e desempenho da equipe, o que fornece uma direção clara do modo de execução das tarefas e torna possível uma melhor gestão de tempo. Ademais, o cronograma criado pela equipe visa oferecer uma visão ampla do progresso do projeto, com datas de início e término definidas para cada atividade, ajudando a evitar atrasos e garantir um acompanhamento eficaz, dado que orienta e facilita o planejamento, a organização e a distribuição das atividades a serem realizadas e entregues ao longo da disciplina de  "Interação Humano Computador", ministrado pelo professor André Barros de Sales na FCTE - UnB, no período letivo de 2024.2. 
 
 
 ## Metodologia 
 
-Para elaborar o cronograma das etapas de entrega do projeto, seguimos as datas estipuladas no plano de ensino fornecido pelo professor e também utilizamos como referência cronogramas dos projetos "Bilheteria Digital" e "Ventoy", feitas em semestres anteriores. Inicialmente, definimos o escopo do projeto e identificamos os objetivos de cada entrega, logo em seguida, detalhamos essas entregas em atividades e tarefas específicas, atribuindo responsabilidades a cada membro da Carla, Davi, Eduarda, Gabriel e João Vitor. A estimativa de duração de cada tarefa considerou os prazos de cada etapa, reservando um tempo extra sempre que possível para imprevistos. Essa metodologia permitiu não só a criação de um cronograma, mas também contribuiu para a organização eficiente do projeto ao longo do semestre.
+Para elaborar o cronograma das etapas de entrega do projeto, seguimos as datas estipuladas no plano de ensino fornecido pelo professor e também utilizamos como referência cronogramas dos projetos "Bilheteria Digital" e "Ventoy", feitas em semestres anteriores. Inicialmente, definimos o escopo do projeto e identificamos os objetivos de cada entrega, logo em seguida, detalhamos essas entregas em atividades e tarefas específicas, atribuindo responsabilidades a cada membro da equipe. A estimativa de duração de cada tarefa considerou os prazos de cada etapa, reservando um tempo extra sempre que possível para imprevistos. Essa metodologia permitiu não só a criação de um cronograma, mas também contribuiu para a organização eficiente do projeto ao longo do semestre.
 
 ### Cronograma geral de entregas
 
@@ -50,7 +50,7 @@ Abaixo, na Tabela 02, está apresentado o planejamento para a entrega 01 do proj
 | Selecionar possíveis sites para o projeto      | Início: 22/10<br>Fim: 25/10 | Carla, Eduarda, Gabriel, Davi e João Vitor                   | 12/11   | João Vitor |
 | Definir e justificar site utilizado no projeto | Início: 25/10<br>Fim: 28/10 | Carla, Eduarda, Gabriel, Davi e João Vitor                   | 12/11   | Eduarda    |
 | Definir ferramentas                            | Início: 25/10<br>Fim: 28/10 | Davi                                                         | 12/11   | João Vitor |
-| Documentar Carla, Davi, Eduarda, Gabriel e João Vitor                              | Início: 31/10<br>Fim: 05/11 | Carla                                                        | 12/11   | Eduarda    |
+| Documentar equipe                              | Início: 31/10<br>Fim: 05/11 | Carla                                                        | 12/11   | Eduarda    |
 | Definir quadro de disponibilidade dos membros  | Início: 03/11<br>Fim: 11/11 | Carla                                                        | 12/11   | João Vitor |
 | Definir o processo de Design do projeto        | Início: <br>Fim:            | Davi                                                         | 12/11   | Eduarda    |
 | Executar o planejamento do projeto             | Início: 28/11<br>Fim: 09/11 | Davi                                                         | 12/11   | João Vitor |
