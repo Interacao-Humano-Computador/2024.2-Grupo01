@@ -36,13 +36,13 @@ Para decidir o site foi utilizado o Framework DECIDE e para execução as heurí
 
 ## Referência Bibliográfica / Bibliografia
 
-BARBOSA, S D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro:
+>BARBOSA, S D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro:
 Elsevier, 2011.
 Cristiano Maciel, José Luis T. Nogueira, Leandro Neumann Ciuffo, Ana Cristina
 Bicharra Garcia. Avaliação Heurística de sítios na Web. Marcelohsantos. Disponível
 em:
-https://marcelohsantos.com/aulas/include/2022-1/projeto_Interface_Usuario/Aula7_arti
-go.pdf
+<https://marcelohsantos.com/aulas/include/2022-1/projeto_Interface_Usuario/Aula7_arti
+go.pdf></br>
 
 ## :round_pushpin: Histórico de Versão 
 
