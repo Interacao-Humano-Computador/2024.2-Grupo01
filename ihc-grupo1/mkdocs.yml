@@ -84,4 +84,5 @@ nav:
       - Planejamento: Inspecao/planejamento.md
       - Inspeção final: Inspecao/inspecaoFinal.md
       - Inspeção Grupo 02: Inspecao/inspecaoGrupo2.md
-     
+  - Análise de Requisitos: 
+    - Aspectos Éticos: AnaliseRequisitos/AspectosEticos.md
