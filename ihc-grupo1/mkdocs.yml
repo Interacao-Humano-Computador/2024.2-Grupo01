@@ -59,6 +59,9 @@ theme:
         name: Modo Escuro
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -86,3 +89,5 @@ nav:
       - Inspeção Grupo 02: Inspecao/inspecaoGrupo2.md
   - Análise de Requisitos: 
     - Aspectos Éticos: AnaliseRequisitos/AspectosEticos.md
+    - Análise Hierárquica de Tarefas: AnaliseRequisitos/HTA.md
+
