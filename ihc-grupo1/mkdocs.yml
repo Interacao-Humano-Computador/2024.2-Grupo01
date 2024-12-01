@@ -93,6 +93,7 @@ nav:
     - Questionario Perfil de Usuário: AnaliseRequisitos/PerfilUser.md
     - Perfil de Usuário: AnaliseRequisitos/Resultado.md
     - Personas: AnaliseRequisitos/Personas.md
+    - Cenarios: AnaliseRequisitos/Cenarios.md
     - Analise de tarefas:
       - GOMS: AnaliseRequisitos/GOMS.md
       - HTA: AnaliseRequisitos/HTA.md
