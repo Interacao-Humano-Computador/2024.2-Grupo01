@@ -90,9 +90,9 @@ nav:
       - Inspeção Grupo 02: Inspecao/inspecaoGrupo2.md
   - Análise de Requisitos: 
     - Aspectos Éticos: AnaliseRequisitos/AspectosEticos.md
-    - Análise Hierárquica de Tarefas: AnaliseRequisitos/HTA.md
     - Questionario Perfil de Usuário: AnaliseRequisitos/PerfilUser.md
     - Perfil de Usuário: AnaliseRequisitos/Resultado.md
     - Personas: AnaliseRequisitos/Personas.md
     - Analise de tarefas:
       - GOMS: AnaliseRequisitos/GOMS.md
+      - HTA: AnaliseRequisitos/HTA.md
