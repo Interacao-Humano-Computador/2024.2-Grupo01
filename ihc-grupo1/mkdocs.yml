@@ -59,6 +59,9 @@ theme:
         name: Modo Escuro
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -92,3 +95,4 @@ nav:
     - Personas: AnaliseRequisitos/Personas.md
     - Analise de tarefas:
       - GOMS: AnaliseRequisitos/GOMS.md
+      - HTA: AnaliseRequisitos/HTA.md

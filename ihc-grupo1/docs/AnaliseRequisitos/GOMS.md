@@ -155,6 +155,26 @@ GOAL 4: Confirmar que o like foi registrado
     OP 4.1: Observar a mudança visual no ícone (mudança de cor ou animação)
     OP 4.2: Verificar o aumento no contador de likes do post
 ```
+### Tarefa 6: Envio de mensagens privadas
+
+```
+GOAL 0: Acessar a aba de chat
+    OP 0.1: Localizar o ícone ou aba correspondente ao chat.
+    OP 0.2: Clicar no ícone/aba.
+
+GOAL 1: Selecionar conversa existente
+    OP 1.1: Identificar a conversa na lista de chats.
+    OP 1.2: Clicar na conversa para abri-la.
+
+GOAL 2: Criar um novo chat
+    OP 2.1: Localizar e clicar no botão para criar um novo chat.
+    OP 2.2: Digitar o nome ou identificador do usuário no campo de busca.
+    op 2.3: Selecionar o usuário desejado.
+
+GOAL 3: Enviar mensagem
+    OP 3.1: Digitar o texto no campo de input.
+    OP 3.2 Enviar a mensagem clicando no botão ou pressionando "Enter".
+```
 
 ## Referência Bibliográfica
 
@@ -183,6 +203,14 @@ GOAL 4: Confirmar que o like foi registrado
             <td>1.0</td>
             <td>Criação do documento e de 5 tarefas. </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>01/12</td>
+            <td><a></a></td>
+        </tr>
+        <tr>
+            <td>01/12</td>
+            <td>1.1</td>
+            <td>Adiciona envio de mensagens privadas. </td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>01/12</td>
             <td><a></a></td>
         </tr>
