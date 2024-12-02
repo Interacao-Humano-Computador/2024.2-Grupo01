@@ -83,6 +83,32 @@ Tabela 1: Análise da HTA - Envio de mensagens privadas. Autor: Carla A. C. Ribe
 </p>
 </div>
 
+### 2. Criação de lista de usuário
+
+A seguir, figura e tabela resultados da análise hierárquica da tarefa de criação de listas de usuário.
+
+<figure markdown="span" align="center">
+  ![legenda](../assets/images/hta-list.png){ width="600" align="center" }
+  <figcaption>Imagem 2: Diagrama HTA - Criação de Listas de Usuário. <br/> Autor: João Ribeiro.</figcaption>
+</figure>
+
+| **Objetivos / operações** | **problemas e recomendações** |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Criar uma nova lista de perfis de interesse 1>2              | **plano:** definir informações iniciais da lista de usuários e após Adicionar perfis à lista<br>**input:** nome, descrição e avatar da lista e perfis de interesse<br>**feedback:** a nova lista criada é apresentada na página de listas de usuário |
+| 1. Definir informações iniciais da lista de usuários  1+2       | **plano:** informar nome e descrição da lista e após definir avatar da lista                                                            |
+| 1.1 Informar nome e descrição da lista                          | **input:** nome e descrição da lista                                                                                                    |
+| 1.2 Definir avatar da lista 1/2                                 |                                                                                                                                         |
+| 1.2.1 Deixar o avatar padrão                                    |                                                                                                                                         |
+| 1.2.2 Escolher uma imagem do sistema para ser o avatar da lista | **input:** arquivo da imagem                                                                                                            |
+| 2. Adicionar perfis à lista 1 > 2                               | **plano:** procurar por perfil de interesse e depois adiciona-lo à lista                                                                |
+| 2.1 Procurar por perfil de interesse                            | **input:** nome ou parte do nome do perfil                                                                                              |
+| 2.2 Adicionar perfil de interesse à lista de usuários           | **recomendação:** diferenciar os botões 'adicionar' e 'remover' por cores                                                               |
+
+<p align='center'>
+Tabela 2: Análise da HTA - Criação de Listas de Usuário. Autor: João Ribeiro.
+</p>
+
+
 ## Bibliografica
 
 
@@ -109,6 +135,14 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>**/12</td>
             <td><a href="https://github.com/"></a></td>
+        </tr>
+        <tr>
+            <td>02/12</td>
+            <td>1.1</td>
+            <td>Adicionando criação de lista de usuários</td>
+            <td><a href="https://github.com/JoaoV">João Vitor</a></td>
+            <td></td>
+            <td><a></a></td>
         </tr>
     </table>
 </div>

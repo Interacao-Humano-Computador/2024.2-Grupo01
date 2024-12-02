@@ -176,6 +176,31 @@ GOAL 3: Enviar mensagem
     OP 3.2 Enviar a mensagem clicando no botão ou pressionando "Enter".
 ```
 
+### Tarefa 7: Criar lista de usuários
+
+```
+GOAL 0: Criar lista de perfis de interesse
+
+	GOAL 1: Ir à tela de criação da lista
+		OP 1.0: Clicar no botão 'Listas' na barra lateral
+		OP 1.1: Clicar no botão 'Novo' na seção superior da tela
+
+	GOAL 2: Definir informações iniciais da lista de usuários
+		OP 2.0: Escrever o nome da lista
+		OP 2.1: Escrever descrição da lista
+		OP 2.2: Definir uma imagem de avatar para a lista
+			OP 2.2.0: Carregar uma imagem do sistema ao site
+		OP 2.3: Salvar informações iniciais da lista de usuários
+
+	GOAL 3: Adicionar perfis à lista
+		OP 3.0: Clicar no botão 'About' na seção superior da tela
+		OP 3.1: Clicar no botão 'Adicionar'
+		OP 3.2: Buscar por usuários
+			OP 3.2.0: Escrever o nome ou parte do nome de um perfil de interesse
+		OP 3.3: Clicar no botão 'adicionar' ao lado do perfil de interesse
+		OP 3.4: Clicar no botão 'Feito'
+```
+
 ## Referência Bibliográfica
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -212,6 +237,14 @@ GOAL 3: Enviar mensagem
             <td>Adiciona envio de mensagens privadas. </td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>01/12</td>
+            <td><a></a></td>
+        </tr>
+        <tr>
+            <td>02/12</td>
+            <td>1.2</td>
+            <td>Adicionando criação de lista de usuários</td>
+            <td><a href="https://github.com/JoaoV">João Vitor</a></td>
+            <td></td>
             <td><a></a></td>
         </tr>
     </table>
