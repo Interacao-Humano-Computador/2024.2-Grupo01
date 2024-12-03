@@ -305,7 +305,7 @@ GOAL 4: Confirmar que está seguindo o usuário
             <td>03/12</td>
             <td>1.3</td>
             <td>Adicionando compartilhar um post e seguir um novo usuário</td>
-            <td><a href="https://github.com/JoaoV">João Vitor</a></td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
             <td></td>
             <td><a></a></td>
         </tr>
