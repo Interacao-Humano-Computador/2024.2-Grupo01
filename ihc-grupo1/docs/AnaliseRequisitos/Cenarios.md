@@ -52,6 +52,28 @@ Logo depois o processo de criação, Fernanda percebe que acabou por remover sem
 
 Passadas algumas horas, Fernanda volta à plataforma e consome publicações presentes no feed gerado a partir da lista criada anteriormente. Ela está satisfeita, não lhe demandou tempo demais, propiciou acesso direto a publicações de elevado interesse no momento e, como bônus, deixou seu compartilhamento com amigos mais fácil. 
 
+### **Cenário 4: Divulgando informações importantes para uma grande audiência**
+
+**Atores:** Mariana (influenciadora digital e ativista ambiental)
+
+Mariana, uma influenciadora digital com foco em sustentabilidade e meio ambiente, possui uma base de seguidores significativa no BlueSky. Ela acaba de receber informações cruciais sobre um novo projeto de lei que pode impactar negativamente áreas de preservação ambiental em sua região. Reconhecendo a urgência da situação, Mariana decide usar sua plataforma no BlueSky para alertar seus seguidores e mobilizar apoio.
+
+Mariana acessa o BlueSky através de seu smartphone. Ao entrar em sua conta, ela imediatamente clica no botão de criar novo post, localizado de forma proeminente na interface principal. No campo de texto, ela começa a digitar uma mensagem concisa, mas impactante:
+
+"URGENTE: Novo projeto de lei ameaça nossas áreas de preservação! Precisamos agir agora!"
+
+Em seguida, ela adiciona um breve resumo dos pontos principais do projeto de lei e seus possíveis impactos. Mariana opta por usar a funcionalidade de thread do BlueSky, permitindo que ela divida a informação em partes mais digeríveis.
+
+Para aumentar o alcance e a visibilidade de sua postagem, Mariana utiliza hashtags relevantes como #MeioAmbiente, #Preservação e #AçãoUrgente. Ela também anexa uma imagem impactante de uma área de preservação, usando a função de upload de mídia do BlueSky.
+
+Antes de publicar, Mariana revisa cuidadosamente o conteúdo para garantir precisão e clareza. Satisfeita, ela pressiona o botão "Publicar". O BlueSky exibe uma animação confirmando que o post foi enviado com sucesso.
+
+Imediatamente após a publicação, Mariana nota um aumento significativo nas notificações. Ela utiliza a função de análise de engajamento do BlueSky para monitorar o alcance de sua postagem. Vendo que o post está ganhando tração rapidamente, ela decide usar a função de fixar post, garantindo que a informação permaneça no topo de seu perfil.
+
+Para ampliar ainda mais o alcance, Mariana usa a função de compartilhamento direto do BlueSky para enviar o post para outros influenciadores e organizações ambientais em sua rede. Ela também responde a comentários e perguntas dos seguidores, utilizando a função de resposta rápida do BlueSky.
+
+Ao longo do dia, Mariana continua a atualizar a thread com novas informações e formas de ação, aproveitando a capacidade do BlueSky de editar e adicionar conteúdo a posts existentes. Ela se sente satisfeita por ter conseguido mobilizar rapidamente sua audiência para uma causa importante, graças às ferramentas eficientes de comunicação e engajamento oferecidas pelo BlueSky.
+
 ## Referência Bibliográfica
 
 > 1. <a name="1"></a>Referência: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
@@ -91,6 +113,14 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td>1.2</td>
             <td> Adição do 3º cenário</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.3</td>
+            <td> Adição do 4º cenário</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
             <td></td>
             <td><a></a></td>
         </tr>
