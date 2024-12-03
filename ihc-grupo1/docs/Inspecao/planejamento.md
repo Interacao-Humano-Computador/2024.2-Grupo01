@@ -31,7 +31,7 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 | Apps Avaliados  |  1.4   |             João Ribeiro              |               Eduarda               |
 |  App escolhido  |  1.0   |             João Ribeiro              |               Eduarda               |
 
-<p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Home
 A tabela 2 mostra o checklist da home e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda).
@@ -39,15 +39,15 @@ A tabela 2 mostra o checklist da home e foi construído pela integrante [Eduarda
     Tabela 2: Checklist da home
 |  ID   |                                  Descrição                                   | Avaliação |                                                                   Referência                                                                   |
 | :---: | :--------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|  01   |      Apresenta os integrantes do grupo com foto e nome, sem matrícula ?      |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  02   |             O gitPages possui uma opção de contraste de cores ?              |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  03   |                  Possui o histórico de versão padronizado ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  04   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  05   |                    Possui referência e/ou bibliografia ?                     |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  06   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  07   |                           Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  01   |      Apresenta os integrantes do grupo com foto e nome, sem matrícula ?      |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  02   |             O gitPages possui uma opção de contraste de cores ?              |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  03   |                  Possui o histórico de versão padronizado ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  04   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  05   |                    Possui referência e/ou bibliografia ?                     |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  06   | As tabelas ou imagens possuem legenda e Autor? Elas são chamadas nos textos? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  07   |                           Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
 
-<p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## ATAs
 A tabela 3 mostra o checklist das ATAS e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda).
@@ -55,15 +55,15 @@ A tabela 3 mostra o checklist das ATAS e foi construído pela integrante [Eduard
     Tabela 3: Checklist das ATAs
 |  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   |
 | :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|  08   |                                 Possui o histórico de versão padronizado ?                                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  09   |                                 Possui o(s) autor(es) e o(s) revisor(es) ?                                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  10   |                                    Possui referência e/ou bibliografia ?                                    |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  11   |                As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos?                 |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  12   |                                           Possui uma introdução ?                                           |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  13   | As ATAs possuem data, horário de inicío e fim, participantes, objetivo, atividades definidas, entre outros? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  14   |                                O artefato possui as gravações das reuniões?                                 |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  08   |                                 Possui o histórico de versão padronizado ?                                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  09   |                                 Possui o(s) autor(es) e o(s) revisor(es) ?                                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  10   |                                    Possui referência e/ou bibliografia ?                                    |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  11   |                As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos?                 |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  12   |                                           Possui uma introdução ?                                           |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  13   | As ATAs possuem data, horário de inicío e fim, participantes, objetivo, atividades definidas, entre outros? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  14   |                                O artefato possui as gravações das reuniões?                                 |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
 
-<p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Apresentação
 A tabela 4 mostra o checklist das apresentações e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda).
@@ -71,14 +71,14 @@ A tabela 4 mostra o checklist das apresentações e foi construído pela integra
     Tabela 4: Checklist das apresentações
 |  ID   |                                  Descrição                                   | Avaliação |                                                                   Referência                                                                   |
 | :---: | :--------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|  15   |                  Possui o histórico de versão padronizado ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  16   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  17   |                    Possui referência e/ou bibliografia ?                     |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  18   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  19   |                           Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  20   |   As apresentações possuem vídeos na categoria "não listado" no youtube ?    |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  15   |                  Possui o histórico de versão padronizado ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  16   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  17   |                    Possui referência e/ou bibliografia ?                     |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  18   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  19   |                           Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  20   |   As apresentações possuem vídeos na categoria "não listado" no youtube ?    |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
 
-<p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Cronograma
 A tabela 5 mostra o checklist do cronograma do projeto e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda) e [João Vitor](https://github.com/Joa0V)
@@ -98,7 +98,7 @@ A tabela 5 mostra o checklist do cronograma do projeto e foi construído pela in
 | 30  | Todas as tabelas e imagens são referenciadas no texto, possuem legendas e fontes?                   | -         | [Normas de Formatação para Imagens e Tabelas](https://www.normasbrasil.com.br/abnt/)                    |
 | 31  | O texto está conforme as normas padrão de escrita?                                                  | -         | [Normas de Especificação Técnica](https://www.normasbrasil.com.br/normas-de-escrita/)                   |
 
-<p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Disponibilidade
 A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda).
@@ -106,13 +106,13 @@ A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído p
     Tabela 6: Checklist das disponibilidades
 |  ID   |                                  Descrição                                   | Avaliação |                                                                   Referência                                                                   |
 | :---: | :--------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|  32   |                  Possui o histórico de versão padronizado ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  33   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  34   |                    Possui referência e/ou bibliografia ?                     |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  35   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  36   |                           Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  32   |                  Possui o histórico de versão padronizado ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  33   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  34   |                    Possui referência e/ou bibliografia ?                     |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  35   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  36   |                           Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
 
-<p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Ferramentas
 A tabela 7 mostra a checklist das ferramentas utilizadas/a serem utilizadas no projeto.
@@ -121,13 +121,13 @@ A tabela 7 mostra a checklist das ferramentas utilizadas/a serem utilizadas no p
 
 |  ID   |                                   Descrição                                   | Avaliação |                                                                   Referência                                                                   |
 | :---: | :---------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|  37   |                            Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  38   |           Possui tabela com as ferramentas utilizadas no projeto ?            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  39   | As ferramentas presentes na tabela possuem sua finalidade de uso no projeto ? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  40   |                  Possui o histórico de versão padronizado ?                   |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  41   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                   |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  37   |                            Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  38   |           Possui tabela com as ferramentas utilizadas no projeto ?            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  39   | As ferramentas presentes na tabela possuem sua finalidade de uso no projeto ? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  40   |                  Possui o histórico de versão padronizado ?                   |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  41   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                   |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
 
-<p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## APPS Avaliados
 
@@ -136,14 +136,14 @@ A tabela 8 mostra o checklist dos apps avaliados pelo grupo e foi construida pel
     Tabela 8: Checklist dos apps avaliados
 | ID  | Descrição                                                                                   | Avaliação | Referência                                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 42  | O app avaliado possui alguma relevância avaliativa (avaliação ou introdução de requisitos)? | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 43  | O artefato está conciso?                                                                    | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 44  | Possui termos de uso permitindo o uso do app escolhido para estudo?                         | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 45  | O app é assecivel gratuitamente?                                                            | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 46  | O App é do governo ou de uma comunidade de software livre?                                  | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 47  | O app tem um público alvo acessivel as entrevistas e pesquisas??                            | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+| 42  | O app avaliado possui alguma relevância avaliativa (avaliação ou introdução de requisitos)? | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 43  | O artefato está conciso?                                                                    | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 44  | Possui termos de uso permitindo o uso do app escolhido para estudo?                         | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 45  | O app é assecivel gratuitamente?                                                            | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 46  | O App é do governo ou de uma comunidade de software livre?                                  | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 47  | O app tem um público alvo acessivel as entrevistas e pesquisas??                            | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
 
-<p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 
 ## App escolhido
@@ -153,17 +153,17 @@ A tabela 10 mostra a checklist do documento do app escolhido para o projeto.
 
 |  ID   |                                     Descrição                                     | Avaliação |                                                                   Referência                                                                   |
 | :---: | :-------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|  48   |                              Possui uma introdução?                               |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  49   |            Possui a motivação e os critérios de escolha do aplicativo?            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  50   | Possui cópia do termo de serviço do aplicativo permitindo o estudo na disciplina? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  48   |                              Possui uma introdução?                               |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  49   |            Possui a motivação e os critérios de escolha do aplicativo?            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+|  50   | Possui cópia do termo de serviço do aplicativo permitindo o estudo na disciplina? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
 
-<p>Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
-## Referências Bibliográficas/Bibliográfia
+## Bibliografia
 
-> David Benyon, 2011, 2ª ed, Interação Humano-Computador
+> 1. David Benyon, 2011, 2ª ed, Interação Humano-Computador
 
-> [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+> 2. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
  
 ## :round_pushpin: Histórico de Versão 
 

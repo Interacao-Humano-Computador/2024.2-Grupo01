@@ -201,15 +201,12 @@ GOAL 0: Criar lista de perfis de interesse
 		OP 3.4: Clicar no botão 'Feito'
 ```
 
-## Referência Bibliográfica
-
-> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-
 ## Bibliografia
+> 1. Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023.1. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/.> Acesso em 01/12/2024 ás 14:41
 
-> Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023.1. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/.> Acesso em 01/12/2024 ás 14:41
+> 2. Dominio Publico. Análise de Tarefas. Repositório do Grupo Dominio Público da disciplina de Interação Humano Computador da Universidade de brasília, 2023.2. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/> Acesso em 01/12/2024 ás 14:44
 
-> Dominio Publico. Análise de Tarefas. Repositório do Grupo Dominio Público da disciplina de Interação Humano Computador da Universidade de brasília, 2023.2. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/> Acesso em 01/12/2024 ás 14:44
+> 3. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## :round_pushpin: Histórico de Versão 
 

@@ -74,9 +74,8 @@ Para ampliar ainda mais o alcance, Mariana usa a função de compartilhamento di
 
 Ao longo do dia, Mariana continua a atualizar a thread com novas informações e formas de ação, aproveitando a capacidade do BlueSky de editar e adicionar conteúdo a posts existentes. Ela se sente satisfeita por ter conseguido mobilizar rapidamente sua audiência para uma causa importante, graças às ferramentas eficientes de comunicação e engajamento oferecidas pelo BlueSky.
 
-## Referência Bibliográfica
-
-> 1. <a name="1"></a>Referência: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
+## Bibliografia
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 Autopublicação. ISBN: 978-65-00-19677-1.
 
 

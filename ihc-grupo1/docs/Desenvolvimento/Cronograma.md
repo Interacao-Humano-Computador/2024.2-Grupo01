@@ -220,7 +220,7 @@ Abaixo está apresentado o planejamento para a entrega final do projeto.
 
 ## Referências Bibliográficas
 
- > 1. SALES, A. B. Plano de Ensino. *Interação Humano-Computador*. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf>. Acesso em: 11 nov. 2024.
+ > 1. SALES, A. B. Plano de Ensino. *Interação Humano-Computador*. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf>. Acesso em: 11 nov. 2024.
 
  > 2. BILHETERIA DIGITAL. *Interação Humano-Computador*. Distrito Federal, 2023.1. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/>. Acesso em: 05 nov. 2024.
 

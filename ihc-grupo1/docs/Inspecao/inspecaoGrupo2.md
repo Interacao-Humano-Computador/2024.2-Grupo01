@@ -28,7 +28,7 @@ Para realizar a inspeção, o Grupo 01 utilizará um checklist específico elabo
 |  15   |                                                                               A gravação da reunião do grupo.                                                                               |    -     |        07/11        |
 |  16   |                                                                Vídeo de apresentação na categoria “  - listado” no youtube?                                                                 |    -     |        07/11        |
 
-<p align="center">Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center">Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ### Conclusão
 <!-- A estrega está boa, mas foram encontrados alguns erros. Aqui vão algumas sugestões de melhoria:
@@ -43,8 +43,8 @@ A seguir se encontra o vídeo da verificação realizada pelo grupo 01, todos os
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/WqJllyL1EPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-## Referência Bibliográfica / Bibliografia
-[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+## Bibliografia
+> 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
 
 ## :round_pushpin: Histórico de Versão 
 

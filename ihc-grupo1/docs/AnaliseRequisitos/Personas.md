@@ -144,10 +144,6 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 
 
 ## Bibliografia
-
-
-## Referência Bibliográfica
-
 > 1. Alan, C; Reimann, R; David, C. 2007. About Face 3: The Essentials of Interaction Design. Vol. 1. Wiley, Nova Iorque.
 > 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 > 3. This Person Doest Not Exist. Acesso em: 13 de nov. de 2024. . Disponível em: https://this-person-does-not-exist.com/en

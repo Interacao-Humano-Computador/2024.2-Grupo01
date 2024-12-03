@@ -30,8 +30,8 @@ Segue o termo de conscentimento abaixo:
   </figcaption>
 </figure>
 
-## Referências Bibliográficas: 
-> Resolução nº 466, de 12 de dezembro de 2012 do Conselho Nacional de Saúde que trata-se de diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos; Revoga as (RES. 196/96); Disponível em: <https://www.gov.br/conselho-nacional-de-saude/pt-br/acesso-a-informacao/legislacao/resolucoes/2012/resolucao-no-466.pdf/view> atualizado em 20/05/2024 ás 16h11 </br>
+## Bibliografia
+> 1. Resolução nº 466, de 12 de dezembro de 2012 do Conselho Nacional de Saúde que trata-se de diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos; Revoga as (RES. 196/96); Disponível em: <https://www.gov.br/conselho-nacional-de-saude/pt-br/acesso-a-informacao/legislacao/resolucoes/2012/resolucao-no-466.pdf/view> atualizado em 20/05/2024 ás 16h11 </br>
 
 ## :round_pushpin: Histórico de Versão 
 

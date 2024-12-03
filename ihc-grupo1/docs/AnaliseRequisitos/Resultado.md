@@ -440,13 +440,11 @@ O perfil desse usuário é o de um jovem adulto, ativo em redes sociais e consci
 Essa documentação foi criada originalmente para um segundo repositório antes da unificação do tema de IHC e requisitos. Portanto após a unificação o criador do seguinte documento teve o auxilio da autora orginal uma vez que são os exatos mesmos dados e não haveria sentido em recriar um documento completo já feito para ambas finalidades.  Abaixo segue a bibliografia do documento. 
 
 ## Referência Bibliográfica
-
 > 1. <a name="1"></a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 ## Bibliografia
-
-> Requisitos de Software 2024.2 Grupo01. 2024. Autora: Renata Tavares. Disponível em: <https://github.com/Requisitos-de-Software/2024.2-Grupo01>  Acessado 01/12/2024 ás 09:55
+> 1. Requisitos de Software 2024.2 Grupo01. 2024. Autora: Renata Tavares. Disponível em: <https://github.com/Requisitos-de-Software/2024.2-Grupo01>  Acessado 01/12/2024 ás 09:55
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -466,7 +464,7 @@ Essa documentação foi criada originalmente para um segundo repositório antes 
             <td>Criação do documento.</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>01/12</td>
-            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>

@@ -73,20 +73,17 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
     
 </div>
 
-## Referência á Bibliografia
-> Figma disponível em: https://www.figma.com/  Acessado dia 14/11/2024 ás 22:08<br> 
-> Google Docs Disponível em:https://docs.google.com/document/u/0/?hl=pt-BR Acessado dia 14/11/2024 ás 22:10<br> 
-> Github Disponível em:  https://github.com/ Acessado dia 14/11/2024 ás 22:08 <br> 
-> Mkdocs Disponível em: https://www.mkdocs.org Acessado dia 14/11/2024 ás 22:08 <br> 
-> Vscode Disponível em: https://code.visualstudio.com/ Acessado dia 14/11/2024 ás 22:08 <br> 
-> whatsapp Disponível em: https://web.whatsapp.com Acessado dia 14/11/2024 ás 22:08 <br> 
-> This Person does not exist Disponível em: https://thispersonnotexist.org/ Acessado dia 14/11/2024 ás 22:15 <br>
-> Youtube Disponível em: https://www.youtube.com/ Acessado dia 14/11/2024 ás 22:10 <br>
-> Draw.io Disponível em: https://app.diagrams.net/ Acessado dia 14/11/2024 ás 22:11 <br>
-> Microsoft Teams disponível em: https://www.microsoft.com/pt-br/microsoft-teams/log-in Acessado dia 14/11/2024 ás 22:12 <br>
-
-
-
+## Bibliografia
+> 1. Figma disponível em: https://www.figma.com/  Acessado dia 14/11/2024 ás 22:08<br> 
+> 2. Google Docs Disponível em:https://docs.google.com/document/u/0/?hl=pt-BR Acessado dia 14/11/2024 ás 22:10<br> 
+> 3. Github Disponível em:  https://github.com/ Acessado dia 14/11/2024 ás 22:08 <br> 
+> 4. Mkdocs Disponível em: https://www.mkdocs.org Acessado dia 14/11/2024 ás 22:08 <br> 
+> 5. Vscode Disponível em: https://code.visualstudio.com/ Acessado dia 14/11/2024 ás 22:08 <br> 
+> 6. whatsapp Disponível em: https://web.whatsapp.com Acessado dia 14/11/2024 ás 22:08 <br> 
+> 7. This Person does not exist Disponível em: https://thispersonnotexist.org/ Acessado dia 14/11/2024 ás 22:15 <br>
+> 8. Youtube Disponível em: https://www.youtube.com/ Acessado dia 14/11/2024 ás 22:10 <br>
+> 9. Draw.io Disponível em: https://app.diagrams.net/ Acessado dia 14/11/2024 ás 22:11 <br>
+> 10. Microsoft Teams disponível em: https://www.microsoft.com/pt-br/microsoft-teams/log-in Acessado dia 14/11/2024 ás 22:12 <br>
 
 ## :round_pushpin: Histórico de Versão 
 <div align="center">

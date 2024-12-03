@@ -39,7 +39,7 @@ A Tabela 1 indica todos os sites avaliados pelo grupo, indicando o caminho de ca
         </tr>
     </table>
 
-    <p>Fonte: <a href="https://github.com/Jagaima">Davi Nobre</a></p>
+    <p>Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p>
 </div>
 
 
@@ -88,8 +88,8 @@ O Bluesky Social é uma plataforma de mídia social voltada para a construção 
     <a href="../../assets/avaliacao_bluesky.pdf" target="_blank">Execução</a>
 </div>
 
-## Referência Bibliográfica / Bibliografia
-[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf)
+## Bibliografia
+ > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
 <a id="c1"></a>
 
 ## :round_pushpin: Histórico de Versão 

@@ -16,8 +16,8 @@ Nesta etapa foram entregues: Cronograma planejado, aplicativos avaliados, site e
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cNwGmvcH3YQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Referência Bibliográfica / Bibliografia
-[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+## Bibliografia
+ > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
 
 ## :round_pushpin: Histórico de Versão 
 

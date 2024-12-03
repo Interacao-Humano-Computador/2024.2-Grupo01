@@ -71,12 +71,11 @@ As metas de usabilidade definidas para o BlueSkye visam criar uma plataforma efi
 
 É fundamental que essas metas sejam constantemente avaliadas e ajustadas durante o desenvolvimento do projeto, garantindo que o BlueSkye atenda às necessidades e expectativas de seus usuários.
 
-## Referência Bibliográfica
-
-> 1. <a name="1"></a>Referência: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
+## Bibliografia
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 Autopublicação. ISBN: 978-65-00-19677-1.s
 
-> 2. <a name="2"></a>Referência: Ventoy (2024) Releases · ventoy/Ventoy. GitHub. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/AnaliseDeRequisitos/metasUsabilidade.md (Acesso em: 2 de dezembro de 2024)
+> 2. Ventoy (2024) Releases · ventoy/Ventoy. GitHub. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/AnaliseDeRequisitos/metasUsabilidade.md (Acesso em: 2 de dezembro de 2024)
 
 
 ## :round_pushpin: Histórico de Versão 
