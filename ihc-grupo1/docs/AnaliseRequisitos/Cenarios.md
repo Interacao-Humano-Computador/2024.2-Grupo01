@@ -40,6 +40,18 @@ O site exibe imediatamente uma mudança de cor nos itens salvos que vai de trans
 
 Com a confirmação de que o post foi salvo, Bruno retorna à timeline para continuar navegando por outros conteúdos.
 
+### **Cenário 3: Criando uma lista de usuários**
+
+**Atores:** Fernanda (usuária comum)
+
+Em uma tarde de sábado, Fernanda, uma usuária recorrente da Bluesky, quer utilizar um pouco de seu tempo livre para personalizar sua experiência na plataforma e melhor acompanhar publicações de usuários muito ligados a fotografia, um novo hobby que está desenvolvendo. Com isso em mente, ela pondera sobre as alternativas apresentadas pela plataforma para tal fim e chega a conclusão que, apesar dos feeds da comunidade serem práticos a primeira vista, neles, ela não terá controle direto sobre quais perfis entrará em contato, dessa forma, ela opta por criar uma lista de usuários.
+
+Fernanda abre o site da rede social, seleciona o ícone de listas na barra lateral e inicia a criação de sua lista de usuários. Primeiramente define nome e descrição, bem como a imagem ícone dessa lista e inicia a inclusão de usuários nela. Nesse processo, sentiu uma certa falta da possibilidade de procurar por perfis baseado nos conteúdos mais recorrentes de suas publicações, ainda assim continuou a criar a lista.
+
+Logo depois o processo de criação, Fernanda percebe que acabou por remover sem a sua vontade um usuário adicionado e, ao fazer isso, notou que os botões que incluem ou excluem um perfil da lista possuem a mesma cor, bem como o pop-up que aparece na realização dessas ações. Apesar desse empecilho, ela fixou a lista de usuários criada em sua página inicial. 
+
+Passadas algumas horas, Fernanda volta à plataforma e consome publicações presentes no feed gerado a partir da lista criada anteriormente. Ela está satisfeita, não lhe demandou tempo demais, propiciou acesso direto a publicações de elevado interesse no momento e, como bônus, deixou seu compartilhamento com amigos mais fácil. 
+
 ## Referência Bibliográfica
 
 > 1. <a name="1"></a>Referência: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
@@ -72,6 +84,14 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td> Adição do 2º cenário</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>01/12</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>02/12</td>
+            <td>1.2</td>
+            <td> Adição do 3º cenário</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
             <td><a></a></td>
         </tr>
     </table>
