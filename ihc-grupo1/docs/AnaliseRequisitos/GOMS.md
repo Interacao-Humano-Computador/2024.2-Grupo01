@@ -201,6 +201,63 @@ GOAL 0: Criar lista de perfis de interesse
 		OP 3.4: Clicar no botão 'Feito'
 ```
 
+### Tarefa 8: Compartilhar um post
+
+```
+GOAL 0: Fazer login na conta do BlueSky
+    OP 0.1: Digitar o e-mail no campo de login
+    OP 0.2: Digitar a senha no campo correspondente
+    OP 0.3: Clicar no botão de login
+
+GOAL 1: Localizar o post que deseja compartilhar
+    OP 1.1: Navegar pela timeline ou buscar o post desejado
+    OP 1.2: Parar a navegação ao encontrar o post
+
+GOAL 2: Acessar as opções de compartilhamento
+    OP 2.1: Guiar o mouse até o ícone de compartilhamento (geralmente uma seta ou símbolo de retweet)
+    OP 2.2: Clicar ou tocar no ícone de compartilhamento
+
+GOAL 3: Escolher o método de compartilhamento
+    OP 3.1: Selecionar "Repostar" para compartilhar diretamente na sua timeline
+    OP 3.2: Selecionar "Citar post" para adicionar um comentário ao compartilhar
+
+GOAL 4: Adicionar comentário (se "Citar post" foi selecionado)
+    OP 4.1: Digitar o comentário no campo de texto
+    OP 4.2: Revisar o comentário
+
+GOAL 5: Confirmar o compartilhamento
+    OP 5.1: Clicar no botão "Compartilhar" ou "Repostar"
+
+GOAL 6: Verificar se o post foi compartilhado
+    OP 6.1: Observar a atualização na sua timeline
+    OP 6.2: Verificar a notificação de compartilhamento bem-sucedido
+```
+
+### Tarefa 9: Seguir um novo usuário
+
+```
+GOAL 0: Fazer login na conta do BlueSky
+    OP 0.1: Digitar o e-mail no campo de login
+    OP 0.2: Digitar a senha no campo correspondente
+    OP 0.3: Clicar no botão de login
+
+GOAL 1: Encontrar o usuário que deseja seguir
+    OP 1.1: Usar a barra de pesquisa para buscar o nome do usuário
+    OP 1.2: Navegar pelos resultados da pesquisa
+
+GOAL 2: Acessar o perfil do usuário
+    OP 2.1: Clicar no nome ou foto do usuário nos resultados da pesquisa
+
+GOAL 3: Iniciar o processo de seguir
+    OP 3.1: Localizar o botão "Seguir" no perfil do usuário
+    OP 3.2: Clicar no botão "Seguir"
+
+GOAL 4: Confirmar que está seguindo o usuário
+    OP 4.1: Observar a mudança visual no botão (de "Seguir" para "Seguindo")
+    OP 4.2: Verificar se os posts do usuário aparecem na sua timeline
+```
+
+
 ## Bibliografia
 > 1. Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023.1. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/.> Acesso em 01/12/2024 ás 14:41
 
@@ -240,6 +297,14 @@ GOAL 0: Criar lista de perfis de interesse
             <td>02/12</td>
             <td>1.2</td>
             <td>Adicionando criação de lista de usuários</td>
+            <td><a href="https://github.com/JoaoV">João Vitor</a></td>
+            <td></td>
+            <td><a></a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.3</td>
+            <td>Adicionando compartilhar um post e seguir um novo usuário</td>
             <td><a href="https://github.com/JoaoV">João Vitor</a></td>
             <td></td>
             <td><a></a></td>
