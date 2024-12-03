@@ -30,6 +30,15 @@ Mariana então digita: "Oi, João! Você pode me enviar o último relatório té
 João responde quase imediatamente, e Mariana continua a conversa. Satisfeita, ela fecha o chat e retorna ao seu trabalho.
 
 
+### **Cenário 2: Adicionando um post de interesse aos itens salvos pelo site**
+
+Bruno Andrade, um estudante universitário, está navegando pelo site do BlueSky em seu notebook para relaxar após um longo dia de estudos. Ao explorar sua timeline, ele se depara com um post sobre um evento de engenharia que chamou sua atenção. Desejando guardar a informação para consultá-la mais tarde, Bruno decide salvá-lo em sua aba de "Itens Salvos".
+
+Primeiramente, ele posiciona o cursor sobre o post e localiza o ícone de salvar post (parecendo um marcador de página) no canto inferior direito. Clicando no ícone, Bruno usa a opção "Salvar em Itens Salvos".
+
+O site exibe imediatamente uma mudança de cor nos itens salvos que vai de transparente para azul, confirmando assim que a ação foi feita e registrada ao sistema. 
+
+Com a confirmação de que o post foi salvo, Bruno retorna à timeline para continuar navegando por outros conteúdos.
 
 ## Referência Bibliográfica
 
@@ -54,6 +63,14 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td>1.0</td>
             <td>Criação do documento e adição do 1º cenário</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>01/12</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
+        </tr>
+        <tr>
+            <td>02/12</td>
+            <td>1.1</td>
+            <td> Adição do 2º cenário</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>01/12</td>
             <td><a></a></td>
         </tr>

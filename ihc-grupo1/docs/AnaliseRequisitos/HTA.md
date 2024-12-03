@@ -108,6 +108,53 @@ A seguir, figura e tabela resultados da análise hierárquica da tarefa de cria�
 Tabela 2: Análise da HTA - Criação de Listas de Usuário. Autor: João Ribeiro.
 </p>
 
+## 3. Criação de uma repostagem
+
+<figure markdown="span" align="center">
+  ![legenda](../assets/images/tarefa.png){ width="600" align="center" }
+  <figcaption>Imagem 3: Diagrama HTA - Realizando repostagem. <br/> Autor: Davi Nobre.</figcaption>
+</figure>
+
+<div style='display: flex; align-items: center; flex-direction: column'>
+<table>
+<thead>
+    <tr>
+      <th>Objetivos / operações</th>
+      <th>Problemas e recomendações</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>0. Repostar uma publicação 1 > 2</strong></td>
+      <td><strong>Plano:</strong> Identificar a publicação e decidir o tipo de repost.<br/>
+          <strong>Input:</strong> Escolha entre repostar com ou sem comentário.<br/>
+          <strong>Feedback:</strong> A publicação aparece na timeline do usuário como repostada.</td>
+    </tr>
+    <tr>
+      <td><strong>1. Navegar até o post 1 / 2</strong></td>
+      <td><strong>Plano:</strong> Localizar o post desejado navegando pela timeline ou usando a busca.</td>
+    </tr>
+    <tr>
+      <td><strong>2. Selecionar repostar sem comentário</strong></td>
+      <td><strong>Plano:</strong> Escolher a opção de repostar diretamente.<br/>
+          <strong>Feedback:</strong> O post é repostado instantaneamente na timeline do usuário.</td>
+    </tr>
+    <tr>
+      <td><strong>3. Selecionar repostar com comentário</strong></td>
+      <td><strong>Plano:</strong> Optar por adicionar um comentário ao repost.</td>
+    </tr>
+    <tr>
+      <td><strong>4. Digitar comentário e confirmar 1 > 2</strong></td>
+      <td><strong>Input:</strong> Inserir o comentário no campo designado.<br/>
+          <strong>Feedback:</strong> O post é repostado junto com o comentário do usuário na timeline.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align='center'>
+Tabela 3: Análise da HTA - Realizando Repostagem. Autor: Davi Nobre.
+</p>
+</div>
 
 ## Bibliografica
 
@@ -133,16 +180,24 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td>1.0</td>
             <td>Criação do documento e 1ª HTA.</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
-            <td>**/12</td>
-            <td><a href="https://github.com/"></a></td>
+            <td>02/12</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
             <td>02/12</td>
             <td>1.1</td>
             <td>Adicionando criação de lista de usuários</td>
             <td><a href="https://github.com/JoaoV">João Vitor</a></td>
-            <td></td>
-            <td><a></a></td>
+            <td>02/12</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
         </tr>
+        <tr>
+            <td>02/12</td>
+            <td>1.2</td>
+            <td>Adicionando criação da tarefa repostagem</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>02/12</td>
+            <td><a</a></td>
+        </tr>      
     </table>
 </div>
