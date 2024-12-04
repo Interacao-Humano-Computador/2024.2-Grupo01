@@ -91,19 +91,22 @@ A tabela 5 mostra o checklist das Características da plataforma para o projeto 
     Tabela 5: Características da plataforma para o projeto
 |  ID   | Descrição | Avaliação | Referência |
 | :---: | :-------: | :-------: | :--------: |
-|  29   |     -     |     -     |     -      |
-|  30   |     -     |     -     |     -      |
-|  31   |     -     |     -     |     -      |
-|  32   |     -     |     -     |     -      |
-|  33   |     -     |     -     |     -      |
+|  29   |     Foi verificado se o topico "Correspondência com as expectativas dos usuários" está presente no site?     |     -     |     [4]      |
+|  30   |     Foi verificado se o tópico "Simplicidade nas estruturas das tarefas" está presente no site?     |     -     |     [4]      |
+|  31   |     Foi verificado se o tópico "Equilíbrio entre controle e liberdade do usuário" está presente no site?     |     -     |     [4]      |
+|  32   |     Foi verificado se o tópico "Promoção da eficiência do usuário" está presente no site?     |     -     |     [4]      |
+|  33   |     Foi verificado se o tópico "Antecipação das necessidades do usuário" está presente no site?     |     -     |     [4]      |
+|  34   |     Foi verificado se o tópico "Visibilidade e reconhecimento" está presente no site?     |     -     |     [4]      |
+|  35   |     Foi verificado se o tópico "Conteúdo relevante e expressão adequada" está presente no site ?     |     -     |     [4]      |
+|  36   |     Foi verificado se o tópico "Projeto para erros" está presente no site ?     |     -     |     [4]      |
 
-<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 
 ### Referência Bibliográfica
 > 1. Barbosa, S. D. J.; Silva, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.  
 > 2. Bilheteria Digital. *Análise Hierárquica de Tarefas*. Repositório da disciplina de Interação Humano Computador, Universidade de Brasília, 2023.  
 > 3. Dominio Público. *Análise de Tarefas*. Repositório da disciplina de Interação Humano Computador, Universidade de Brasília, 2023.  
-
+> 4. INTERAÇÃO HUMANO-COMPUTADOR. Planejamento PC3: Verificação e Validação. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc3-planejamento/. Acesso em: 3 dez. 2024.
 ## Bibliografia
 
 > 1. David Benyon, 2011, 2ª ed, Interação Humano-Computador
@@ -135,6 +138,14 @@ A tabela 5 mostra o checklist das Características da plataforma para o projeto 
             <td>1.1</td>
             <td>Lista de verificação das metas de usabilidade</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.1</td>
+            <td>Lista de verificação das metas de características da plataforma</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>03/12</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>

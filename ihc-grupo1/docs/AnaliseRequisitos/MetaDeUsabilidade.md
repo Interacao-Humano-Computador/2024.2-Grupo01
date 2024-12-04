@@ -112,9 +112,10 @@ Para facilitar o aprendizado, o BlueSky deve:
 | ------------------------------------------ |
 | ![Principal](/ihc-grupo1/docs/assets/images/metas/principal.png)                    |
 
-| Suporte genérico e fora do site apenas                   |
-| ------------------------------------------ |
-| ![Suporte](/ihc-grupo1/docs/assets/images/metas/ajuda.png)  ![Privacidade](/ihc-grupo1/docs//assets/images/metas/ajuda2.png)                   |
+| Suporte genérico e fora do site apenas                                                                 |
+|-------------------------------------------------------------------------------------------------------|
+| ![Suporte](/ihc-grupo1/docs/assets/images/metas/ajuda.png) ![Privacidade](/ihc-grupo1/docs/assets/images/metas/ajuda2.png) |
+               |
 <center>Fonte: BlueSky </center>
 
 
