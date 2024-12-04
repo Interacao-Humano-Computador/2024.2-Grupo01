@@ -102,6 +102,25 @@ Abaixo está apresentado o planejamento para a entrega 02 do projeto.
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
 
+### Executado entrega 2
+
+Na Tabela 06 abaixo é definido o que foi executado do planejamento da Tabela 04.
+
+<p align="center"><b>Tabela 06</b> - Entrega 2. Executado do planejamento da Entrega 02</p>
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
+|-----------|---------------------------|--------------|---------|---------|
+| Correção dos artefatos da entrega 1 | Início: 15/11<br>Fim: 17/11 | Carla, Davi, Eduarda, Gabriel e João Vitor | 18/11 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Criar perfil de usuário | Início: 15/11<br>Fim: 19/11 | Gabriel | 20/11 | Davi |
+| Definir aspectos éticos da pesquisa | Início: 16/11<br>Fim: 19/11 | Carla | 22/11 | Eduarda |
+| Criar termo de consentimento | Início: 16/11<br>Fim: 19/11 | João Vitor | 27/11 | Gabriel |
+| Realizar coleta de dados | Início: 17/11<br>Fim: 21/11 | Carla, Davi, Eduarda, Gabriel e João Vitor | 27/11 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Análise de tarefas | Início: 17/11<br>Fim: 21/11 | Davi, Eduarda | 22/11 | Carla, João Vitor |
+| Gravação da apresentação | Início: 24/11<br>Fim: 24/11 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: 25/11<br>Fim: 25/11 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+
+<font size="3"><p style="text-align: center">Autor: Gabriel Santos Monteiro.</p></font>
+
 ### Cronograma planejado entrega 3
 
 Abaixo está apresentado o planejamento para a entrega 03 do projeto.
@@ -119,6 +138,24 @@ Abaixo está apresentado o planejamento para a entrega 03 do projeto.
 | Finalização da entrega | Início: 02/12<br>Fim: 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
+
+### Executado entrega 3
+
+Na Tabela 07 abaixo é definido o que foi executado do planejamento da Tabela 05.
+
+<p align="center"><b>Tabela 07</b> - Entrega 3. Executado do planejamento da Entrega 03</p>
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
+|-----------|---------------------------|--------------|---------|---------|
+| Correção dos artefatos da entrega 2 | Início: 27/11<br>Fim: 28/11 | Carla, Davi, Eduarda, Gabriel e João Vitor |||
+| Definir princípios gerais do projeto | Início: 27/11<br>Fim: 29/11 | Gabriel, Davi | 03/12 | Carla |
+| Determinar metas de usabilidade | Início: 28/11<br>Fim: 29/11 | Carla, Eduarda | 03/12 | João Vitor |
+| Criar guia de estilo | Início: 28/11<br>Fim: 30/11 | João Vitor, Gabriel | 01/12 | Davi |
+| Determinar características da plataforma | Início: 29/11<br>Fim: 30/11 | Davi, Carla | 01/12 | Eduarda |
+| Gravação da apresentação | Início: 01/12<br>Fim: 01/12 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: 02/12<br>Fim: 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+
+<font size="3"><p style="text-align: center">Autor: Gabriel Santos Monteiro.</p></font>
 
 ### Cronograma planejado entrega 4
 
