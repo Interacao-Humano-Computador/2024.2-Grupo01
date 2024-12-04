@@ -35,7 +35,7 @@ Com base na metodologia de Análise Hierárquica de Tarefas, foi realizada a an�
 
 <figure markdown="span">
   ![legenda](../assets/images/hta-chat.png){ width="400" align="center" }
-  <figcaption>Imagem 1: Diagrama HTA - Envio de mensagens privadas. Autor: Carla A. C. Ribeiro.</figcaption>
+  <figcaption>Imagem 2: Diagrama HTA - Envio de mensagens privadas. Autor: Carla A. C. Ribeiro.</figcaption>
 </figure>
 
 <div style='display: flex; align-items: center; flex-direction: column'>
@@ -89,20 +89,20 @@ A seguir, figura e tabela resultados da análise hierárquica da tarefa de cria�
 
 <figure markdown="span" align="center">
   ![legenda](../assets/images/hta-list.png){ width="600" align="center" }
-  <figcaption>Imagem 2: Diagrama HTA - Criação de Listas de Usuário. <br/> Autor: João Ribeiro.</figcaption>
+  <figcaption>Imagem 3: Diagrama HTA - Criação de Listas de Usuário. <br/> Autor: João Ribeiro.</figcaption>
 </figure>
 
-| **Objetivos / operações** | **problemas e recomendações** |
-| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivos / operações**                                       | **problemas e recomendações**                                                                                                                                                                                                                        |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0. Criar uma nova lista de perfis de interesse 1>2              | **plano:** definir informações iniciais da lista de usuários e após Adicionar perfis à lista<br>**input:** nome, descrição e avatar da lista e perfis de interesse<br>**feedback:** a nova lista criada é apresentada na página de listas de usuário |
-| 1. Definir informações iniciais da lista de usuários  1+2       | **plano:** informar nome e descrição da lista e após definir avatar da lista                                                            |
-| 1.1 Informar nome e descrição da lista                          | **input:** nome e descrição da lista                                                                                                    |
-| 1.2 Definir avatar da lista 1/2                                 |                                                                                                                                         |
-| 1.2.1 Deixar o avatar padrão                                    |                                                                                                                                         |
-| 1.2.2 Escolher uma imagem do sistema para ser o avatar da lista | **input:** arquivo da imagem                                                                                                            |
-| 2. Adicionar perfis à lista 1 > 2                               | **plano:** procurar por perfil de interesse e depois adiciona-lo à lista                                                                |
-| 2.1 Procurar por perfil de interesse                            | **input:** nome ou parte do nome do perfil                                                                                              |
-| 2.2 Adicionar perfil de interesse à lista de usuários           | **recomendação:** diferenciar os botões 'adicionar' e 'remover' por cores                                                               |
+| 1. Definir informações iniciais da lista de usuários  1+2       | **plano:** informar nome e descrição da lista e após definir avatar da lista                                                                                                                                                                         |
+| 1.1 Informar nome e descrição da lista                          | **input:** nome e descrição da lista                                                                                                                                                                                                                 |
+| 1.2 Definir avatar da lista 1/2                                 |                                                                                                                                                                                                                                                      |
+| 1.2.1 Deixar o avatar padrão                                    |                                                                                                                                                                                                                                                      |
+| 1.2.2 Escolher uma imagem do sistema para ser o avatar da lista | **input:** arquivo da imagem                                                                                                                                                                                                                         |
+| 2. Adicionar perfis à lista 1 > 2                               | **plano:** procurar por perfil de interesse e depois adiciona-lo à lista                                                                                                                                                                             |
+| 2.1 Procurar por perfil de interesse                            | **input:** nome ou parte do nome do perfil                                                                                                                                                                                                           |
+| 2.2 Adicionar perfil de interesse à lista de usuários           | **recomendação:** diferenciar os botões 'adicionar' e 'remover' por cores                                                                                                                                                                            |
 
 <p align='center'>
 Tabela 2: Análise da HTA - Criação de Listas de Usuário. Autor: João Ribeiro.
@@ -153,6 +153,64 @@ Tabela 2: Análise da HTA - Criação de Listas de Usuário. Autor: João Ribeir
 
 <p align='center'>
 Tabela 3: Análise da HTA - Realizando Repostagem. Autor: Davi Nobre.
+</p>
+</div>
+
+## 4. Criação de um Pacote
+A seguir, figura e tabela resultados da análise hierárquica da tarefa de criação de um pacote.
+<figure markdown="span" align="center">
+  ![legenda](../assets/images/diagrama_duda.png){ width="600" align="center" }
+  <figcaption>Imagem 4: Diagrama HTA - Criando Pacotes. <br/> Autor: Eduarda Tavares.</figcaption>
+</figure>
+
+<div style='display: flex; align-items: center; flex-direction: column'>
+<table>
+  <thead>
+    <tr>
+      <th>Objetivos / Operações</th>
+      <th>Problemas e Recomendações</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>0. Criar um Pacote Inicial 1 > 2</strong></td>
+      <td><strong>Plano:</strong> Iniciar o processo para criar um pacote inicial.<br/>
+          <strong>Input:</strong> Escolher entre criar manualmente ou usar a sugestão automática.<br/>
+          <strong>Feedback:</strong> O pacote inicial aparece na aba "Pacotes Iniciais".</td>
+    </tr>
+    <tr>
+      <td><strong>1. Acessar a aba "Pacotes Iniciais" 1 / 2</strong></td>
+      <td><strong>Plano:</strong> Localizar e acessar a aba "Pacotes Iniciais" no menu do perfil.<br/>
+          <strong>Problema:</strong> A aba pode não estar claramente visível para novos usuários.<br/>
+          <strong>Recomendação:</strong> Adicionar um ícone ou destaque visual para facilitar a identificação.</td>
+    </tr>
+    <tr>
+      <td><strong>2. Iniciar a criação de um novo pacote 1 > 2</strong></td>
+      <td><strong>Plano:</strong> Escolher a opção "Criar" ou "Faça um para mim".<br/>
+          <strong>Problema:</strong> A explicação das opções pode ser insuficiente para novos usuários.<br/>
+          <strong>Recomendação:</strong> Adicionar uma breve descrição das diferenças entre as opções antes da seleção.</td>
+    </tr>
+    <tr>
+      <td><strong>2.1 Clicar no botão "Criar" 1 > 2</strong></td>
+      <td><strong>Plano:</strong> Iniciar a criação manual do pacote.<br/>
+          <strong>Feedback:</strong> O sistema exibe uma interface para personalização.</td>
+    </tr>
+    <tr>
+      <td><strong>2.2 (Alternativa) Selecionar "Faça um para mim"</strong></td>
+      <td><strong>Plano:</strong> Utilizar a sugestão automática do sistema.<br/>
+          <strong>Feedback:</strong> O pacote é criado automaticamente com base nos dados do usuário.</td>
+    </tr>
+    <tr>
+      <td><strong>2.1.1 e 2.2.1 Confirmar a criação do pacote 1 > 2</strong></td>
+      <td><strong>Plano:</strong> Finalizar a criação do pacote manual ou automático.<br/>
+          <strong>Input:</strong> Clicar no botão "Salvar" ou "Finalizar".<br/>
+          <strong>Feedback:</strong> O sistema exibe uma mensagem de sucesso e adiciona o pacote à aba "Pacotes Iniciais".</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align='center'>
+Tabela 4: Análise da HTA - Criando Pacote. Autor: Eduarda Tavares.
 </p>
 </div>
 

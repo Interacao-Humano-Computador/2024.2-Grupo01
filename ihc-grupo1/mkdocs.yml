@@ -88,6 +88,14 @@ nav:
       - Planejamento: Inspecao/planejamento.md
       - Inspeção final: Inspecao/inspecaoFinal.md
       - Inspeção Grupo 02: Inspecao/inspecaoGrupo2.md
+    - Etapa 2: 
+      - Planejamento: Inspecao/planejamento2.md
+      - Inspeção final: Inspecao/inspecaoFinal2.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-2.md
+    - Etapa 3: 
+      - Planejamento: Inspecao/planejamento3.md
+      - Inspeção final: Inspecao/inspecaoFinal3.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-3.md
   - Análise de Requisitos: 
     - Aspectos Éticos: AnaliseRequisitos/AspectosEticos.md
     - Questionario Perfil de Usuário: AnaliseRequisitos/PerfilUser.md
@@ -97,3 +105,4 @@ nav:
     - Analise de tarefas:
       - GOMS: AnaliseRequisitos/GOMS.md
       - HTA: AnaliseRequisitos/HTA.md
+    - Princípios Gerais: AnaliseRequisitos/Principios.md

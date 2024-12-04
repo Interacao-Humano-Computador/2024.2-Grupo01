@@ -256,6 +256,43 @@ GOAL 4: Confirmar que está seguindo o usuário
     OP 4.1: Observar a mudança visual no botão (de "Seguir" para "Seguindo")
     OP 4.2: Verificar se os posts do usuário aparecem na sua timeline
 ```
+### Tarefa 10: Criar um Pacote Inicial
+
+Nesta tarefa, o usuário deseja criar um Pacote Inicial na plataforma Bluesky para organizar e compartilhar feeds e perfis favoritos com amigos.
+
+```
+GOAL 0: Fazer login na conta do Bluesky  
+    OP 0.1: Digitar o e-mail no campo de login  
+    OP 0.2: Digitar a senha no campo correspondente  
+    OP 0.3: Clicar no botão de login  
+
+GOAL 1: Acessar a aba "Pacotes Iniciais"  
+    OP 1.1: Navegar até a aba "Pacotes Iniciais" no menu do perfil  
+    OP 1.2: Clicar na aba para visualizar as opções de pacotes  
+
+GOAL 2: Iniciar a criação de um novo pacote  
+    OP 2.1: Clicar no botão "Criar" exibido na interface  
+    (Sel. Rule: Se o usuário optar por "Faça um para mim", o sistema cria automaticamente um pacote com base em sugestões.)  
+
+GOAL 3: Personalizar o pacote  
+    OP 3.1: Digitar um nome para o pacote no campo correspondente  
+    OP 3.2: Escrever uma descrição breve sobre o pacote  
+    OP 3.3: Navegar pela lista de feeds e perfis disponíveis  
+    OP 3.4: Selecionar os itens desejados para adicionar ao pacote  
+
+GOAL 4: Confirmar a criação do pacote  
+    OP 4.1: Clicar no botão "Salvar" ou "Finalizar" para concluir a criação  
+    OP 4.2: Verificar a mensagem de confirmação de sucesso  
+
+GOAL 5: Compartilhar o pacote com amigos (opcional)  
+    OP 5.1: Clicar no botão "Compartilhar" exibido ao lado do pacote criado  
+    OP 5.2: Escolher os contatos para enviar o pacote  
+    OP 5.3: Confirmar o envio e observar a notificação de sucesso  
+
+GOAL 6: Verificar o pacote criado  
+    OP 6.1: Retornar à aba "Pacotes Iniciais" para confirmar a presença do novo pacote na lista  
+    OP 6.2: Observar os itens adicionados no pacote para garantir que estão corretos  
+```
 
 
 ## Bibliografia
@@ -306,6 +343,14 @@ GOAL 4: Confirmar que está seguindo o usuário
             <td>1.3</td>
             <td>Adicionando compartilhar um post e seguir um novo usuário</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td></td>
+            <td><a></a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.4</td>
+            <td>Adicionando criar pacotes</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td></td>
             <td><a></a></td>
         </tr>
