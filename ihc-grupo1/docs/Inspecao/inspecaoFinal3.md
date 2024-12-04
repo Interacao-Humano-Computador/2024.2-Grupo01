@@ -90,19 +90,23 @@ A tabela 5 mostra o checklist das Características da plataforma para o projeto 
     Tabela 5: Características da plataforma para o projeto
 |  ID   | Descrição | Avaliação | Referência |
 | :---: | :-------: | :-------: | :--------: |
-|  29   |     -     |     -     |     -      |
-|  30   |     -     |     -     |     -      |
-|  31   |     -     |     -     |     -      |
-|  32   |     -     |     -     |     -      |
-|  33   |     -     |     -     |     -      |
+|  29   |     Foi verificado se o topico "Correspondência com as expectativas dos usuários" está presente no site?     |     -     |     [3]      |
+|  30   |     Foi verificado se o tópico "Simplicidade nas estruturas das tarefas" está presente no site?     |     -     |     [3]      |
+|  31   |     Foi verificado se o tópico "Equilíbrio entre controle e liberdade do usuário" está presente no site?     |     -     |     [3]      |
+|  32   |     Foi verificado se o tópico "Promoção da eficiência do usuário" está presente no site?     |     -     |     [3]      |
+|  33   |     Foi verificado se o tópico "Antecipação das necessidades do usuário" está presente no site?     |     -     |     [3]      |
+|  34   |     Foi verificado se o tópico "Visibilidade e reconhecimento" está presente no site?     |     -     |     [3]      |
+|  35   |     Foi verificado se o tópico "Conteúdo relevante e expressão adequada" está presente no site ?     |     -     |     [3]      |
+|  36   |     Foi verificado se o tópico "Projeto para erros" está presente no site ?     |     -     |     [3]      |
 
-<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 
 ## Bibliografia
 
 > 1. David Benyon, 2011, 2ª ed, Interação Humano-Computador
 
 > 2. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
+> 3. INTERAÇÃO HUMANO-COMPUTADOR. Planejamento PC3: Verificação e Validação. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc3-planejamento/. Acesso em: 3 dez. 2024.
  
 ## :round_pushpin: Histórico de Versão 
 
@@ -123,6 +127,14 @@ A tabela 5 mostra o checklist das Características da plataforma para o projeto 
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td>03/12</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.1</td>
+            <td>Adiciona checklists</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/"></a></td>
         </tr>
     </table>
 </div>
