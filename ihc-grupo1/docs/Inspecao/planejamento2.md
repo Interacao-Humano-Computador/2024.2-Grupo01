@@ -71,19 +71,26 @@ A tabela 4 mostra o checklist do Perfil de usuário e foi construída pela integ
 
 <p>Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p>
 
-## Aspecto ético
+## Aspectos éticos
 A tabela 5 mostra o checklist do Aspecto ético e foi construído pelo integrante João.
 
-    Tabela 4: Aspecto ético
-|  ID   | Descrição | Avaliação | Referência |
-| :---: | :-------: | :-------: | :--------: |
-|  16   |     -     |     -     |     -      |
-|  17   |     -     |     -     |     -      |
-|  18   |     -     |     -     |     -      |
-|  19   |     -     |     -     |     -      |
-|  20   |     -     |     -     |     -      |
+    Tabela 5: Aspectos éticos
+| ID  |                                                   Descrição                                                    | Avaliação |      Referência      |
+| :-: | :------------------------------------------------------------------------------------------------------------: | :-------: | :------------------: |
+| 16  |                       Os objetivos da pesquisa são explicados no termo de consentimento?                       |     -     | [1] Barbosa e Silva¹ |
+| 17  |                A forma de participação do participante é explicada no termo de consentimento??                 |     -     | [1] Barbosa e Silva¹ |
+| 18  |            Os tipos de dados coletados e suas análises são esclarecidos no termo de consentimento??            |     -     | [1] Barbosa e Silva¹ |
+| 19  |                     O tempo de coleta dos dados é explicitado no termo de consentimento??                      |     -     | [1] Barbosa e Silva¹ |
+| 20  | O termo de consentimento garante confidencialidade e privacidade dos dados brutos coletados aos participantes? |     -     | [1] Barbosa e Silva¹ |
+| 21  |                        O termo de consentimento garante o anonimato dos participantes?                         |     -     | [1] Barbosa e Silva¹ |
+| 22  |                      O participante é informado das gravações durante a coleta de dados?                       |     -     | [1] Barbosa e Silva¹ |
+| 23  |     Existem campos para assinatura do entrevistado e do responsável pelo estudo no termo de consentimento?     |     -     | [1] Barbosa e Silva¹ |
+| 24  |                                     Foi seguido o princípio da autonomia?                                      |     -     | [1] Barbosa e Silva¹ |
+| 25  |                                    Foi seguido o princípio da beneficência?                                    |     -     | [1] Barbosa e Silva¹ |
+| 26  |                                  Foi seguido o princípio da não maleficência?                                  |     -     | [1] Barbosa e Silva¹ |
+| 27  |                                 Foi seguido o princípio da justiça e equidade?                                 |     -     | [1] Barbosa e Silva¹ |
 
-<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Referências Bibliográficas
  > 1. Barbosa, S. D. J.; Silva, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.  
@@ -123,6 +130,14 @@ A tabela 5 mostra o checklist do Aspecto ético e foi construído pelo integrant
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>03/12</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.2</td>
+            <td>Lista de verificação dos aspectos éticos</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
     </table>
 </div>

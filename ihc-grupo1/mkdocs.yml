@@ -107,3 +107,5 @@ nav:
       - HTA: AnaliseRequisitos/HTA.md
     - Princípios Gerais: AnaliseRequisitos/Principios.md
     - Guia de Estilo: AnaliseRequisitos/guia_estilo.md
+    - Características Gerais da Plataforma: AnaliseRequisitos/CaracteristicasGerais.md
+    - Metas de Usabilidade: AnaliseRequisitos/MetaDeUsabilidade.md

@@ -47,15 +47,15 @@ A tabela 2 mostra o checklist dos Principios gerais de projeto e foi construído
 A tabela 3 mostra o checklist das Metas de usabilidade e foi construído pelo integrante João.
 
     Tabela 3: Metas de usabilidade
-|  ID   | Descrição | Avaliação | Referência |
-| :---: | :-------: | :-------: | :--------: |
-|  06   |     -     |     -     |     -      |
-|  07   |     -     |     -     |     -      |
-|  08   |     -     |     -     |     -      |
-|  09   |     -     |     -     |     -      |
-|  10   |     -     |     -     |     -      |
+| ID  |                                           Descrição                                            | Avaliação |      Referência      |
+| :-: | :--------------------------------------------------------------------------------------------: | :-------: | :------------------: |
+| 06  |            São apresentadas quais metas de usabilidade serão alcançadas no projeto?            |     -     | [1] Barbosa e Silva¹ |
+| 07  | É explicada a razão da escolha das metas de usabilidade que foram selecionadas para o projeto? |     -     | [3] Dominio Público  |
+| 08  |            O documento possui explicação para cada meta de usabilidade selecionada?            |     -     | [3] Dominio Público  |
+| 09  |          É apresentado como as metas de usabilidade serão verificadas nas avaliações?          |     -     | [1] Barbosa e Silva¹ |
+| 10  |           As metas de usabilidade são relevantes para o contexto de uso do sistema?            |     -     | [1] Barbosa e Silva¹ |
 
-<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Guia de estilo
 A tabela 4 mostra o checklist do Guia de estilo e foi construído pela integrante Eduarda.
@@ -129,6 +129,14 @@ A tabela 5 mostra o checklist das Características da plataforma para o projeto 
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td>03/12</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.1</td>
+            <td>Lista de verificação das metas de usabilidade</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>
