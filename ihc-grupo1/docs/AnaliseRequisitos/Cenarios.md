@@ -30,15 +30,15 @@ Mariana então digita: "Oi, João! Você pode me enviar o último relatório té
 João responde quase imediatamente, e Mariana continua a conversa. Satisfeita, ela fecha o chat e retorna ao seu trabalho.
 
 
-### **Cenário 2: Adicionando um post de interesse aos itens salvos pelo site**
+### **Cenário 2: Repostando um post de interesse pelo site**
 
-Bruno Andrade, um estudante universitário, está navegando pelo site do BlueSky em seu notebook para relaxar após um longo dia de estudos. Ao explorar sua timeline, ele se depara com um post sobre um evento de engenharia que chamou sua atenção. Desejando guardar a informação para consultá-la mais tarde, Bruno decide salvá-lo em sua aba de "Itens Salvos".
+Bruno Andrade, um estudante universitário, está navegando pelo site do BlueSky em seu notebook para relaxar após um longo dia de estudos. Ao explorar sua timeline, ele se depara com um post sobre um evento de engenharia que chamou sua atenção. Desejando compartilhar a informação para seus amigos verem mais tarde, Bruno decide repostar ela pelo botão com duas setas que apontam uma a outra. Bruno aumentou o alcance de um post.
 
-Primeiramente, ele posiciona o cursor sobre o post e localiza o ícone de salvar post (parecendo um marcador de página) no canto inferior direito. Clicando no ícone, Bruno usa a opção "Salvar em Itens Salvos".
+Primeiramente, ele posiciona o cursor sobre o post e localiza o ícone de repostar (duas setas que parecem girar apontadas uma para outra) no canto inferior do meio. Clicando no ícone, Bruno usa a opção Repostar padrão. Bruno tem a opção lado a lado que diz repostar com mensagem, na qual se escolhida pode fazer um post que leva a outro, mas ele opta por fazer isso mais tarde pois está cansado e sabe que sua repostagem pode ser convertida para esse modelo e dada como mais recente assim que feita. 
 
-O site exibe imediatamente uma mudança de cor nos itens salvos que vai de transparente para azul, confirmando assim que a ação foi feita e registrada ao sistema. 
+O site exibe imediatamente uma mudança de cor nos itens repostados que vai de transparente para verde escuro, confirmando assim que a ação foi feita e registrada ao sistema. 
 
-Com a confirmação de que o post foi salvo, Bruno retorna à timeline para continuar navegando por outros conteúdos.
+Com a confirmação de que o post foi repostado, Bruno retorna à timeline para continuar navegando por outros conteúdos.
 
 ### **Cenário 3: Criando uma lista de usuários**
 
@@ -144,7 +144,7 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td> Adição do 4º cenário</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
             <td></td>
-            <td><a></a></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
         </tr>
         <tr>
             <td>03/12</td>
