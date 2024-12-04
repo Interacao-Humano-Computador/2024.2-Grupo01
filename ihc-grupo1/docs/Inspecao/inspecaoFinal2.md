@@ -57,19 +57,19 @@ A tabela 3 mostra o checklist das Análise de Atividades e foi construído por t
 
 <p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
-## Perfil de usuário
-A tabela 4 mostra o checklist do Perfil de usuário e foi construído pela integrante Carla.
+## Perfil de usuário  
+A tabela 4 mostra o checklist do Perfil de usuário e foi construída pela integrante Carla.
 
-    Tabela 4: Perfil de usuário
 |  ID   | Descrição | Avaliação | Referência |
 | :---: | :-------: | :-------: | :--------: |
-|  11   |     -     |     -     |     -      |
-|  12   |     -     |     -     |     -      |
-|  13   |     -     |     -     |     -      |
-|  14   |     -     |     -     |     -      |
-|  15   |     -     |     -     |     -      |
+|  09   | O perfil de usuário detalha as características do usuário? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU1.png) |
+|  10   | O perfil de usuário detalha as características de interesse (função, cargo, experiência, nível de instrução, atividades principais, faixa etária, etc)? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU2.png) |
+|  11   | O perfil de usuário foi definido através de um estudo para coletar os dados? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU3.png) |
+|  12   | O perfil de usuário foi construído com dados sobre o próprio usuário, sua relação com tecnologia, seu domínio do produto e tarefas que utilizará com o produto? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU4.png) |
+|  13   | Os usuários são caracterizados em grupos, com base em suas semelhanças? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU5.png) |
 
-<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p>
+
 
 ## Aspecto ético
 A tabela 5 mostra o checklist do Aspecto ético e foi construído pelo integrante João.
@@ -111,6 +111,14 @@ A tabela 5 mostra o checklist do Aspecto ético e foi construído pelo integrant
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td>03/12</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.1</td>
+            <td>Adição de checklists perfil user</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>
