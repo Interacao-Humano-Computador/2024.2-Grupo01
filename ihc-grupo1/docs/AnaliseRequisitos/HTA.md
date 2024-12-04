@@ -214,7 +214,7 @@ Tabela 4: Análise da HTA - Criando Pacote. Autor: Eduarda Tavares.
 </p>
 </div>
 
-### 4. Publicar um post no BlueSky
+### 5. Publicar um post no BlueSky
 
 <figure markdown="span" align="center">
   ![legenda](../assets/images/hta_postar.png){ width="600" align="center" }
