@@ -20,17 +20,17 @@ O BlueSky deve oferecer as seguintes funcionalidades principais, garantindo que 
 - Personalização avançada da experiência com feeds algorítmicos customizados
 - Sistema robusto de domínios personalizados para verificação de identidade e autenticidade
 
-| Publicação                        | Interação                              |
-| ------------------------------------------ | ------------------------------------------ |
-| ![Post](/ihc-grupo1/docs/assets/images/metas/post.png)                    | ![Interação](/ihc-grupo1/docs//assets/images/metas/interacao.png)                      |
+| Publicação                               | Interação                                          |
+| ---------------------------------------- | -------------------------------------------------- |
+| ![Post](../assets/images/metas/post.png) | ![Interação](../assets/images/metas/interacao.png) |
 
-| Descobrir                    | Feed                        |
-| ------------------------------------------ | ------------------------------------------ |
-| ![Discover](/ihc-grupo1/docs/assets/images/metas/discover.png)                    | ![Interação](/ihc-grupo1/docs//assets/images/metas/feed.png)                   |
+| Descobrir                                        | Feed                                          |
+| ------------------------------------------------ | --------------------------------------------- |
+| ![Discover](../assets/images/metas/discover.png) | ![Interação](../assets/images/metas/feed.png) |
 
-| Domínio                    |
-| ------------------------------------------ |
-| ![Dominio](/ihc-grupo1/docs/assets/images/metas/dominio.png)                    |
+| Domínio                                        |
+| ---------------------------------------------- |
+| ![Dominio](../assets/images/metas/dominio.png) |
 
 <center>Fonte: BlueSky </center>
 
@@ -45,13 +45,13 @@ Para melhorar a eficiência do BlueSky, focaremos em:
 - Implementar atalhos de teclado personalizáveis para usuários avançados
 - Otimizar o carregamento de conteúdo para garantir uma experiência fluida em diferentes dispositivos e conexões
 
-| Interface poluída                        | Menções não aparecem sempre                              |
-| ------------------------------------------ | ------------------------------------------ |
-| ![Familiar](/ihc-grupo1/docs/assets/images/metas/familiar.png)                    | ![Mencao](/ihc-grupo1/docs//assets/images/metas/arroba.png)                      |
+| Interface poluída                                | Menções não aparecem sempre                  |
+| ------------------------------------------------ | -------------------------------------------- |
+| ![Familiar](../assets/images/metas/familiar.png) | ![Mencao](../assets/images/metas/arroba.png) |
 
-| Emojis e Gifs genéricos                   |
+| Emojis e Gifs genéricos                    |
 | ------------------------------------------ |
-| ![Emoji](/ihc-grupo1/docs/assets/images/metas/emoji.png)                    |
+| ![Emoji](../assets/images/metas/emoji.png) |
 
 <center>Fonte: BlueSky </center>
 
@@ -66,13 +66,13 @@ Para garantir a segurança e privacidade dos usuários, o BlueSky deve:
 - Implementar autenticação de dois fatores e opções avançadas de controle de acesso
 - Oferecer um painel de controle de privacidade detalhado e fácil de usar
 
-| Poucos atalhos anti-Toxicidade                        | Sem configuração de notificação                              |
-| ------------------------------------------ | ------------------------------------------ |
-| ![Anti-Toxicidade](/ihc-grupo1/docs/assets/images/metas/toxicidade.png)                    | ![Notificação](/ihc-grupo1/docs//assets/images/metas/Notificacao.png)                      |
+| Poucos atalhos anti-Toxicidade                            | Sem configuração de notificação                        |
+| --------------------------------------------------------- | ------------------------------------------------------ |
+| ![Anti-Toxicidade](../assets/images/metas/toxicidade.png) | ![Notificação](../assets/images/metas/Notificacao.png) |
 
-| Moderação sem suporte                   | Pouca opção de privacidade                        |
-| ------------------------------------------ | ------------------------------------------ |
-| ![Moderação](/ihc-grupo1/docs/assets/images/metas/Moderacao.png)                    | ![Privacidade](/ihc-grupo1/docs//assets/images/metas/privacidade.png)                   |
+| Moderação sem suporte                              | Pouca opção de privacidade                             |
+| -------------------------------------------------- | ------------------------------------------------------ |
+| ![Moderação](../assets/images/metas/Moderacao.png) | ![Privacidade](../assets/images/metas/privacidade.png) |
 
 <center>Fonte: BlueSky </center>
 
@@ -87,13 +87,13 @@ O BlueSky deve oferecer:
 - Ferramentas de análise de engajamento para criadores de conteúdo
 - Integração com carteiras digitais para transações e monetização de conteúdo
 
-| Sem agendamento ou formatação                       | Vídeos e músicas                              |
-| ------------------------------------------ | ------------------------------------------ |
-| ![Agendamento](/ihc-grupo1/docs/assets/images/metas/formatacao.png)                    | ![Notificação](/ihc-grupo1/docs//assets/images/metas/video.png)                      |
+| Sem agendamento ou formatação                         | Vídeos e músicas                                 |
+| ----------------------------------------------------- | ------------------------------------------------ |
+| ![Agendamento](../assets/images/metas/formatacao.png) | ![Notificação](../assets/images/metas/video.png) |
 
-| Domínios grandes e de difícil compartilhamento                    | Sem estatísticas de engajamento                        |
-| ------------------------------------------ | ------------------------------------------ |
-| ![Domínio](/ihc-grupo1/docs/assets/images/metas/dominio.png)                    | ![Engajamento](/ihc-grupo1/docs//assets/images/metas/engajamento.png)                   |
+| Domínios grandes e de difícil compartilhamento | Sem estatísticas de engajamento                        |
+| ---------------------------------------------- | ------------------------------------------------------ |
+| ![Domínio](../assets/images/metas/dominio.png) | ![Engajamento](../assets/images/metas/engajamento.png) |
 
 <center>Fonte: BlueSky </center>
 
@@ -108,14 +108,14 @@ Para facilitar o aprendizado, o BlueSky deve:
 - Disponibilizar um centro de ajuda abrangente com guias, vídeos e FAQs
 - Implementar um assistente virtual para suporte imediato e orientação de uso
 
-| Tela principal de novos usuários sem nenhum suporte ou tutorial                      | 
-| ------------------------------------------ |
-| ![Principal](/ihc-grupo1/docs/assets/images/metas/principal.png)                    |
+| Tela principal de novos usuários sem nenhum suporte ou tutorial |
+| --------------------------------------------------------------- |
+| ![Principal](../assets/images/metas/principal.png)              |
 
-| Suporte genérico e fora do site apenas                                                                 |
-|-------------------------------------------------------------------------------------------------------|
-| ![Suporte](/ihc-grupo1/docs/assets/images/metas/ajuda.png) ![Privacidade](/ihc-grupo1/docs/assets/images/metas/ajuda2.png) |
-               |
+| Suporte genérico e fora do site apenas                                                         |
+| ---------------------------------------------------------------------------------------------- |
+| ![Suporte](../assets/images/metas/ajuda.png) ![Privacidade](../assets/images/metas/ajuda2.png) |
+
 <center>Fonte: BlueSky </center>
 
 
@@ -130,9 +130,9 @@ Para melhorar a memorização e facilitar o uso recorrente, o BlueSky deve:
 - Evitar mudanças drásticas no layout ou nas funcionalidades principais, priorizando atualizações incrementais
 - Fornecer opções de personalização da interface para que os usuários possam adaptar a plataforma às suas preferências
 
-| Ícones e rótulos bem descritivos mas sem opção de histórico                     | 
-| ------------------------------------------ |
-| ![Principal](/ihc-grupo1/docs/assets/images/metas/Notificacao.png)                    |
+| Ícones e rótulos bem descritivos mas sem opção de histórico |
+| ----------------------------------------------------------- |
+| ![Principal](../assets/images/metas/Notificacao.png)        |
 
 ## Avaliação e Métricas
 

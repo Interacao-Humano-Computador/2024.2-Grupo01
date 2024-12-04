@@ -60,13 +60,13 @@ A tabela 3 mostra o checklist das Análise de Atividades e foi construído por t
 ## Perfil de usuário  
 A tabela 4 mostra o checklist do Perfil de usuário e foi construída pela integrante Carla.
 
-|  ID   | Descrição | Avaliação | Referência |
-| :---: | :-------: | :-------: | :--------: |
-|  09   | O perfil de usuário detalha as características do usuário? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU1.png) |
-|  10   | O perfil de usuário detalha as características de interesse (função, cargo, experiência, nível de instrução, atividades principais, faixa etária, etc)? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU2.png) |
-|  11   | O perfil de usuário foi definido através de um estudo para coletar os dados? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU3.png) |
-|  12   | O perfil de usuário foi construído com dados sobre o próprio usuário, sua relação com tecnologia, seu domínio do produto e tarefas que utilizará com o produto? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU4.png) |
-|  13   | Os usuários são caracterizados em grupos, com base em suas semelhanças? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU5.png) |
+|  ID   |                                                                            Descrição                                                                            | Avaliação |                                                                                                      Referência                                                                                                      |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  11   |                                                   O perfil de usuário detalha as características do usuário?                                                    |    SIM    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU1.png) |
+|  12   |     O perfil de usuário detalha as características de interesse (função, cargo, experiência, nível de instrução, atividades principais, faixa etária, etc)?     |    SIM    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU2.png) |
+|  13   |                                          O perfil de usuário foi definido através de um estudo para coletar os dados?                                           |    SIM    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU3.png) |
+|  14   | O perfil de usuário foi construído com dados sobre o próprio usuário, sua relação com tecnologia, seu domínio do produto e tarefas que utilizará com o produto? |    SIM    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU4.png) |
+|  15   |                                             Os usuários são caracterizados em grupos, com base em suas semelhanças?                                             |    SIM    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. ISBN: 978-65-00-19677-1.](../../assets/images/PU5.png) |
 
 <p>Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p>
 
@@ -75,13 +75,20 @@ A tabela 4 mostra o checklist do Perfil de usuário e foi construída pela integ
 A tabela 5 mostra o checklist do Aspecto ético e foi construído pelo integrante João.
 
     Tabela 4: Aspecto ético
-|  ID   | Descrição | Avaliação | Referência |
-| :---: | :-------: | :-------: | :--------: |
-|  16   |     -     |     -     |     -      |
-|  17   |     -     |     -     |     -      |
-|  18   |     -     |     -     |     -      |
-|  19   |     -     |     -     |     -      |
-|  20   |     -     |     -     |     -      |
+|  ID   |                                                   Descrição                                                    | Avaliação |      Referência      |
+| :---: | :------------------------------------------------------------------------------------------------------------: | :-------: | :------------------: |
+|  16   |                       Os objetivos da pesquisa são explicados no termo de consentimento?                       |    SIM    | [1] Barbosa e Silva¹ |
+|  17   |                A forma de participação do participante é explicada no termo de consentimento??                 |    SIM    | [1] Barbosa e Silva¹ |
+|  18   |            Os tipos de dados coletados e suas análises são esclarecidos no termo de consentimento??            |    SIM    | [1] Barbosa e Silva¹ |
+|  19   |                     O tempo de coleta dos dados é explicitado no termo de consentimento??                      |    SIM    | [1] Barbosa e Silva¹ |
+|  20   | O termo de consentimento garante confidencialidade e privacidade dos dados brutos coletados aos participantes? |    SIM    | [1] Barbosa e Silva¹ |
+|  21   |                        O termo de consentimento garante o anonimato dos participantes?                         |    SIM    | [1] Barbosa e Silva¹ |
+|  22   |                      O participante é informado das gravações durante a coleta de dados?                       |    SIM    | [1] Barbosa e Silva¹ |
+|  23   |     Existem campos para assinatura do entrevistado e do responsável pelo estudo no termo de consentimento?     |    SIM    | [1] Barbosa e Silva¹ |
+|  24   |                                     Foi seguido o princípio da autonomia?                                      |    SIM    | [1] Barbosa e Silva¹ |
+|  25   |                                    Foi seguido o princípio da beneficência?                                    |    SIM    | [1] Barbosa e Silva¹ |
+|  26   |                                  Foi seguido o princípio da não maleficência?                                  |    SIM    | [1] Barbosa e Silva¹ |
+|  27   |                                 Foi seguido o princípio da justiça e equidade?                                 |    SIM    | [1] Barbosa e Silva¹ |
 
 <p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 

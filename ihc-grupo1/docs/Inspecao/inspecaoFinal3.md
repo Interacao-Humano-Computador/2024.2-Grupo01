@@ -33,13 +33,13 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 A tabela 2 mostra o checklist dos Principios gerais de projeto e foi construído pelo integrante Davi.
 
     Tabela 2: Principios gerais de projeto
-|  ID   | Descrição | Avaliação | Referência |
-| :---: | :-------: | :-------: | :--------: |
-|  01   |    É apresentado como o Princípios Gerais do Projeto será utilizado no projeto ?     |     -     |     [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/)      |
-|  02   |     Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999;     |     -     |     [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/)      |
-|  03   |     Há descrição para cada um dos princípios?     |     -     |     [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/)      |
-|  04   |     O documento demonstra como aplicar os princípios na prática ?     |     -     |     [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/)      |
-|  05   |     O documento prova seu ponto com prints?     |     -     |     Autor: Davi Nobre      |
+|  ID   |                                                                           Descrição                                                                            | Avaliação |                                                                                   Referência                                                                                    |
+| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  01   |                                         É apresentado como o Princípios Gerais do Projeto será utilizado no projeto ?                                          |    SIM    | [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/) |
+|  02   | Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999; |    SIM    | [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/) |
+|  03   |                                                           Há descrição para cada um dos princípios?                                                            |    SIM    | [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/) |
+|  04   |                                                 O documento demonstra como aplicar os princípios na prática ?                                                  |    SIM    | [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/) |
+|  05   |                                                            O documento prova seu ponto com prints?                                                             |    SIM    |                                                                                Autor: Davi Nobre                                                                                |
 
 <p>Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
@@ -47,13 +47,13 @@ A tabela 2 mostra o checklist dos Principios gerais de projeto e foi construído
 A tabela 3 mostra o checklist das Metas de usabilidade e foi construído pelo integrante João.
 
     Tabela 3: Metas de usabilidade
-|  ID   | Descrição | Avaliação | Referência |
-| :---: | :-------: | :-------: | :--------: |
-|  06   |     -     |     -     |     -      |
-|  07   |     -     |     -     |     -      |
-|  08   |     -     |     -     |     -      |
-|  09   |     -     |     -     |     -      |
-|  10   |     -     |     -     |     -      |
+|  ID   |                                           Descrição                                            | Avaliação |      Referência      |
+| :---: | :--------------------------------------------------------------------------------------------: | :-------: | :------------------: |
+|  06   |            São apresentadas quais metas de usabilidade serão alcançadas no projeto?            |    SIM    | [1] Barbosa e Silva¹ |
+|  07   | É explicada a razão da escolha das metas de usabilidade que foram selecionadas para o projeto? |    SIM    | [3] Dominio Público  |
+|  08   |            O documento possui explicação para cada meta de usabilidade selecionada?            |    SIM    | [3] Dominio Público  |
+|  09   |          É apresentado como as metas de usabilidade serão verificadas nas avaliações?          |    SIM    | [1] Barbosa e Silva¹ |
+|  10   |           As metas de usabilidade são relevantes para o contexto de uso do sistema?            |    SIM    | [1] Barbosa e Silva¹ |
 
 <p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
@@ -88,16 +88,16 @@ A tabela 4 mostra o checklist do Guia de estilo e foi construído pela integrant
 A tabela 5 mostra o checklist das Características da plataforma para o projeto e foi construído pela integrante Carla.
 
     Tabela 5: Características da plataforma para o projeto
-|  ID   | Descrição | Avaliação | Referência |
-| :---: | :-------: | :-------: | :--------: |
-|  29   |     Foi verificado se o topico "Correspondência com as expectativas dos usuários" está presente no site?     |     -     |     [3]      |
-|  30   |     Foi verificado se o tópico "Simplicidade nas estruturas das tarefas" está presente no site?     |     -     |     [3]      |
-|  31   |     Foi verificado se o tópico "Equilíbrio entre controle e liberdade do usuário" está presente no site?     |     -     |     [3]      |
-|  32   |     Foi verificado se o tópico "Promoção da eficiência do usuário" está presente no site?     |     -     |     [3]      |
-|  33   |     Foi verificado se o tópico "Antecipação das necessidades do usuário" está presente no site?     |     -     |     [3]      |
-|  34   |     Foi verificado se o tópico "Visibilidade e reconhecimento" está presente no site?     |     -     |     [3]      |
-|  35   |     Foi verificado se o tópico "Conteúdo relevante e expressão adequada" está presente no site ?     |     -     |     [3]      |
-|  36   |     Foi verificado se o tópico "Projeto para erros" está presente no site ?     |     -     |     [3]      |
+|  ID   |                                              Descrição                                               | Avaliação | Referência |
+| :---: | :--------------------------------------------------------------------------------------------------: | :-------: | :--------: |
+|  29   | Foi verificado se o topico "Correspondência com as expectativas dos usuários" está presente no site? |    SIM    |    [3]     |
+|  30   |     Foi verificado se o tópico "Simplicidade nas estruturas das tarefas" está presente no site?      |    SIM    |    [3]     |
+|  31   | Foi verificado se o tópico "Equilíbrio entre controle e liberdade do usuário" está presente no site? |    SIM    |    [3]     |
+|  32   |        Foi verificado se o tópico "Promoção da eficiência do usuário" está presente no site?         |    SIM    |    [3]     |
+|  33   |     Foi verificado se o tópico "Antecipação das necessidades do usuário" está presente no site?      |    SIM    |    [3]     |
+|  34   |          Foi verificado se o tópico "Visibilidade e reconhecimento" está presente no site?           |    SIM    |    [3]     |
+|  35   |     Foi verificado se o tópico "Conteúdo relevante e expressão adequada" está presente no site ?     |    SIM    |    [3]     |
+|  36   |               Foi verificado se o tópico "Projeto para erros" está presente no site ?                |    SIM    |    [3]     |
 
 <p>Autor: <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 
