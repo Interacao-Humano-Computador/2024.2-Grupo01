@@ -153,7 +153,7 @@ Na Tabela 07 abaixo é definido o que foi executado do planejamento da Tabela 05
 | Criar guia de estilo | Início: 28/11<br>Fim: 30/11 | João Vitor, Gabriel | 01/12 | Davi |
 | Determinar características da plataforma | Início: 29/11<br>Fim: 30/11 | Davi, Carla | 01/12 | Eduarda |
 | Gravação da apresentação | Início: 01/12<br>Fim: 01/12 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
-| Finalização da entrega | Início: 02/12<br>Fim: 02/12 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: 02/12<br>Fim: 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
 
 <font size="3"><p style="text-align: center">Autor: Gabriel Santos Monteiro.</p></font>
 
