@@ -214,6 +214,57 @@ Tabela 4: Análise da HTA - Criando Pacote. Autor: Eduarda Tavares.
 </p>
 </div>
 
+### 4. Publicar um post no BlueSky
+
+<figure markdown="span" align="center">
+  ![legenda](../assets/images/hta_postar.png){ width="600" align="center" }
+  <figcaption>Imagem 4: Diagrama HTA - Publicar um post no BlueSky. <br/> Autor: Gabriel Monteiro.</figcaption>
+</figure>
+
+<div style='display: flex; align-items: center; flex-direction: column'>
+<table>
+<thead>
+    <tr>
+      <th>Objetivos / operações</th>
+      <th>Problemas e recomendações</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>0. Publicar um post no BlueSky 1>2>3>4</strong></td>
+      <td><strong>Plano:</strong> Acessar a área de criação de post, escrever o conteúdo, adicionar mídia (se desejado) e publicar.<br/>
+          <strong>Input:</strong> Texto do post e possível mídia adicional.<br/>
+          <strong>Feedback:</strong> Atualização da timeline e notificação de publicação bem-sucedida.</td>
+    </tr>
+    <tr>
+      <td><strong>1. Acessar a área de criação de post</strong></td>
+      <td><strong>Plano:</strong> Guiar o mouse até o campo de criação de post (caixa de texto).<br/>
+          <strong>Feedback:</strong> O cursor aparece no campo de texto, indicando que está pronto para entrada.</td>
+    </tr>
+    <tr>
+      <td><strong>2. Escrever o conteúdo do post 1>2</strong></td>
+      <td><strong>Input:</strong> Texto digitado pelo usuário.<br/>
+          <strong>Recomendação:</strong> Exibir contador de caracteres para evitar exceder o limite.</td>
+    </tr>
+    <tr>
+      <td><strong>3. Adicionar mídia ao post (opcional) 1>2>3</strong></td>
+      <td><strong>Input:</strong> Arquivo de mídia selecionado pelo usuário.<br/>
+          <strong>Feedback:</strong> Prévia da mídia adicionada ao post.</td>
+    </tr>
+    <tr>
+      <td><strong>4. Publicar o post 1>2</strong></td>
+      <td><strong>Plano:</strong> Clicar no botão "Post" para publicar.<br/>
+          <strong>Feedback:</strong> Notificação de publicação bem-sucedida e atualização da timeline.<br/>
+          <strong>Recomendação:</strong> Oferecer uma prévia do post antes da publicação final.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align='center'>
+Tabela 4: Análise da HTA - Publicar um post no BlueSky. Autor: Gabriel Monteiro.
+</p>
+</div>
+
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 Autopublicação. ISBN: 978-65-00-19677-1.
@@ -253,6 +304,14 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td>Adicionando criação da tarefa repostagem</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>02/12</td>
+            <td><a</a></td>
+        </tr>   
+        <tr>
+            <td>03/12</td>
+            <td>1.2</td>
+            <td>Adicionando criação da postagem</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td>03/12</td>
             <td><a</a></td>
         </tr>      
     </table>
