@@ -35,13 +35,13 @@ A tabela 2 mostra o checklist dos Principios gerais de projeto e foi construído
     Tabela 2: Principios gerais de projeto
 |  ID   | Descrição | Avaliação | Referência |
 | :---: | :-------: | :-------: | :--------: |
-|  01   |     -     |     -     |     -      |
-|  02   |     -     |     -     |     -      |
-|  03   |     -     |     -     |     -      |
-|  04   |     -     |     -     |     -      |
-|  05   |     -     |     -     |     -      |
+|  01   |    É apresentado como o Princípios Gerais do Projeto será utilizado no projeto ?     |     -     |     [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/)      |
+|  02   |     Os princípios gerais do projeto apresentam embasamento teórico? Por exemplo: Norman, 1988; Tognazzini, online; Nielsen, 1993; Shneiderman, 1998; Cooper, 1999;     |     -     |     [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/)      |
+|  03   |     Há descrição para cada um dos princípios?     |     -     |     [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/)      |
+|  04   |     O documento demonstra como aplicar os princípios na prática ?     |     -     |     [Repositório IHC: Dominio Púlico](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_4/etapa_analise_Req/principios_diretrizes/)      |
+|  05   |     O documento prova seu ponto com prints?     |     -     |     Autor: Davi Nobre      |
 
-<p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p>Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
 ## Metas de usabilidade
 A tabela 3 mostra o checklist das Metas de usabilidade e foi construído pelo integrante João.
