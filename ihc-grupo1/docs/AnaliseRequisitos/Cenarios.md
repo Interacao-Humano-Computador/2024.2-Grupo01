@@ -30,15 +30,15 @@ Mariana então digita: "Oi, João! Você pode me enviar o último relatório té
 João responde quase imediatamente, e Mariana continua a conversa. Satisfeita, ela fecha o chat e retorna ao seu trabalho.
 
 
-### **Cenário 2: Adicionando um post de interesse aos itens salvos pelo site**
+### **Cenário 2: Repostando um post de interesse pelo site**
 
-Bruno Andrade, um estudante universitário, está navegando pelo site do BlueSky em seu notebook para relaxar após um longo dia de estudos. Ao explorar sua timeline, ele se depara com um post sobre um evento de engenharia que chamou sua atenção. Desejando guardar a informação para consultá-la mais tarde, Bruno decide salvá-lo em sua aba de "Itens Salvos".
+Bruno Andrade, um estudante universitário, está navegando pelo site do BlueSky em seu notebook para relaxar após um longo dia de estudos. Ao explorar sua timeline, ele se depara com um post sobre um evento de engenharia que chamou sua atenção. Desejando compartilhar a informação para seus amigos verem mais tarde, Bruno decide repostar ela pelo botão com duas setas que apontam uma a outra. Bruno aumentou o alcance de um post.
 
-Primeiramente, ele posiciona o cursor sobre o post e localiza o ícone de salvar post (parecendo um marcador de página) no canto inferior direito. Clicando no ícone, Bruno usa a opção "Salvar em Itens Salvos".
+Primeiramente, ele posiciona o cursor sobre o post e localiza o ícone de repostar (duas setas que parecem girar apontadas uma para outra) no canto inferior do meio. Clicando no ícone, Bruno usa a opção Repostar padrão. Bruno tem a opção lado a lado que diz repostar com mensagem, na qual se escolhida pode fazer um post que leva a outro, mas ele opta por fazer isso mais tarde pois está cansado e sabe que sua repostagem pode ser convertida para esse modelo e dada como mais recente assim que feita. 
 
-O site exibe imediatamente uma mudança de cor nos itens salvos que vai de transparente para azul, confirmando assim que a ação foi feita e registrada ao sistema. 
+O site exibe imediatamente uma mudança de cor nos itens repostados que vai de transparente para verde escuro, confirmando assim que a ação foi feita e registrada ao sistema. 
 
-Com a confirmação de que o post foi salvo, Bruno retorna à timeline para continuar navegando por outros conteúdos.
+Com a confirmação de que o post foi repostado, Bruno retorna à timeline para continuar navegando por outros conteúdos.
 
 ### **Cenário 3: Criando uma lista de usuários**
 
@@ -74,9 +74,31 @@ Para ampliar ainda mais o alcance, Mariana usa a função de compartilhamento di
 
 Ao longo do dia, Mariana continua a atualizar a thread com novas informações e formas de ação, aproveitando a capacidade do BlueSky de editar e adicionar conteúdo a posts existentes. Ela se sente satisfeita por ter conseguido mobilizar rapidamente sua audiência para uma causa importante, graças às ferramentas eficientes de comunicação e engajamento oferecidas pelo BlueSky.
 
-## Referência Bibliográfica
+### **Cenário 5: Criando um Pacote Inicial para Compartilhar Feeds e Pessoas**
 
-> 1. <a name="1"></a>Referência: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
+**Atores:** Joana (usuária ativa do Bluesky)
+
+Joana, uma usuária ativa do Bluesky, decide criar um Pacote Inicial para organizar seus feeds favoritos e facilitar o compartilhamento com seus amigos. Ela está explorando a aba "Pacotes Iniciais" pela primeira vez e está animada com a possibilidade de personalizar sua experiência na plataforma.
+
+Joana acessa o site do Bluesky em seu notebook e navega até a aba "Pacotes Iniciais", localizada no menu do perfil. Ao abrir a aba, ela é recebida por uma mensagem:
+"Você ainda não criou um pacote inicial! Pacotes iniciais permitem que você compartilhe facilmente seus feeds e pessoas favoritas com seus amigos."
+
+Debaixo da mensagem, Joana encontra duas opções:
+
+ > 1. "Faça um para mim", para um pacote gerado automaticamente.
+ > 2. "Criar", para personalizar manualmente o pacote.
+   
+Joana opta por clicar em "Criar". A interface exibe uma página onde ela pode nomear seu pacote como "Meus Favoritos", adicionar uma descrição personalizada e selecionar feeds e pessoas para incluí-los no pacote. Ela decide adicionar alguns feeds que considera mais relevantes sobre tecnologia e sustentabilidade, além de perfis de amigos com interesses em comum.
+
+Durante o processo, Joana percebe que não há um campo de pesquisa para facilitar a adição de feeds ou perfis específicos. Ela precisa navegar manualmente pela lista de opções, o que torna a tarefa um pouco mais demorada. Ainda assim, ela consegue completar a seleção e salva o pacote.
+
+Ao finalizar, o Bluesky exibe uma mensagem de sucesso:
+"Seu pacote inicial 'Meus Favoritos' foi criado e está pronto para ser compartilhado!"
+
+Empolgada, Joana testa a funcionalidade de compartilhamento e envia o link do pacote para um grupo de amigos. Eles conseguem acessar facilmente os feeds e perfis organizados no pacote criado por Joana. Satisfeita, ela conclui que a ferramenta é útil, mas gostaria de uma opção mais rápida para filtrar e adicionar itens ao pacote.
+
+## Bibliografia
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 Autopublicação. ISBN: 978-65-00-19677-1.
 
 
@@ -121,6 +143,14 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td>1.3</td>
             <td> Adição do 4º cenário</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.4</td>
+            <td> Adição do 5º cenário</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td></td>
             <td><a></a></td>
         </tr>

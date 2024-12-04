@@ -72,9 +72,9 @@ O ciclo de vida proposto por Deborah Mayhew  avalia no início, as necessidades 
 
 Nossa equipe irá utilizar o modelo de Mayhew, por estar amplamente detalhado ao longo do projeto, evitando assdim tirar conclusões próprias e errôneas como também melhorar nossa avaliação pessoal para com as necessidades de nosso projeto. É evidenciado também em projetos passados que alunos que escolheram este processo tiveram trabalhos de maior qualidade (trabalhos usados de exemplo na matéria). 
 
-## Referência Bibliográfica
+## Bibliografia
 
-[1] BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.
+ > 1. BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.
 
 
 

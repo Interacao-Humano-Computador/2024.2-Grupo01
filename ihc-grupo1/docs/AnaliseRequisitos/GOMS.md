@@ -201,15 +201,106 @@ GOAL 0: Criar lista de perfis de interesse
 		OP 3.4: Clicar no botão 'Feito'
 ```
 
-## Referência Bibliográfica
+### Tarefa 8: Compartilhar um post
 
-> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+```
+GOAL 0: Fazer login na conta do BlueSky
+    OP 0.1: Digitar o e-mail no campo de login
+    OP 0.2: Digitar a senha no campo correspondente
+    OP 0.3: Clicar no botão de login
+
+GOAL 1: Localizar o post que deseja compartilhar
+    OP 1.1: Navegar pela timeline ou buscar o post desejado
+    OP 1.2: Parar a navegação ao encontrar o post
+
+GOAL 2: Acessar as opções de compartilhamento
+    OP 2.1: Guiar o mouse até o ícone de compartilhamento (geralmente uma seta ou símbolo de retweet)
+    OP 2.2: Clicar ou tocar no ícone de compartilhamento
+
+GOAL 3: Escolher o método de compartilhamento
+    OP 3.1: Selecionar "Repostar" para compartilhar diretamente na sua timeline
+    OP 3.2: Selecionar "Citar post" para adicionar um comentário ao compartilhar
+
+GOAL 4: Adicionar comentário (se "Citar post" foi selecionado)
+    OP 4.1: Digitar o comentário no campo de texto
+    OP 4.2: Revisar o comentário
+
+GOAL 5: Confirmar o compartilhamento
+    OP 5.1: Clicar no botão "Compartilhar" ou "Repostar"
+
+GOAL 6: Verificar se o post foi compartilhado
+    OP 6.1: Observar a atualização na sua timeline
+    OP 6.2: Verificar a notificação de compartilhamento bem-sucedido
+```
+
+### Tarefa 9: Seguir um novo usuário
+
+```
+GOAL 0: Fazer login na conta do BlueSky
+    OP 0.1: Digitar o e-mail no campo de login
+    OP 0.2: Digitar a senha no campo correspondente
+    OP 0.3: Clicar no botão de login
+
+GOAL 1: Encontrar o usuário que deseja seguir
+    OP 1.1: Usar a barra de pesquisa para buscar o nome do usuário
+    OP 1.2: Navegar pelos resultados da pesquisa
+
+GOAL 2: Acessar o perfil do usuário
+    OP 2.1: Clicar no nome ou foto do usuário nos resultados da pesquisa
+
+GOAL 3: Iniciar o processo de seguir
+    OP 3.1: Localizar o botão "Seguir" no perfil do usuário
+    OP 3.2: Clicar no botão "Seguir"
+
+GOAL 4: Confirmar que está seguindo o usuário
+    OP 4.1: Observar a mudança visual no botão (de "Seguir" para "Seguindo")
+    OP 4.2: Verificar se os posts do usuário aparecem na sua timeline
+```
+### Tarefa 10: Criar um Pacote Inicial
+
+Nesta tarefa, o usuário deseja criar um Pacote Inicial na plataforma Bluesky para organizar e compartilhar feeds e perfis favoritos com amigos.
+
+```
+GOAL 0: Fazer login na conta do Bluesky  
+    OP 0.1: Digitar o e-mail no campo de login  
+    OP 0.2: Digitar a senha no campo correspondente  
+    OP 0.3: Clicar no botão de login  
+
+GOAL 1: Acessar a aba "Pacotes Iniciais"  
+    OP 1.1: Navegar até a aba "Pacotes Iniciais" no menu do perfil  
+    OP 1.2: Clicar na aba para visualizar as opções de pacotes  
+
+GOAL 2: Iniciar a criação de um novo pacote  
+    OP 2.1: Clicar no botão "Criar" exibido na interface  
+    (Sel. Rule: Se o usuário optar por "Faça um para mim", o sistema cria automaticamente um pacote com base em sugestões.)  
+
+GOAL 3: Personalizar o pacote  
+    OP 3.1: Digitar um nome para o pacote no campo correspondente  
+    OP 3.2: Escrever uma descrição breve sobre o pacote  
+    OP 3.3: Navegar pela lista de feeds e perfis disponíveis  
+    OP 3.4: Selecionar os itens desejados para adicionar ao pacote  
+
+GOAL 4: Confirmar a criação do pacote  
+    OP 4.1: Clicar no botão "Salvar" ou "Finalizar" para concluir a criação  
+    OP 4.2: Verificar a mensagem de confirmação de sucesso  
+
+GOAL 5: Compartilhar o pacote com amigos (opcional)  
+    OP 5.1: Clicar no botão "Compartilhar" exibido ao lado do pacote criado  
+    OP 5.2: Escolher os contatos para enviar o pacote  
+    OP 5.3: Confirmar o envio e observar a notificação de sucesso  
+
+GOAL 6: Verificar o pacote criado  
+    OP 6.1: Retornar à aba "Pacotes Iniciais" para confirmar a presença do novo pacote na lista  
+    OP 6.2: Observar os itens adicionados no pacote para garantir que estão corretos  
+```
+
 
 ## Bibliografia
+> 1. Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023.1. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/.> Acesso em 01/12/2024 ás 14:41
 
-> Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023.1. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/.> Acesso em 01/12/2024 ás 14:41
+> 2. Dominio Publico. Análise de Tarefas. Repositório do Grupo Dominio Público da disciplina de Interação Humano Computador da Universidade de brasília, 2023.2. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/> Acesso em 01/12/2024 ás 14:44
 
-> Dominio Publico. Análise de Tarefas. Repositório do Grupo Dominio Público da disciplina de Interação Humano Computador da Universidade de brasília, 2023.2. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/analise_de_tarefas/goms/> Acesso em 01/12/2024 ás 14:44
+> 3. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -244,6 +335,22 @@ GOAL 0: Criar lista de perfis de interesse
             <td>1.2</td>
             <td>Adicionando criação de lista de usuários</td>
             <td><a href="https://github.com/JoaoV">João Vitor</a></td>
+            <td></td>
+            <td><a></a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.3</td>
+            <td>Adicionando compartilhar um post e seguir um novo usuário</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td></td>
+            <td><a></a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.4</td>
+            <td>Adicionando criar pacotes</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td></td>
             <td><a></a></td>
         </tr>

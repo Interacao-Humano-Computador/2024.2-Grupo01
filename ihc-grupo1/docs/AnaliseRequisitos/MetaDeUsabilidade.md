@@ -155,14 +155,16 @@ A implementação bem-sucedida destas metas de usabilidade permitirá que o Blue
 ## Referências Bibliográficas
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
-
 > 2. Nielsen, J. (1993). Usability Engineering. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA.
-
 > 3. Norman, D. A. (2013). The design of everyday things: Revised and expanded edition. Basic books.
-
 > 4. Krug, S. (2014). Don't make me think, revisited: A common sense approach to Web usability. New Riders.
 
-> 2. <a name="2"></a>Referência: Ventoy (2024) Releases · ventoy/Ventoy. GitHub. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/AnaliseDeRequisitos/metasUsabilidade.md (Acesso em: 2 de dezembro de 2024)
+
+## Bibliografia
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
+Autopublicação. ISBN: 978-65-00-19677-1.s
+
+> 2. Ventoy (2024) Releases · ventoy/Ventoy. GitHub. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/AnaliseDeRequisitos/metasUsabilidade.md (Acesso em: 2 de dezembro de 2024)
 
 
 ## :round_pushpin: Histórico de Versão 
