@@ -106,3 +106,5 @@ nav:
       - GOMS: AnaliseRequisitos/GOMS.md
       - HTA: AnaliseRequisitos/HTA.md
     - Princípios Gerais: AnaliseRequisitos/Principios.md
+    - Características Gerais da Plataforma: AnaliseRequisitos/CaracteristicasGerais.md
+    - Metas de Usabilidade: AnaliseRequisitos/MetaDeUsabilidade.md
