@@ -101,6 +101,15 @@ A tabela 5 mostra o checklist das Características da plataforma para o projeto 
 
 <p>Autor: <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 
+<div style="text-align: center;">
+  <h2>Avaliação Princípios Gerais do Projeto</h2>
+  <a href="https://www.youtube.com/watch?v=TLzhwUHXApY" title="Princípios Gerais do Projeto">
+    <img src="https://img.youtube.com/vi/TLzhwUHXApY/0.jpg" alt="Princípios Gerais do Projeto" />
+  </a>
+  <p>Autor: <a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></p>
+</div>
+
+
 ## Bibliografia
 
 > 1. David Benyon, 2011, 2ª ed, Interação Humano-Computador
@@ -134,7 +143,15 @@ A tabela 5 mostra o checklist das Características da plataforma para o projeto 
             <td>Adiciona checklists</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>03/12</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.2</td>
+            <td>Adição de vídeo de inspeção</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>

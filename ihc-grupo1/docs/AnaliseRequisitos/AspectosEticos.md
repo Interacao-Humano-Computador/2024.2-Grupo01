@@ -50,8 +50,8 @@ Segue o termo de conscentimento abaixo:
             <td>1.0</td>
             <td>Criação do documento TCLE e página </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td>xx/11</td>
-            <td><a</a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro </a></td>
         </tr>
     </table>
 </div>

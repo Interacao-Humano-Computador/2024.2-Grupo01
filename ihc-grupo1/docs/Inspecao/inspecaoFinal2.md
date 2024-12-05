@@ -92,6 +92,14 @@ A tabela 5 mostra o checklist do Aspecto ético e foi construído pelo integrant
 
 <p>Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
+<div style="text-align: center;">
+  <h2>Avaliação Perfil do Usuário</h2>
+  <a href="https://youtu.be/RhwrSkh737U?si=W-0i6Bw56siybtD3" title="Avaliação Perfil do Usuário">
+    <img src="https://img.youtube.com/vi/RhwrSkh737U/0.jpg" alt="Avaliação Perfil do Usuário" />
+  </a>
+  <p>Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p>
+</div>
+
 
 ## Bibliografia
 
@@ -126,6 +134,14 @@ A tabela 5 mostra o checklist do Aspecto ético e foi construído pelo integrant
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>03/12</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>03/12</td>
+            <td>1.2</td>
+            <td>Adição de vídeo de inspeção</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>
