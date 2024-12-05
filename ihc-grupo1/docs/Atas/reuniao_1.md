@@ -1,32 +1,60 @@
 ## Ata da reunião - 01/11/2022
 
-## Dados da reunião
+## Dados da Reunião
 
-|                                     Alunos presentes                                     |    Data    | Horário de inicio e fim |      Local       |
-| :--------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Carla A. C. Ribeiro, Davi S. B. Nobre, Gabriel S. Monteiro, João V. L. Ribeiro | 10/11/2024 |      10:10 - 10:20      | Plataforma Teams |
+| Alunos presentes                                                               | Data       | Horário de início e fim | Local            |
+| ------------------------------------------------------------------------------ | ---------- | ----------------------- | ---------------- |
+| Carla A. C. Ribeiro, Davi S. B. Nobre, Gabriel S. Monteiro, João V. L. Ribeiro | 10/11/2024 | 10:10 - 10:20           | Plataforma Teams |
 
-## Objetivos da reunião
-
-- Divisão dos artefatos a serem entregues
-- Escolha do site a ser avaliado
-
-## Atividades e decisões acordadas
-
-- Carla: Heatmap
-- Individual: Lista de sites avaliados
-- Membro do grupo que teve seu site escolhido: App selecionado
-- Membro do grupo que teve seu site escolhido: Cópia do termo de uso do aplicativo
-- Davi: Ferramentas do projeto
-- João e Eduarda: Revisões
-- Gabriel: Cronograma
+> A reunião contou com a presença de todos os integrantes do grupo e ocorreu de forma rápida e objetiva na plataforma Teams.
 
 ---
-- O site escolhido foi o da Força Aérea avaliado pelo membro  Davi S. B. Nobre
 
-## Link da gravação
+## Objetivos da Reunião
 
-- Houve um erro na gravação da reunião.
+- Divisão dos artefatos a serem entregues  
+  > Foi necessário organizar as responsabilidades de cada membro para facilitar o progresso do trabalho.  
+- Escolha do site a ser avaliado  
+  > Este tópico foi decisivo para o direcionamento do trabalho, com o site escolhido sendo essencial para as próximas etapas.
+
+---
+
+## Atividades e Decisões Acordadas
+
+- **Carla**: Responsável pelo Heatmap.  
+  > Carla ficou encarregada de criar o Heatmap, que será parte essencial da análise do site escolhido.
+- **Individual**: Preparação de uma lista de sites avaliados.  
+  > Cada integrante deverá contribuir com uma lista para garantir diversidade na escolha inicial.
+- **Membro do grupo que teve seu site escolhido**:  
+  - Seleção do aplicativo.  
+  > Este membro irá definir qual aplicação será usada para realizar a avaliação final.  
+  - Obtenção de uma cópia do termo de uso do aplicativo.  
+  > A cópia do termo de uso será utilizada para validar os critérios de avaliação.  
+- **Davi**: Responsável pelas ferramentas do projeto.  
+  > Davi ficou encarregado de listar e configurar as ferramentas necessárias para a execução do projeto.
+- **João e Eduarda**: Responsáveis pelas revisões.  
+  > João e Eduarda cuidarão de validar os artefatos produzidos pelo grupo.  
+- **Gabriel**: Responsável pelo cronograma.  
+  > Gabriel organizará as entregas em um cronograma detalhado, otimizando o acompanhamento das etapas.
+
+---
+
+### Site Escolhido
+
+- **Site**: Força Aérea  
+- **Membro que propôs o site**: Davi S. B. Nobre  
+
+> O site da Força Aérea foi selecionado, considerando que ele atenderia bem aos critérios definidos para a avaliação.
+
+---
+
+## Link da Gravação
+
+- **Nota**: Houve um erro na gravação da reunião.  
+
+> Infelizmente, a gravação não pôde ser disponibilizada devido a problemas técnicos.
+
+---
 
 ## Histórico de Versão
 

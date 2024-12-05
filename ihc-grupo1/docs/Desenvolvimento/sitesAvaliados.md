@@ -26,11 +26,7 @@ A Tabela 1 indica todos os sites avaliados pelo grupo, indicando o caminho de ca
             <th>Integrante responsável</th>
         </tr>
         <tr>
-            <td><a  href="#site-1">Cebraspe</a></td>
-            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
-        </tr>
-        <tr>
-            <td><a href="#site-2">Site2</a></td>
+            <td><a href="#site-2">BlueSky</a></td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
         <tr>
@@ -41,13 +37,9 @@ A Tabela 1 indica todos os sites avaliados pelo grupo, indicando o caminho de ca
             <td><a href="#site-4">ITA</a></td>
             <td><a href="https://github.com/erteduarda">Eduarda</a></td>
         </tr>
-        <tr>
-            <td><a href="#site-5">Site5</a></td>
-            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-        </tr>
     </table>
 
-    <p>Fonte: <a href="https://github.com/Jagaima">Davi Nobre</a></p>
+    <p>Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p>
 </div>
 
 
@@ -78,25 +70,26 @@ Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site da
     <a href="../../assets/execucao_ita.pdf" target="_blank">Execução</a>
 </div>
 
-## Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe)
-O site do Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe) foi avaliado com base nas heurísticas de usabilidade de Nielsen, visando identificar e corrigir problemas para melhorar a experiência do usuário. O Cebraspe desempenha um papel importante na realização de concursos públicos e exames educacionais no Brasil, sendo um site amplamente utilizado por candidatos e interessados em processos seletivos.
+## Bluesky Social
 
-- **Relevância**: O site do Cebraspe é uma ferramenta central para acesso a informações de concursos e exames, atendendo a um público amplo de candidatos e instituições. Sua relevância se destaca pela utilidade no setor de educação e empregabilidade, sendo essencial para quem busca informações oficiais sobre processos seletivos no Brasil.
-  
-- **Base de usuários ampla**: O site é utilizado por uma gama diversa de usuários, incluindo candidatos a concursos e vestibulares, profissionais da área de educação e órgãos governamentais. A plataforma precisa, portanto, ser intuitiva e oferecer um suporte eficiente para este público variado.
+O Bluesky Social é uma plataforma de mídia social voltada para a construção de um ecossistema descentralizado, promovendo maior controle e liberdade para os usuários. Entre os pontos que justificam a escolha do site do Bluesky para o projeto da disciplina Interação Humano-Computador, destacam-se:
 
-- **Funcionalidades**: Entre as funcionalidades disponíveis, o site oferece acesso a editais, resultados, inscrições e acompanhamento de processos seletivos. Contudo, a análise revelou que certas funcionalidades podem ser aprimoradas, como a navegação e o acesso rápido a informações essenciais, além de melhorias no design para maior clareza e praticidade.
+- Relevância: O site do Bluesky desempenha um papel fundamental ao apresentar informações sobre a plataforma, seu conceito inovador de descentralização e suas funcionalidades. É uma referência importante para o público que busca compreender a missão e os valores da rede social, além de acompanhar atualizações e novidades.
 
-- **Contribuição acadêmica**: O site do Cebraspe representa uma oportunidade relevante para estudos de usabilidade e design de interação, proporcionando um campo de aplicação prática para o aprimoramento de requisitos de software. Melhorias na interface e nas funcionalidades do site podem resultar em uma experiência de usuário mais eficaz e agradável, beneficiando tanto a instituição quanto seus usuários.
+- Base de usuários ampla: O site atende a uma comunidade diversificada, incluindo usuários interessados em explorar novas redes sociais, desenvolvedores engajados com o conceito de descentralização e entusiastas de tecnologia. Sua audiência engloba tanto o público geral quanto um público técnico, ampliando sua relevância e escopo de uso.
 
-Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site do [Cebraspe](https://www.cebraspe.org.br/).
+- Funcionalidades: O site apresenta seções como informações sobre o protocolo descentralizado, notícias, convites para acesso à plataforma e detalhes sobre seu funcionamento. No entanto, existem oportunidades de melhoria, especialmente na organização da informação e na clareza da navegação, que podem otimizar a experiência do usuário.
+
+- Contribuição acadêmica: Por ser uma plataforma emergente e inovadora, o Bluesky representa uma excelente oportunidade para análise e proposição de melhorias na usabilidade e na interface de sistemas modernos. Avaliar o site com base nas heurísticas permite contribuir para a pesquisa acadêmica na área de design e usabilidade, além de gerar insights práticos sobre como melhorar a interação humano-computador no contexto de redes sociais.
 
 <div align="center">                                                                        
-    <a href="../../assets/AvaliacaoCebraspe.pdf" target="_blank">Avaliação</a>
-    </div>
+    <a href="../../assets/planejamento_bluesky.pdf" target="_blank">Planejamento</a>     
+    e
+    <a href="../../assets/avaliacao_bluesky.pdf" target="_blank">Execução</a>
+</div>
 
-## Referência Bibliográfica / Bibliografia
-[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf)
+## Bibliografia
+ > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
 <a id="c1"></a>
 
 ## :round_pushpin: Histórico de Versão 
@@ -114,9 +107,17 @@ Abaixo seguem a avaliação e a execução do uso do Framework DECIDE no site do
             <td>09/11</td>
             <td>1.0</td>
             <td>Criação inicial e adição do site FAB</td>
-            <td><a href="https://github.com/Jagaima">Davi</a></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>10/11</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-         </tr>    
+         </tr>
+         <tr>
+            <td>19/11</td>
+            <td>2.0</td>
+            <td>Adição do BlueSky</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>19/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+         </tr>       
         </table>
     </div>

@@ -1,4 +1,4 @@
-site_name: Força Aérea
+site_name: BlueSky
 
 repo_name: '2024.2-Grupo01'
 repo_url: https://github.com/Interacao-Humano-Computador/2024.2-Grupo01
@@ -44,21 +44,24 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: blue
+      accent: blue
       toggle:
         icon: custom-icons/contrast-light
         name: Modo Claro
     
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: light indigo
-      accent: indigo
+      primary: light blue
+      accent: blue
       toggle:
         icon: custom-icons/contrast-dark
         name: Modo Escuro
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -70,18 +73,41 @@ nav:
   - Home: index.md
   - Apresentação:
     - Entrega 1: Apresentacao/entrega1.md
+    - Entrega 2: Apresentacao/entrega2.md
+    - Entrega 3: Apresentacao/entrega3.md
   - Atas: 
     - Reunião 1: Atas/reuniao_1.md
+    - Reunião 2: Atas/reuniao_2.md
   - Desenvolvimento:
     - Cronograma: Desenvolvimento/Cronograma.md
     - Ferramentas: Desenvolvimento/ferramentas.md
     - Processo de Desing: Desenvolvimento/ProcessoDesing.md
     - Sites Avaliados: Desenvolvimento/sitesAvaliados.md
-    - Site Avaliado: Desenvolvimento/SiteEscolhido.md
+    - Site Escolhido: Desenvolvimento/SiteEscolhido.md
     - Disponibilidade dos Integrantes: Desenvolvimento/disponibilidade.md
   - Inspeção:
     - Etapa 1: 
       - Planejamento: Inspecao/planejamento.md
       - Inspeção final: Inspecao/inspecaoFinal.md
       - Inspeção Grupo 02: Inspecao/inspecaoGrupo2.md
-     
+    - Etapa 2: 
+      - Planejamento: Inspecao/planejamento2.md
+      - Inspeção final: Inspecao/inspecaoFinal2.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-2.md
+    - Etapa 3: 
+      - Planejamento: Inspecao/planejamento3.md
+      - Inspeção final: Inspecao/inspecaoFinal3.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-3.md
+  - Análise de Requisitos: 
+    - Aspectos Éticos: AnaliseRequisitos/AspectosEticos.md
+    - Questionario Perfil de Usuário: AnaliseRequisitos/PerfilUser.md
+    - Perfil de Usuário: AnaliseRequisitos/Resultado.md
+    - Personas: AnaliseRequisitos/Personas.md
+    - Cenarios: AnaliseRequisitos/Cenarios.md
+    - Analise de tarefas:
+      - GOMS: AnaliseRequisitos/GOMS.md
+      - HTA: AnaliseRequisitos/HTA.md
+    - Princípios Gerais: AnaliseRequisitos/Principios.md
+    - Guia de Estilo: AnaliseRequisitos/guia_estilo.md
+    - Características Gerais da Plataforma: AnaliseRequisitos/CaracteristicasGerais.md
+    - Metas de Usabilidade: AnaliseRequisitos/MetaDeUsabilidade.md

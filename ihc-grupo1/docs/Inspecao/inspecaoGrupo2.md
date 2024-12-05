@@ -29,7 +29,7 @@ Para realizar a inspeção, o Grupo 01 utilizará um checklist específico elabo
 |  16   |                                                                Vídeo de apresentação na categoria “não listado” no youtube?                                                                 |    Sim    |        13/11        |
 |  17   |                                                                A justificativa da escolha do Processo de Design?                                                                |    Sim    |        13/11        |
 
-<p align="center">Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center">Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ### Conclusão
 A estrega está boa, mas foram encontrados alguns erros. Aqui vão algumas sugestões de melhoria:
@@ -44,8 +44,8 @@ A seguir se encontra o vídeo da verificação realizada pelo grupo 01, feito po
 
 [Vídeo YouTube](https://youtu.be/Sa7q14Zm3vo?si=Cb65-khYu1iM1qSZ)
 
-## Referência Bibliográfica / Bibliografia
-[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+## Bibliografia
+> 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
 
 ## :round_pushpin: Histórico de Versão 
 
