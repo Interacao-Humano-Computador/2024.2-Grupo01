@@ -37,7 +37,7 @@ O método utilizado será a observação direta e entrevistas guiadas. Para asse
 | Eduarda           | Ana Carolina         | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
 | Gabriel           | Nome do Entrevistado | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
 
-**Autores:** Carla Clementino e João Vitor.
+**Autores:** Carla Clementino e Gabriel Santos.
 
 
 </center>
@@ -91,7 +91,7 @@ Com base nos resultados obtidos, será levantado as alterações necessárias e 
             <td>09/12</td>
             <td>1.0</td>
             <td>Criação do documento</td>
-            <td><a href="https://github.com/ccarlaa">Carla Clementino</a> e <a href='https://github.com/Joa0V' >João Vitor</a></td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a> e <a href='https://github.com/GabrielSMonteiro' >Gabriel Santos</a></td>
             <td></td>
             <td><a href=></a></td>
         </tr>
