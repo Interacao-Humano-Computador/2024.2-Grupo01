@@ -85,19 +85,6 @@ nav:
     - Sites Avaliados: Desenvolvimento/sitesAvaliados.md
     - Site Escolhido: Desenvolvimento/SiteEscolhido.md
     - Disponibilidade dos Integrantes: Desenvolvimento/disponibilidade.md
-  - Inspeção:
-    - Etapa 1: 
-      - Planejamento: Inspecao/planejamento.md
-      - Inspeção final: Inspecao/inspecaoFinal.md
-      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2.md
-    - Etapa 2: 
-      - Planejamento: Inspecao/planejamento2.md
-      - Inspeção final: Inspecao/inspecaoFinal2.md
-      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-2.md
-    - Etapa 3: 
-      - Planejamento: Inspecao/planejamento3.md
-      - Inspeção final: Inspecao/inspecaoFinal3.md
-      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-3.md
   - Análise de Requisitos: 
     - Aspectos Éticos: AnaliseRequisitos/AspectosEticos.md
     - Questionario Perfil de Usuário: AnaliseRequisitos/PerfilUser.md
@@ -111,3 +98,19 @@ nav:
     - Guia de Estilo: AnaliseRequisitos/guia_estilo.md
     - Características Gerais da Plataforma: AnaliseRequisitos/CaracteristicasGerais.md
     - Metas de Usabilidade: AnaliseRequisitos/MetaDeUsabilidade.md
+  - Design, Avaliação e Desenvolvimento: 
+    - Nível 1: 
+      - HTA: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/relato.md
+  - Inspeção:
+    - Etapa 1: 
+      - Planejamento: Inspecao/planejamento.md
+      - Inspeção final: Inspecao/inspecaoFinal.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2.md
+    - Etapa 2: 
+      - Planejamento: Inspecao/planejamento2.md
+      - Inspeção final: Inspecao/inspecaoFinal2.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-2.md
+    - Etapa 3: 
+      - Planejamento: Inspecao/planejamento3.md
+      - Inspeção final: Inspecao/inspecaoFinal3.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-3.md
