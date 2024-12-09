@@ -33,9 +33,9 @@ O método utilizado será a observação direta e entrevistas guiadas. Para asse
 |-------------------|-----------------------|-------------|---------------------------|---------------------------|
 | Carla             | Bruna Araújo         | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
 | Davi              | Vinícius Chavito     | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
-| João              | Nome do Entrevistado | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
+| João              | Eduardo Paiva | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
 | Eduarda           | Ana Carolina         | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
-| Gabriel           | Nome do Entrevistado | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
+| Gabriel           | Laura Sumienski | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
 
 **Autores:** Carla Clementino e Gabriel Santos.
 
