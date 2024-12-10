@@ -92,8 +92,8 @@ Com base nos resultados obtidos, será levantado as alterações necessárias e 
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a> e <a href='https://github.com/GabrielSMonteiro' >Gabriel Santos</a></td>
-            <td></td>
-            <td><a href=></a></td>
+            <td>09/12</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>

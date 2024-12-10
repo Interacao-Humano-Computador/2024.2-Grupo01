@@ -101,6 +101,7 @@ nav:
   - Design, Avaliação e Desenvolvimento: 
     - Nível 1: 
       - HTA: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/relato.md
+      - Planejamento da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/planejamentoStory.md
   - Inspeção:
     - Etapa 1: 
       - Planejamento: Inspecao/planejamento.md
@@ -114,3 +115,7 @@ nav:
       - Planejamento: Inspecao/planejamento3.md
       - Inspeção final: Inspecao/inspecaoFinal3.md
       - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-3.md
+    - Etapa 4: 
+      - Planejamento: Inspecao/planejamento4.md
+      - Inspeção final: Inspecao/inspecaoFinal4.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-4.md
