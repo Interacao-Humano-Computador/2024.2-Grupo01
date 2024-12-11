@@ -320,7 +320,7 @@ GOAL 6: Verificar o pacote criado
             <td>Criação do documento e de 5 tarefas. </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>01/12</td>
-            <td><a></a></td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
         <tr>
             <td>01/12</td>
@@ -328,31 +328,31 @@ GOAL 6: Verificar o pacote criado
             <td>Adiciona envio de mensagens privadas. </td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>01/12</td>
-            <td><a></a></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
             <td>02/12</td>
             <td>1.2</td>
             <td>Adicionando criação de lista de usuários</td>
             <td><a href="https://github.com/JoaoV">João Vitor</a></td>
-            <td></td>
-            <td><a></a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>
         <tr>
             <td>03/12</td>
             <td>1.3</td>
             <td>Adicionando compartilhar um post e seguir um novo usuário</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
-            <td></td>
-            <td><a></a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
         <tr>
             <td>03/12</td>
             <td>1.4</td>
             <td>Adicionando criar pacotes</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
-            <td></td>
-            <td><a></a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>
     </table>
 </div>

@@ -119,7 +119,7 @@ Por exemplo, a mensagem poderia detalhar como criar pacotes iniciais melhora a c
             <td>Criação do documento.</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td>03/12</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>
     </table>
 </div>

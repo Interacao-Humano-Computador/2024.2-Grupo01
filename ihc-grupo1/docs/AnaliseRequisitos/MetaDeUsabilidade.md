@@ -188,24 +188,23 @@ Autopublicação. ISBN: 978-65-00-19677-1.s
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Santos Monteiro</a></td>
-            <td></td>
-            <td><a href=></a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
         <tr>
             <td>03/12</td>
             <td>1.1</td>
             <td>Detalhamento das metas</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Santos Monteiro</a></td>
-            <td></td>
-            <td><a href=></a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
         <tr>
             <td>03/12</td>
             <td>1.2</td>
             <td>Imagens detalhadas</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Santos Monteiro</a></td>
-            <td></td>
-            <td><a href=></a></td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>

@@ -89,7 +89,7 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
     </tr>
         <tr>
         <td>19/11/2024</td>
-        <td>**/11/2024</td>
+        <td>20/11/2024</td>
         <td>2.0</td>
         <td>Atualizar logo do site</td>
         <td><a href="https://github.com/ccarlaa">Carla</a></td>
