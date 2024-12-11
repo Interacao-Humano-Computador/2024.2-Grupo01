@@ -129,7 +129,7 @@ O grupo pretende manter um custo zero para a realização das entrevistas, aprov
             <td>Criação do documento</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>10/12</td>
-            <td><ahref="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>
     </table>
 </div>
