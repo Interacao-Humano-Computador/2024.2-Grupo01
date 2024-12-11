@@ -129,8 +129,8 @@ Autopublicação. ISBN: 978-65-00-19677-1.s
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
-            <td></td>
-            <td><a href=></a></td>
+            <td>03/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>

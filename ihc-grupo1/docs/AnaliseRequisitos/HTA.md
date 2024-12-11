@@ -304,7 +304,7 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td>Adicionando criação da tarefa repostagem</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>02/12</td>
-            <td><a</a></td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>   
         <tr>
             <td>03/12</td>
@@ -312,7 +312,7 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td>Adicionando criação da postagem</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
             <td>03/12</td>
-            <td><a</a></td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>      
     </table>
 </div>
