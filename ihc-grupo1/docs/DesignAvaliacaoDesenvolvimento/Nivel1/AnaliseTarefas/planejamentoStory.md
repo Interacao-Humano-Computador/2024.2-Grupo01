@@ -85,7 +85,7 @@ Passo 5: Agradecer o tempo do usuário e registrar suas respostas para documenta
 
 ## Orçamento
 
-O grupo pretende ter um custo 0, sendo gravações no teams ou pessoalmente (se possível) em ambiente de convivência em comum. 
+O grupo pretende manter um custo zero para a realização das entrevistas, aproveitando recursos já disponíveis. Para as gravações online, será utilizada a função integrada do Microsoft Teams, que permite gravar áudio e vídeo gratuitamente. Nas entrevistas presenciais, serão escolhidos ambientes de convivência comum, silenciosos para minimizar ruídos de fundo, utilizando smartphones para gravação quando necessário.
 
 ## Cronograma
 
@@ -128,8 +128,8 @@ O grupo pretende ter um custo 0, sendo gravações no teams ou pessoalmente (se 
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td></td>
-            <td><a</a></td>
+            <td>10/12</td>
+            <td><ahref="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>
     </table>
 </div>

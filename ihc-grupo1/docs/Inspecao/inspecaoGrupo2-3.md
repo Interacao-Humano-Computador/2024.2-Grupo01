@@ -62,8 +62,8 @@ Para realizar a inspeção, o Grupo 01 utilizará um checklist específico elabo
 
 <div style="text-align: center;">
   <h2>Avaliação 2</h2>
-  <a href="https://youtu.be/xMX4K_1AYio" title="Avaliação 2">
-    <img src="https://img.youtube.com/vi/xMX4K_1AYio/0.jpg" alt="Avaliação 2" />
+  <a href="https://youtu.be/JM_Q6jnpyj4" title="Avaliação 2">
+    <img src="https://img.youtube.com/vi/JM_Q6jnpyj4/0.jpg" alt="Avaliação 2" />
   </a>
 </div>
 
