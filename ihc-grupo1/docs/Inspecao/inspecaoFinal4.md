@@ -17,7 +17,7 @@ Cada pergunta será documentada em uma tabela com os seguintes campos:
 Esse processo, dependendo da disponibilidade dos membros, será realizado de forma iterativa para garantir a revisão completa de cada artefato. Assim, esse artefato cumpre tanto uma função de verificação – pois analisa a consistência e correção dos artefatos – quanto de validação, ao confirmar se os artefatos atendem aos objetivos do projeto.
 
 ## Artefados Revisados
-A tabela 1 mostra o checklist do planejamento da avaliação do storyboard e foi construído pela integrante [Gabriel Monteiro](https://github.com/GabrielSMonteiro).
+A tabela 1 mostra o checklist do planejamento da avaliação do storyboard e foi construído pelo integrante [Davi Nobre](https://github.com/Jagaima) e inspecionado em vídeo pelo integrante [Gabriel Monteiro](https://github.com/GabrielSMonteiro).
 
     Tabela 1:Checklist do planejamento da avaliação do Storyboard
 
