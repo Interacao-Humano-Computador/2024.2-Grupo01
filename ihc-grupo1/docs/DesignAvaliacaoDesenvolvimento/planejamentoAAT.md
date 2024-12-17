@@ -69,7 +69,7 @@ Com isso, espera-se a obtenção de dados mais robustos e confiáveis ao complem
 
 ## I - Identificar questões práticas
 
-Participarão da avaliação da análise de tarefas cinco usuários que se encaixam no perfil de usuário encontrado para o sistema trabalhado no projeto. Todos os integrantes do grupo participarão dessa avaliação como entrevistadores/observadores. As dinâmicas devem durar aproximadamente 20 minutos e serão realizadas de forma remota na plataforma Google Meet, já que é de mais fácil acesso por ser gratuita ao uso.
+Participarão da avaliação da análise de tarefas cinco usuários que se encaixam no perfil de usuário encontrado para o sistema trabalhado no projeto. Todos os integrantes do grupo participarão dessa avaliação como entrevistadores/observadores. As dinâmicas devem durar aproximadamente 20 minutos e serão realizadas de forma remota na FCTE - UnB (sala a definir), já que é de mais fácil acesso por ser gratuita ao uso.
 
 Para as entrevistas os materiais necessários incluem: 
 - Roteiro/ perguntas para a entrevista,
@@ -93,11 +93,11 @@ A preparação para a avaliação inclui a providenciar os materiais necessário
 
 | Entrevistador(a)  | Entrevistado(a)       | Horário     | Data                      | Local                     |
 |-------------------|-----------------------|-------------|---------------------------|---------------------------|
-| Carla             | Bruna Araújo         | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
-| Davi              | Vinícius Chavito     | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
-| João              | Eduardo Paiva | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
-| Eduarda           | Ana Carolina         | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
-| Gabriel           | Laura Sumienski | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
+| Carla             | Bruna Araújo         | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (sala a definir)    |
+| Davi              | Vinícius Chavito     | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (sala a definir)    |
+| João              | Eduardo Paiva | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (sala a definir)    |
+| Eduarda           | Ana Carolina         | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (sala a definir)    |
+| Gabriel           | Laura Sumienski | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (sala a definir)    |
 
 **Autores:** Carla Clementino e Gabriel Santos.
 
@@ -135,7 +135,15 @@ Nessa analise intersujeito, recorrências nos resultados serão buscadas a fim d
             <td>Criação do documento</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td>10/12</td>
-            <td><ahref="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+        </tr>
+        <tr>
+            <td>16/12</td>
+            <td>2.0</td>
+            <td>Alteração do local</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td>16/12</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 </div>
