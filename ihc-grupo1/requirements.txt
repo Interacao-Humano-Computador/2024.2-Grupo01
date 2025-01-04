@@ -1,4 +1,4 @@
-mkdocs>=1.4.0
-mkdocs-material>=9.0.0
-mkdocs-material-extensions
-pymdown-extensions>=9.0
+mkdocs>=1.5.2
+mkdocs-material>=9.4.0
+pymdown-extensions>=9.9
+mkdocs-material-extensions>=1.1

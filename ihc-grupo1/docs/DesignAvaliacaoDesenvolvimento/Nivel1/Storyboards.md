@@ -20,6 +20,40 @@ O Storyboard a seguir ilustra a jornada de Gabriel, um estudante da FCTE, que de
   Autor: <a href="https://github.com/GabrielSMonteiro" target="_blank" rel="noopener noreferrer">Gabriel Monteiro</a>
 </p>
 
+</center>
+
+
+### Storyboard 2 - Envio de Mensagem Privada:
+
+O Storyboard a seguir ilustra a jornada de Maria, uma usuária da plataforma BlueSky, que deseja enviar uma mensagem privada para seu amigo João. Motivada a se conectar e conversar com seus contatos, Maria acessa o site do BlueSky através de seu navegador, em um momento tranquilo em casa. Ao navegar pela interface, ela busca o perfil de João em sua lista de contatos e clica para iniciar uma conversa privada. Na tela de chat, Maria escreve uma mensagem amigável, expressando seu interesse em saber como João está. Após revisar o texto, ela clica no botão de envio para garantir que a mensagem seja entregue. Com a confirmação de envio na tela, Maria sente-se satisfeita em ter iniciado uma conversa, aguardando que João visualize a mensagem e responda.
+
+<center>
+
+<figure markdown="span">
+  ![carla_storyboard](../../assets/storyboard_carla.jpeg){ width="900" align="center" }
+</figure>
+
+<p style="text-align:center;"><em>Figura 2 - Storyboard - Envio de Mensagem Privada. Autor: Carla A. C. Ribeiro</em></p>
+
+</center>
+
+#### Descrição do Storyboard:
+
+Quadro 1: Abrindo o site do Bluesky
+
+Descrição: Maria acessa o site do Bluesky pelo navegador.
+
+Quadro 2: Entrando na aba de mensagem privada
+
+Descrição: Maria clica no ícone de mensagens e busca o perfil de João.
+
+Quadro 3: Enviando mensagem privada
+
+Descrição: Maria envia uma mensagem privada para João.
+
+Quadro 4: Recebendo mensagem privada
+
+Descrição: Maria recebe uma mensagem privada de João.
 
 </center>
 
@@ -52,6 +86,14 @@ O Storyboard a seguir ilustra a jornada de Gabriel, um estudante da FCTE, que de
             <td>Adicão 1° storyboard</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
             <td>16/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>04/01</td>
+            <td>3.0</td>
+            <td>Adicão 1° storyboard</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>05/01</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
