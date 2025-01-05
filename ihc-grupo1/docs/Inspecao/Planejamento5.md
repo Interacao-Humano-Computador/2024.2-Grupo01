@@ -110,3 +110,36 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></p> 
 
 </center>
+
+
+## Bibliografia
+
+> 1. Lichess. Análise Hierárquica de Tarefas. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022.2. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao/> Acesso em 28/12/2024 ás 23:00
+
+> 2. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
+
+> 3. Bluesky. Inspeção 4. Repositório do Grupo Bluesky da disciplina de Interação Humano Computador da Universidade de Brasília, 2024.2. Disponível em: <https://interacao-humano-computador.github.io/2024.2-Grupo01/> Acesso em 28/12/2024 ás 23:00
+
+
+## Histórico de versão:
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Data</th>
+            <th>Versão</th>
+            <th>Descrição</th>
+            <th>Autor</th>
+            <th>Data da Revisão</th>
+            <th>Revisor</th>
+        </tr>
+        <tr>
+            <td>05/01</td>
+            <td>1.0</td>
+            <td>Criação do documento</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>05/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+    </table>
+</div>

@@ -12,6 +12,8 @@ A avaliação do protótipo de papel do BlueSky terá como foco principal as fun
 
 O planejamento desta avaliação segue o framework DECIDE, proposto por Sharp, Rogers e Preece, conforme detalhado na Tabela 1.
 
+<center>
+
 <p align="center"><b>Tabela 1 - Atividades do framework DECIDE</b></p>
 
 | Letra | Descrição da atividade |
@@ -24,6 +26,8 @@ O planejamento desta avaliação segue o framework DECIDE, proposto por Sharp, R
 | E | Avaliar, interpretar e apresentar os dados colhidos |
 
 Fonte: Barbosa e Silva. Interação Humano-Computador. 1 ed. ELSEVIER INC, 2010[1]
+
+</center>
 
 ## D - Determinar
 
@@ -62,6 +66,8 @@ Com o consentimento do participante, a sessão será gravada em áudio e vídeo 
 
 Após a simulação, utilizaremos o seguinte roteiro de perguntas:
 
+<center>
+
 <p align="center"><b>Tabela 2 - Roteiro de Perguntas Pós-Teste</b></p>
 
 | Pergunta | Tipo de Resposta |
@@ -74,7 +80,11 @@ Após a simulação, utilizaremos o seguinte roteiro de perguntas:
 
 Autor: [Gabriel Monteiro](https://github.com/GabrielSMonteiro)
 
+</center>
+
 ### Cronograma
+
+<center>
 
 <p align="center"><b>Tabela 3 - Cronograma de Avaliação</b></p>
 
@@ -88,9 +98,13 @@ Autor: [Gabriel Monteiro](https://github.com/GabrielSMonteiro)
 
 Autor: [Gabriel Monteiro](https://github.com/GabrielSMonteiro)
 
+</center>
+
 ## D - Aspectos Éticos
 
 Todos os participantes deverão assinar um termo de consentimento livre e esclarecido antes da avaliação. Este documento explicará o propósito da pesquisa, como os dados serão utilizados e garantirá o anonimato dos participantes, garantindo que estes estão participando por livre e espontânea vontade.
+
+Em relação a questões ética e tendo em vista que utilizaremos um resultado real, utilizaremos do nosso [Termo de Conscentimento](/AnaliseRequisitos/AspectosEticos/) genérico desenvolvido para diversas atividade de entrevista padrão.
 
 ## E - Avaliar
 
@@ -111,11 +125,33 @@ Com base nessa classificação, elaboraremos propostas de melhorias para o prot�
 
 > INTERAÇÃO HUMANO COMPUTADOR. Planejamento da Avaliação do Protótipo de Papel. GitHub, 2023. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel2/prototipoDePapel/planejamento_avaliacao.md. Acesso em: 3 jan. 2025.
 
+## Histórico de versão:
 
-
-
-## Versões
-
-| Versão |    Data    | Descrição                                | Autor                                                          | Revisor |
-| :----: | :--------: | :--------------------------------------- | -------------------------------------------------------------- | ------- |
-| `1.0`  | 05/01/2025 | Criação da primeira versão do planejamento | [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) |  |
+<div align="center">
+    <table>
+        <tr>
+            <th>Data</th>
+            <th>Versão</th>
+            <th>Descrição</th>
+            <th>Autor</th>
+            <th>Data da Revisão</th>
+            <th>Revisor</th>
+        </tr>
+        <tr>
+            <td>05/01</td>
+            <td>1.0</td>
+            <td>Criação do documento</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel</a></td>
+            <td>05/01</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>05/01</td>
+            <td>1.0</td>
+            <td>Identificação de erros de formatação e correção</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>05/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+    </table>
+</div>
