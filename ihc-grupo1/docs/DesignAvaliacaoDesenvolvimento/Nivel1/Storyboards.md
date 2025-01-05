@@ -12,15 +12,17 @@ O Storyboard a seguir ilustra a jornada de Gabriel, um estudante da FCTE, que de
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 1</b> - Storyboard: Publicação de Post no BlueSky</p>
+<figure markdown="span">
+  ![storyboard_Gabriel](../../assets/storyboard_Gabriel.jpg){ width="900" align="center" }
+</figure>
 
-![Storyboard: Publicação de Post no BlueSky](../../assets//images/story-gabriel.png)
+<p style="text-align:center;"><em>Figura 2 - Storyboard - Storyboard: Publicação de Post no BlueSky. Autor: Gabriel S. Monteiro</em></p>
+
+</center>
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>
   Autor: <a href="https://github.com/GabrielSMonteiro" target="_blank" rel="noopener noreferrer">Gabriel Monteiro</a>
 </p>
-
-</center>
 
 
 ### Storyboard 2 - Envio de Mensagem Privada:
@@ -115,6 +117,14 @@ O storyboard a seguir representa a coversa entre dois colegas sobre o funcioname
             <td>1.3</td>
             <td>Adicão 3° storyboard</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>05/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>05/01</td>
+            <td>1.4</td>
+            <td>Atualização 1° storyboard</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
             <td>05/01</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
