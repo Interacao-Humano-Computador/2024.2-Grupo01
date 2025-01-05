@@ -96,7 +96,7 @@ O storyboard a seguir representa a coversa entre dois colegas sobre o funcioname
         </tr>
         <tr>
             <td>16/12</td>
-            <td>2.0</td>
+            <td>1.1</td>
             <td>Adicão 1° storyboard</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
             <td>16/12</td>
@@ -104,9 +104,17 @@ O storyboard a seguir representa a coversa entre dois colegas sobre o funcioname
         </tr>
         <tr>
             <td>04/01</td>
-            <td>3.0</td>
-            <td>Adicão 1° storyboard</td>
+            <td>1.2</td>
+            <td>Adicão 2° storyboard</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>05/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>04/01</td>
+            <td>1.3</td>
+            <td>Adicão 3° storyboard</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>05/01</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
