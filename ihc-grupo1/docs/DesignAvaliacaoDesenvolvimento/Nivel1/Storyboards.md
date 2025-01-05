@@ -57,6 +57,20 @@ Descrição: Maria recebe uma mensagem privada de João.
 
 </center>
 
+### Storyboard 3 - Função de repostagem:
+
+O storyboard a seguir representa a coversa entre dois colegas sobre o funcionamento da função de repostagem e suas facilidades no dia a dia para com o uso da plataforma. O storyboard a seguir representa a interação entre como identificar uma repostagem, qual sua utilidade prática e como o usuário comum da rede pode ele mesmo excecutar uma respostagem em sua página na plataforma Bluesky.
+
+<center>
+
+<figure markdown="span">
+  ![carla_storyboard](../../assets/StoryboardDavi.jpg){ width="900" align="center" }
+</figure>
+
+<p style="text-align:center;"><em>Figura 3 - Storyboard - Função de Repostagem. Autor: Davi Nobre</em></p>
+
+</center>
+
 ## Referência Bibliografia
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
