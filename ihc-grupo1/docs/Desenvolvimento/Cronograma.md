@@ -209,6 +209,22 @@ Abaixo está apresentado o planejamento para a entrega 05 do projeto.
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
 
+### Executado entrega 5
+
+Na Tabela 08 abaixo é definido o que foi executado do planejamento da Tabela 07.
+
+<p align="center"><b>Tabela 10</b> - Entrega 5. Executado do planejamento da Entrega 05</p>
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
+|-----------|---------------------------|--------------|---------|---------|
+| Correção dos artefatos da entrega 4 | Início: 02/01<br>Fim: 05/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |05/01|Carla, Davi, Eduarda, Gabriel e João Vitor|
+| Relato dos resultados do Storyboard | Início: 01/01<br>Fim: 05/01 | Davi e João Vitor| 05/01 | Davi e Carla |
+| Relato dos resultados da Análise de tarefas | Início: 01/01<br>Fim: 05/01 | Carla | 03/12 | Gabriel e Davi|
+| Planejamento da avaliação do protótipo de papel | Início: 01/01<br>Fim: 05/01 | Gabriel e Eduarda | 01/12 | João e Davi |
+| Planejamento do relato dos resultados da avaliação do protótipo de papel | Início: 01/01<br>Fim: 05/01 | Gabriel | 05/01 | João Vitor e Davi|
+| Gravação da apresentação | Início: 04/01<br>Fim: 05/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 05/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: Início: 05/01<br>Fim: 06/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 06/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+
 ### Cronograma planejado entrega 6
 
 Abaixo está apresentado o planejamento para a entrega 06 do projeto.

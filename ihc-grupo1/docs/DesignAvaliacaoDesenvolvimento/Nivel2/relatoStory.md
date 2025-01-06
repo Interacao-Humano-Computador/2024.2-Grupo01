@@ -14,7 +14,7 @@ Baseando-se no roteiro construido no nosso planejamento, passamos pela primeira 
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/YW9tz6dI0ck" title="teste piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi, Gabriel, Renata, João e Carla</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi, Gabriel, Eduarda, João e Carla</a></p> 
 
 </center>
 

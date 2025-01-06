@@ -39,12 +39,22 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 
 | ID  | Descrição                                                                                                          | Avaliação | Autor                                    |
 | --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ---------------------------------------- |
-| 1   | As perguntas do artefato foram revisadas com base no teste piloto?                                     |           | [Davi Nobre](https://github.com/Jagaima) |
-| 2   | O artefato apresenta gravação da Avaliação do Storyboard?                                                          |           | [Davi Nobre](https://github.com/Jagaima) |
-| 3   | O artefato apresenta uma cópia assinada do documento ético?                                                        |           | [Davi Nobre](https://github.com/Jagaima) |
-| 4   | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação do Storyboard claras ao usuários?   |           | [Davi Nobre](https://github.com/Jagaima) |
-| 5   | O artefato identifica o orçamento usado para a Avaliação?                                                     |           | [Davi Nobre](https://github.com/Jagaima) |
-| 6   | O artefato possui um roteiro indicando como o planejamento será executado?                          |           | [Davi Nobre](https://github.com/Jagaima) |
+| 1   | As perguntas do artefato foram revisadas com base no teste piloto?                                     |      SIM     | [Davi Nobre](https://github.com/Jagaima) |
+| 2   | O artefato apresenta gravação da Avaliação do Storyboard?                                                          |     SIM      | [Davi Nobre](https://github.com/Jagaima) |
+| 3   | O artefato apresenta uma cópia assinada do documento ético?                                                        |    SIM       | [Davi Nobre](https://github.com/Jagaima) |
+| 4   | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação do Storyboard claras ao usuários?   |    SIM       | [Davi Nobre](https://github.com/Jagaima) |
+| 5   | O artefato identifica o orçamento usado para a Avaliação?                                                     |      NÃO     | [Davi Nobre](https://github.com/Jagaima) |
+| 6   | O artefato possui um roteiro indicando como o planejamento será executado?                          |     SIM      | [Davi Nobre](https://github.com/Jagaima) |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
+
+</center>
+
+<center>
+
+**Vídeo 1** Inspeção da execução do storyboard
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/uq40Xb8n2Rc" title="Inspeção do Storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
 
@@ -74,19 +84,33 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 
 | ID  | Descrição                                                                                                          | Avaliação | Autor                                    |
 | --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ---------------------------------------- |
-| 13   | O artefato utiliza o framework DECIDE para realização do Planejamento da Avaliação?                  |           | [Davi Nobre](https://github.com/Jagaima) |
-| 14   | O artefato apresenta os objetivos da Avaliação do protótipo de papel?                                             |           | [Davi Nobre](https://github.com/Jagaima) |
-| 15  | O artefato apresenta a metodologia que será utilizada na Avaliação?                                                |           | [Davi Nobre](https://github.com/Jagaima) |
-| 16   | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação?               |           | [Davi Nobre](https://github.com/Jagaima) |
-| 17   | O artefato identifica o orçamento necessário para a Avaliação?                                                     |           | [Davi Nobre](https://github.com/Jagaima) |
-| 18   | O documento cita as questões éticas?                                                                               |           | [Davi Nobre](https://github.com/Jagaima) |
-| 19   | O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação? |           | [Davi Nobre](https://github.com/Jagaima) |
-| 20   | O artefato possui no seu cronograma uma data e horário para realização da Avaliação?                 |           | [Davi Nobre](https://github.com/Jagaima) |
-| 21   | O artefato possui um roteiro indicando como o planejamento foi pensado pra ser executado?                          |           | [Davi Nobre](https://github.com/Jagaima) |
-| 22  | Existe um protótipo de papel concluído para o período de execução?                                     |           | [Davi Nobre](https://github.com/Jagaima) |
+| 13   | O artefato utiliza o framework DECIDE para realização do Planejamento da Avaliação?                  |     SIM      | [Davi Nobre](https://github.com/Jagaima) |
+| 14   | O artefato apresenta os objetivos da Avaliação do protótipo de papel?                                             |     NÃO      | [Davi Nobre](https://github.com/Jagaima) |
+| 15  | O artefato apresenta a metodologia que será utilizada na Avaliação?                                                |    SIM       | [Davi Nobre](https://github.com/Jagaima) |
+| 16   | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação?               |      SIM     | [Davi Nobre](https://github.com/Jagaima) |
+| 17   | O artefato identifica o orçamento necessário para a Avaliação?                                                     |     NÃO      | [Davi Nobre](https://github.com/Jagaima) |
+| 18   | O documento cita as questões éticas?                                                                               |     SIM      | [Davi Nobre](https://github.com/Jagaima) |
+| 19   | O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação? |     NÃO      | [Davi Nobre](https://github.com/Jagaima) |
+| 20   | O artefato possui no seu cronograma uma data e horário para realização da Avaliação?                 |     NÃO      | [Davi Nobre](https://github.com/Jagaima) |
+| 21   | O artefato possui um roteiro indicando como o planejamento foi pensado pra ser executado?                          |     SIM      | [Davi Nobre](https://github.com/Jagaima) |
+| 22  | Existe um protótipo de papel concluído para o período de execução?                                     |     SIM      | [Davi Nobre](https://github.com/Jagaima) |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
+
 
 </center>
 
+
+<center>
+
+**Vídeo 3** Inspeção do planejamento do protótipo de papel
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/yxIGpAbCtCY" title="Inspeção Planejamento do Protótipo de papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
+
+
+</center>
 
 ## Bibliografia
 
