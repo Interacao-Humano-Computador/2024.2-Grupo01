@@ -104,7 +104,7 @@ Autor: [Gabriel Monteiro](https://github.com/GabrielSMonteiro)
 
 Todos os participantes deverão assinar um termo de consentimento livre e esclarecido antes da avaliação. Este documento explicará o propósito da pesquisa, como os dados serão utilizados e garantirá o anonimato dos participantes, garantindo que estes estão participando por livre e espontânea vontade.
 
-Em relação a questões ética e tendo em vista que utilizaremos um resultado real, utilizaremos do nosso [Termo de Conscentimento](/AnaliseRequisitos/AspectosEticos/) genérico desenvolvido para diversas atividade de entrevista padrão.
+Em relação a questões ética e tendo em vista que utilizaremos um resultado real, utilizaremos do nosso [Termo de Consentimento](/AnaliseRequisitos/AspectosEticos/) genérico desenvolvido para diversas atividade de entrevista padrão.
 
 ## E - Avaliar
 
