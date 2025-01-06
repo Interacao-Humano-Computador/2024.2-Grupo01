@@ -97,6 +97,9 @@ O cronograma para o reprojeto está apresentado na Tabela 2, com a previsão de 
 </center>
 
 ---
+## Teste Piloto
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/3K1muAqv4YY" title="piloto - hta - grupo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 
@@ -129,6 +132,14 @@ O cronograma para o reprojeto está apresentado na Tabela 2, com a previsão de 
             <td>1.1</td>
             <td>Atualização da tabela</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td>10/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>06/12</td>
+            <td>1.2</td>
+            <td>Add teste piloto</td>
+            <td><a href="https://github.com/ccarlaa">Carla Ribeiro</a></td>
             <td>10/12</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
