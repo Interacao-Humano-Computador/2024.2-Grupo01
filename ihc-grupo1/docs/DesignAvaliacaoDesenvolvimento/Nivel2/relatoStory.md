@@ -4,7 +4,26 @@ Um storyboard é uma pequena historia em quadros feita com o intuito de exemplif
  
  Baseado nisso criamos um planejamento de avaliação dos Storyboards, o que nos deu a seguinte documentação.
 
-## Execução do roteiro: 
+## Objetivo e escopo da avaliação:
+
+O objetivo dessa avaliação é validar uma versão utilizável para nossos storyboards para que sejam o mais coesos, entendíveis e condizentes possíveis. Assim podemos identificar problemas em nas interações do usuário com o sistema para uso futuro.
+
+## Método de avaliação
+
+O método adotado será a observação combinada com entrevistas aos usuários. A seguir, tabela com o cronograma executado:
+
+<center>
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma Executado</p></font>
+
+| Entrevistador(es)           | Entrevistado(s)             | Horário de Início | Horário de Fim | Data       | Local           |
+| --------------------------- | --------------------------- | :---------------: | :------------: | :--------: | --------------- |
+|  Davi  |   João Victor   |      19:10        |     19:16      | 05/01/2025 | Residência do entrevistado |
+|  João Ribeiro  |   Sebastian   |      11:45        |     11:52      | 08/01/2025 | FCTE - S6 |
+
+<font size="3"><p style="text-align: center">Autor: [João Ribeiro](https://github.com/Joa0V).</p></font>
+</center>
+
+## Execução do roteiro
 
 Baseando-se no roteiro construido no nosso planejamento, passamos pela primeira etapa realizada no dia 19/12/2024, onde o grupo 1 executou seu teste piloto e validou as perguntas desenvolvidas para serem passadas pelo usuário. Segue abaixo a gravação do teste piloto: 
 
@@ -18,17 +37,17 @@ Baseando-se no roteiro construido no nosso planejamento, passamos pela primeira 
 
 </center>
 
- ## Usuário ativo da plataforma entrevistado.
+## Seleção dos Participantes
 
- Para conseguir respostas concisas com nosso público alvo fomos um pouco além da idade e conseguimos na faculdade um usuário ativo da plataforma. Aqui estão os resultados de nossa avaliação com a gravação e o termo de conscentimento do usuário. 
+Para conseguir respostas concisas com nosso público alvo fomos um pouco além da idade e conseguimos na faculdade dois usuários de redes sociais de microblogs, sendo um deles usuário ativo da plataforma. Aqui estão os resultados de nossa avaliação com as gravações e os termos de conscentimento dos usuários. 
 
-## Respostas
+## Feedback dos Usuários
 
-Abaixo seguem as respostas do usuário pra cada Storyboard desenvolvido pelo grupo. 
+Abaixo seguem as tabelas contendo as respostas obtidas dos usuários pra os Storyboards desenvolvidos pelo grupo. 
 
 <center>
 
-**Tabela 1**  - Perguntas para o usuário: Storyboard 1. ( Desenvolvido por Gabriel)
+**Tabela 2**  - Perguntas para o usuário: Storyboard 1. (Desenvolvido por Gabriel)
 
 
 | Pergunta                                                                 | Resposta |
@@ -47,7 +66,7 @@ Abaixo seguem as respostas do usuário pra cada Storyboard desenvolvido pelo gru
 
 <center>
 
-**Tabela 2**  - Perguntas para o usuário: Storyboard 2. (Desenvolvido por Carla)
+**Tabela 3**  - Perguntas para o usuário: Storyboard 2. (Desenvolvido por Carla)
 
 
 | Pergunta                                                                 | Resposta |
@@ -66,7 +85,7 @@ Abaixo seguem as respostas do usuário pra cada Storyboard desenvolvido pelo gru
 
 <center>
 
-**Tabela 3**  - Perguntas para o usuário: Storyboard 2. (Desenvolvido por Davi)
+**Tabela 4**  - Perguntas para o usuário: Storyboard 3. (Desenvolvido por Davi)
 
 
 | Pergunta                                                                 | Resposta |
@@ -83,7 +102,30 @@ Abaixo seguem as respostas do usuário pra cada Storyboard desenvolvido pelo gru
 
 </center>
 
-## Gravação da entrevista.
+<center>
+
+**Tabela 5**  - Perguntas para o usuário: Storyboard 4. (Desenvolvido por João)
+
+
+| Pergunta                                                                 | Resposta |
+|--------------------------------------------------------------------------|----------|
+| 1. O objetivo do storyboard está claramente definido?                   | (X) SIM () NÃO |
+| 2. Você se identifica como o público-alvo?                              | (X) SIM () NÃO |
+| 3. Há uma linha do tempo lógica entre os quadros?                       | (X) SIM () NÃO |
+| 4. Os atores do storyboard são condizentes com a realidade?             | () SIM (X) NÃO |
+| 5. As transições entre os quadros são suaves e compreensíveis?          | (X) SIM () NÃO |
+| 6. As tarefas realizadas pelos atores condizem com o que se espera do produto? | (X) SIM () NÃO |
+| 7. Os quadros são visualmente poluídos, dificultando a concentração no seu objetivo principal? | () SIM (X) NÃO |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+</center>
+
+### Sugestões de melhorias
+
+O Usuário participante da segunda avaliação comentou sobre a forma de interação apresentada no storyboard 4. Segundo ele, usualmentet não fala com outra pessoa para aprender sore uma plataforma de rede social, seria mais comum pesquisar na internet ou até mesmo no próprio sistema.
+
+## Gravações das entrevistas
 
 O vídeo a seguir contem a gravação da entrevista com o Usuário João Victor de Carvalho. Estudante da UNB e que usa ativamente o bluesky para postar suas artes e trabalhos comissionados. 
 
@@ -94,6 +136,18 @@ O vídeo a seguir contem a gravação da entrevista com o Usuário João Victor 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/t4Emueenigc" title="Entrevista com o usuário - Storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
+
+</center>
+
+O vídeo a seguir contem a gravação da entrevista com o Usuário Sebastian. Estudante da UnB e que usa regularmente redes sociais, em especial as de microblogs, como o Twitter.
+
+<center>
+
+**Vídeo 3**  - Perguntas para o usuário: Entrevista com usuário Sebastian
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/FDXWVvARPpI" title="Entrevista com o usuário - Storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 </center>
 
@@ -111,10 +165,14 @@ Respeitando a vontade do usuário, foi desenvolvido, informado e assinado todos 
 
 </center>
 
-## Conclusões.
-O grupo não conseguiu um número maior de usuários para a avaliação do Stortboard e HTA, limitando usuários individuais a avaliações distintas dada a distância física de ambos os usuários escolhidos que decidiram aceitar a avaliação. 
+## Problemas e dificuldades encontradas
 
-Baseando-se no fato de que estamos lidando com um aluno que ativamente usa a plataforma e usamos somente funções que existem no sistema e são esperadas dele, notamos uma deficiência geral na avaliação do grupo, uma vez que tirando o terceiro Storyboard, todos os os outros falharam em entender o que é mais importante para um dos tipos de público alvo. O Público alvo parece estar mais voltado ao lado artístico/conteúdo da plataforma, onde pode interagir com amigos e usuários aleatórios no que diz respeito a suas idéias e produções em mídia no geral. Infelizmente a falta de storyboards extra nos dá menos margem de validação desse fato, porém nosso perfil de usuário sustenta muito essa tese. O ideal é que o grupo passe a focar mais no lado das ideias e expressão do usuário do que em funções que ele pode fazer em outras plataformas dedicadas. (ex: função de chat). 
+Na segunda avaliação apresentada neste artefato, realizada nas depedências da FCTE, teve de haver a interrupção da avaliação devido a entrada de outros alunos na sala, os quais não mantiveram o silêncio durante o processo de avaliação. Isso, somado ao ruído externo dos automóveis, impactou a realização do processo por parte dos participantes.
+
+## Conclusões.
+O grupo não conseguiu um número maior de usuários para a avaliação do Storyboard e HTA, limitando usuários individuais a avaliações distintas dada a distância física de ambos os usuários escolhidos que decidiram aceitar a avaliação.
+
+Baseando-se no fato de que um dos dois entrevistados ativamente usa a plataforma e este avaliou três dos storyboards totais e usamos somente funções que existem no sistema e são esperadas dele, notamos uma deficiência geral na avaliação do grupo, uma vez que tirando o terceiro Storyboard, todos os os outros abordados na primeira avaliação falharam em entender o que é mais importante para um dos tipos de público alvo. O Público alvo parece estar mais voltado ao lado artístico/conteúdo da plataforma, onde pode interagir com amigos e usuários aleatórios no que diz respeito a suas idéias e produções em mídia no geral. Infelizmente a falta de storyboards extra nos dá menos margem de validação desse fato, porém nosso perfil de usuário sustenta muito essa tese. O ideal é que o grupo passe a focar mais no lado das ideias e expressão do usuário do que em funções que ele pode fazer em outras plataformas dedicadas (ex.: função de chat). Ainda concluí-se que a solução de IHC deve permitir que o uso do sistema seja suficiente para o  aprendizado de como interagir com o ele, sem a necessidade do auxílio de um outro usuário mais experiente para isso.
 
 # Bibliografia
 
@@ -142,8 +200,16 @@ Baseando-se no fato de que estamos lidando com um aluno que ativamente usa a pla
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>12/01</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>12/01</td>
+            <td>1.1</td>
+            <td>Adição da avalição do storyboard</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td></td>
-            <td><a</a></td>
+            <td><a href="https://github.com/"></a></td>
         </tr>
     </table>
 </div>
