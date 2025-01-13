@@ -73,6 +73,20 @@ O storyboard a seguir representa a coversa entre dois colegas sobre o funcioname
 
 </center>
 
+### Storyboard 4 - Criação de lista de usuários:
+
+O seguinte storyboard ilustra a jornada de Pedro que deseja encontrar posts de seu interesse com mais facilidade no Bluesky, sistema que se interessou para interagir digitalmente com outras pessoas. Seu primo, o qual já utilizou da rede social, o torna ciente da possibilidade de criar um feed personalizado a partir de uma lista de usuários e, assim, ele começa a criação de sua lista. Ele escolhe o nome dela, adiciona os perfis escolhidos e, por fim, consegue acessar um feed com posts de usuários de seu interesse.
+
+<center>
+
+<figure markdown="span">
+  ![joao_storyboard](../../assets/storyboardJoao.jpg){ width="900" align="center" }
+</figure>
+
+<p style="text-align:center;"><em>Figura 4 - Storyboard - Criação de lista de usuários. Autor: João Ribeiro</em></p>
+
+</center>
+
 ## Referência Bibliografia
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
@@ -126,6 +140,14 @@ O storyboard a seguir representa a coversa entre dois colegas sobre o funcioname
             <td>Atualização 1° storyboard</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
             <td>05/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>12/01</td>
+            <td>1.5</td>
+            <td>Adicão 4° storyboard</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>13/01</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
