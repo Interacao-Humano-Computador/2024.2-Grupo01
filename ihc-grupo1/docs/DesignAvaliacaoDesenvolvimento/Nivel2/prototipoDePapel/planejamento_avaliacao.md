@@ -125,7 +125,7 @@ Com base nessa classificação, elaboraremos propostas de melhorias para o prot�
 
 > 4. INTERAÇÃO HUMANO COMPUTADOR. Planejamento da Avaliação do Protótipo de Papel. GitHub, 2023. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel2/prototipoDePapel/planejamento_avaliacao.md. Acesso em: 3 jan. 2025.
 
-## Histórico de versão:
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

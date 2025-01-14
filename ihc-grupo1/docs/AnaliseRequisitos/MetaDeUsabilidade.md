@@ -170,9 +170,6 @@ Autopublicação. ISBN: 978-65-00-19677-1.s
 
 ## :round_pushpin: Histórico de Versão 
 
-
-## Histórico de Versão 
-
 <div align="center">
     <table>
         <tr>
