@@ -128,7 +128,7 @@ Ambos estão descritos nas tabelas 3 e 4, respectivamente.
 
 ### Recrutamento dos participantes
 
-Participarão da avaliação indivíduos que se encaixem no perfil de usuário encontrado para o sistema trabalhado no projeto. De acordo com Moraes e Rosa (2010)², verifica-se que não há concordância entre os pesquisadores quanto ao número de participantes, entretanto a opinião dos pesquisadores citados em seu referencial teórico varia de 3 a 12 participantes. Com isso, participarão ao menos três e até 12 usuários nessa avaliação.
+Participarão da avaliação indivíduos que se encaixem no [perfil de usuário](../../AnaliseRequisitos/Resultado.md) encontrado para o sistema trabalhado no projeto. De acordo com Moraes e Rosa (2010)², verifica-se que não há concordância entre os pesquisadores quanto ao número de participantes, entretanto a opinião dos pesquisadores citados em seu referencial teórico varia de 3 a 12 participantes. Com isso, participarão ao menos três e até 12 usuários nessa avaliação.
 
 ### Recursos necessários
 
@@ -193,7 +193,7 @@ Figma:
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
 > 2. MORAES, A.; ROSA, J. G. S. Avaliação E Projeto no Design de Interfaces. 2AB, 2010.
 
-## Bibliografria
+## Bibliografia
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
 > 2. MORAES, A.; ROSA, J. G. S. Avaliação E Projeto no Design de Interfaces. 2AB, 2010.
@@ -211,12 +211,20 @@ Figma:
             <th>Revisor</th>
         </tr>
         <tr>
-            <td>14/12</td>
+            <td>13/1</td>
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td>14/12</td>
+            <td>13/01</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>14/1</td>
+            <td>1.1</td>
+            <td>Criação do documento</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td>13/01</td>
+            <td><a href="https://github.com/Jagaima">Davi</a></td>
         </tr>
     </table>
 </div>
