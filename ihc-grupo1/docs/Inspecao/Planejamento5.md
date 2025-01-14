@@ -22,12 +22,12 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 
 
     Tabela 1: Organização da revisão
-|                           Artefato                            | Versão | Integrante responsável pelo checklist | Integrante responsável pela revisão |
-| :-----------------------------------------------------------: | :----: | :-----------------------------------: | :---------------------------------: |
-| Planejamento do protótipo de papel                            |  1.0   |                 Davi                  |                Davi                 |
-|Planejamento dos resultados da avaliação do Protótipo de papel |  1.0   |                 Davi                  |               Gabriel               |
-|        Resultado da avaliação de analise de tarefas           |  1.0   |                 Davi                  |                João                 |
-|            Resultado da avaliação do storyboard               |  1.0   |                 Davi                  |               Eduarda               |
+|                            Artefato                            | Versão | Integrante responsável pelo checklist | Integrante responsável pela revisão |
+| :------------------------------------------------------------: | :----: | :-----------------------------------: | :---------------------------------: |
+|               Planejamento do protótipo de papel               |  1.0   |                 Davi                  |                Davi                 |
+| Planejamento dos resultados da avaliação do Protótipo de papel |  1.0   |                 Davi                  |               Gabriel               |
+|          Resultado da avaliação de analise de tarefas          |  1.0   |                 Davi                  |                João                 |
+|              Resultado da avaliação do storyboard              |  1.0   |                 Davi                  |               Eduarda               |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
 
@@ -37,14 +37,14 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 
 ## Inspeção 01: Execução da avaliação do Storyboard
 
-| ID  | Descrição                                                                                                          | Avaliação | Autor                                    |
-| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ---------------------------------------- |
-| 1   | As perguntas do artefato foram revisadas com base no teste piloto?                                     |           | [Davi Nobre](https://github.com/Jagaima) |
-| 2   | O artefato apresenta gravação da Avaliação do Storyboard?                                                          |           | [Davi Nobre](https://github.com/Jagaima) |
-| 3   | O artefato apresenta uma cópia assinada do documento ético?                                                        |           | [Davi Nobre](https://github.com/Jagaima) |
-| 4   | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação do Storyboard claras ao usuários?   |           | [Davi Nobre](https://github.com/Jagaima) |
-| 5   | O artefato identifica o orçamento usado para a Avaliação?                                                     |           | [Davi Nobre](https://github.com/Jagaima) |
-| 6   | O artefato possui um roteiro indicando como o planejamento será executado?                          |           | [Davi Nobre](https://github.com/Jagaima) |
+| ID  | Descrição                                                                                                               | Avaliação | Autor                                    | Referência                                                                                                                                       |
+| --- | ----------------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | As perguntas do artefato foram revisadas com base no teste piloto?                                                      | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 2   | O artefato apresenta gravação da Avaliação do Storyboard?                                                               | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 3   | O artefato apresenta uma cópia assinada do documento ético?                                                             | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 4   | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação do Storyboard claras ao usuários? | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 5   | O artefato identifica o orçamento usado para a Avaliação?                                                               | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 6   | O artefato possui um roteiro indicando como o planejamento será executado?                                              | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
 
@@ -54,14 +54,14 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 
 ## Inspeção 02: Execução da avaliação do HTA
 
-| ID  | Descrição                                                                                                          | Avaliação | Autor                                    |
-| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ---------------------------------------- |
-| 7  | As perguntas do artefato foram revisadas com base no teste piloto?                                     |           | [Davi Nobre](https://github.com/Jagaima) |
-| 8   | O artefato apresenta gravação da Avaliação do HTA?                                                          |           | [Davi Nobre](https://github.com/Jagaima) |
-| 9   | O artefato apresenta uma cópia assinada do documento ético?                                                        |           | [Davi Nobre](https://github.com/Jagaima) |
-| 10   | O artefato possui HTA's de mais de um tipo feitos pelo grupo?                                              |           | [Davi Nobre](https://github.com/Jagaima) |
-| 11   | O artefato identifica o orçamento usado para a Avaliação?                                                     |           | [Davi Nobre](https://github.com/Jagaima) |
-| 12   | O artefato possui um roteiro indicando como o planejamento será executado?                          |           | [Davi Nobre](https://github.com/Jagaima) |
+| ID  | Descrição                                                                  | Avaliação | Autor                                    | Referência                                                                                                                                       |
+| --- | -------------------------------------------------------------------------- | --------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 7   | As perguntas do artefato foram revisadas com base no teste piloto?         | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 8   | O artefato apresenta gravação da Avaliação do HTA?                         | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 9   | O artefato apresenta uma cópia assinada do documento ético?                | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 10  | O artefato possui HTA's de mais de um tipo feitos pelo grupo?              | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 11  | O artefato identifica o orçamento usado para a Avaliação?                  | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 12  | O artefato possui um roteiro indicando como o planejamento será executado? | -         | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
 
@@ -72,18 +72,18 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 
 ## Inspeção 03: Planejamento da avaliação do protótipo de papel
 
-| ID  | Descrição                                                                                                          | Avaliação | Autor                                    |
-| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ---------------------------------------- |
-| 13   | O artefato utiliza o framework DECIDE para realização do Planejamento da Avaliação?                  |           | [Davi Nobre](https://github.com/Jagaima) |
-| 14   | O artefato apresenta os objetivos da Avaliação do protótipo de papel?                                             |           | [Davi Nobre](https://github.com/Jagaima) |
-| 15  | O artefato apresenta a metodologia que será utilizada na Avaliação?                                                |           | [Davi Nobre](https://github.com/Jagaima) |
-| 16   | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação?               |           | [Davi Nobre](https://github.com/Jagaima) |
-| 17   | O artefato identifica o orçamento necessário para a Avaliação?                                                     |           | [Davi Nobre](https://github.com/Jagaima) |
-| 18   | O documento cita as questões éticas?                                                                               |           | [Davi Nobre](https://github.com/Jagaima) |
-| 19   | O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação? |           | [Davi Nobre](https://github.com/Jagaima) |
-| 20   | O artefato possui no seu cronograma uma data e horário para realização da Avaliação?                 |           | [Davi Nobre](https://github.com/Jagaima) |
-| 21   | O artefato possui um roteiro indicando como o planejamento foi pensado pra ser executado?                          |           | [Davi Nobre](https://github.com/Jagaima) |
-| 22  | Existe um protótipo de papel concluído para o período de execução?                                     |           | [Davi Nobre](https://github.com/Jagaima) |
+| ID  | Descrição                                                                                            | Avaliação | Autor                                    | Referência                                                                                                                                       |
+| --- | ---------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 13  | O artefato utiliza o framework DECIDE para realização do Planejamento da Avaliação?                  |           | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 14  | O artefato apresenta os objetivos da Avaliação do protótipo de papel?                                |           | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 15  | O artefato apresenta a metodologia que será utilizada na Avaliação?                                  |           | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 16  | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação?               |           | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 17  | O artefato identifica o orçamento necessário para a Avaliação?                                       |           | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 18  | O documento cita as questões éticas?                                                                 |           | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 19  | O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação? |           | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 20  | O artefato possui no seu cronograma uma data e horário para realização da Avaliação?                 |           | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 21  | O artefato possui um roteiro indicando como o planejamento foi pensado pra ser executado?            |           | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
+| 22  | Existe um protótipo de papel concluído para o período de execução?                                   |           | [Davi Nobre](https://github.com/Jagaima) | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf) |
 
 </center>
 

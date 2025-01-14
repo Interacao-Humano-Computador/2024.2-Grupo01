@@ -15,10 +15,10 @@ O método adotado será a observação combinada com entrevistas aos usuários. 
 <center>
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma Executado</p></font>
 
-| Entrevistador(es)           | Entrevistado(s)             | Horário de Início | Horário de Fim | Data       | Local           |
-| --------------------------- | --------------------------- | :---------------: | :------------: | :--------: | --------------- |
-|  Davi  |   João Victor   |      19:10        |     19:16      | 05/01/2025 | Residência do entrevistado |
-|  João Ribeiro  |   Sebastian   |      11:45        |     11:52      | 08/01/2025 | FCTE - S6 |
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    | Local                      |
+| ----------------- | --------------- | :---------------: | :------------: | :--------: | -------------------------- |
+| Davi              | João Victor     |       19:10       |     19:16      | 05/01/2025 | Residência do entrevistado |
+| João Ribeiro      | Sebastian       |       11:45       |     11:52      | 08/01/2025 | FCTE - S6                  |
 
 <font size="3"><p style="text-align: center">Autor: [João Ribeiro](https://github.com/Joa0V).</p></font>
 </center>
@@ -50,14 +50,14 @@ Abaixo seguem as tabelas contendo as respostas obtidas dos usuários pra os Stor
 **Tabela 2**  - Perguntas para o usuário: Storyboard 1. (Desenvolvido por Gabriel)
 
 
-| Pergunta                                                                 | Resposta |
-|--------------------------------------------------------------------------|----------|
-| 1. O objetivo do storyboard está claramente definido?                   | (X) SIM () NÃO |
-| 2. Você se identifica como o público-alvo?                              | () SIM (X) NÃO |
-| 3. Há uma linha do tempo lógica entre os quadros?                       | (X) SIM () NÃO |
-| 4. Os atores do storyboard são condizentes com a realidade?             | (X) SIM () NÃO |
-| 5. As transições entre os quadros são suaves e compreensíveis?          | (X) SIM () NÃO |
-| 6. As tarefas realizadas pelos atores condizem com o que se espera do produto? | (X) SIM () NÃO |
+| Pergunta                                                                                       | Resposta       |
+| ---------------------------------------------------------------------------------------------- | -------------- |
+| 1. O objetivo do storyboard está claramente definido?                                          | (X) SIM () NÃO |
+| 2. Você se identifica como o público-alvo?                                                     | () SIM (X) NÃO |
+| 3. Há uma linha do tempo lógica entre os quadros?                                              | (X) SIM () NÃO |
+| 4. Os atores do storyboard são condizentes com a realidade?                                    | (X) SIM () NÃO |
+| 5. As transições entre os quadros são suaves e compreensíveis?                                 | (X) SIM () NÃO |
+| 6. As tarefas realizadas pelos atores condizem com o que se espera do produto?                 | (X) SIM () NÃO |
 | 7. Os quadros são visualmente poluídos, dificultando a concentração no seu objetivo principal? | (X) SIM () NÃO |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
@@ -69,14 +69,14 @@ Abaixo seguem as tabelas contendo as respostas obtidas dos usuários pra os Stor
 **Tabela 3**  - Perguntas para o usuário: Storyboard 2. (Desenvolvido por Carla)
 
 
-| Pergunta                                                                 | Resposta |
-|--------------------------------------------------------------------------|----------|
-| 1. O objetivo do storyboard está claramente definido?                   | (X) SIM () NÃO |
-| 2. Você se identifica como o público-alvo?                              | () SIM (X) NÃO |
-| 3. Há uma linha do tempo lógica entre os quadros?                       | (X) SIM () NÃO |
-| 4. Os atores do storyboard são condizentes com a realidade?             | (X) SIM () NÃO |
-| 5. As transições entre os quadros são suaves e compreensíveis?          | (X) SIM () NÃO |
-| 6. As tarefas realizadas pelos atores condizem com o que se espera do produto? | (X) SIM () NÃO |
+| Pergunta                                                                                       | Resposta       |
+| ---------------------------------------------------------------------------------------------- | -------------- |
+| 1. O objetivo do storyboard está claramente definido?                                          | (X) SIM () NÃO |
+| 2. Você se identifica como o público-alvo?                                                     | () SIM (X) NÃO |
+| 3. Há uma linha do tempo lógica entre os quadros?                                              | (X) SIM () NÃO |
+| 4. Os atores do storyboard são condizentes com a realidade?                                    | (X) SIM () NÃO |
+| 5. As transições entre os quadros são suaves e compreensíveis?                                 | (X) SIM () NÃO |
+| 6. As tarefas realizadas pelos atores condizem com o que se espera do produto?                 | (X) SIM () NÃO |
 | 7. Os quadros são visualmente poluídos, dificultando a concentração no seu objetivo principal? | (X) SIM () NÃO |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
@@ -88,14 +88,14 @@ Abaixo seguem as tabelas contendo as respostas obtidas dos usuários pra os Stor
 **Tabela 4**  - Perguntas para o usuário: Storyboard 3. (Desenvolvido por Davi)
 
 
-| Pergunta                                                                 | Resposta |
-|--------------------------------------------------------------------------|----------|
-| 1. O objetivo do storyboard está claramente definido?                   | (X) SIM () NÃO |
-| 2. Você se identifica como o público-alvo?                              | (X) SIM () NÃO |
-| 3. Há uma linha do tempo lógica entre os quadros?                       | (X) SIM () NÃO |
-| 4. Os atores do storyboard são condizentes com a realidade?             | (X) SIM () NÃO |
-| 5. As transições entre os quadros são suaves e compreensíveis?          | (X) SIM () NÃO |
-| 6. As tarefas realizadas pelos atores condizem com o que se espera do produto? | (X) SIM () NÃO |
+| Pergunta                                                                                       | Resposta       |
+| ---------------------------------------------------------------------------------------------- | -------------- |
+| 1. O objetivo do storyboard está claramente definido?                                          | (X) SIM () NÃO |
+| 2. Você se identifica como o público-alvo?                                                     | (X) SIM () NÃO |
+| 3. Há uma linha do tempo lógica entre os quadros?                                              | (X) SIM () NÃO |
+| 4. Os atores do storyboard são condizentes com a realidade?                                    | (X) SIM () NÃO |
+| 5. As transições entre os quadros são suaves e compreensíveis?                                 | (X) SIM () NÃO |
+| 6. As tarefas realizadas pelos atores condizem com o que se espera do produto?                 | (X) SIM () NÃO |
 | 7. Os quadros são visualmente poluídos, dificultando a concentração no seu objetivo principal? | (X) SIM () NÃO |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a></p> 
@@ -107,14 +107,14 @@ Abaixo seguem as tabelas contendo as respostas obtidas dos usuários pra os Stor
 **Tabela 5**  - Perguntas para o usuário: Storyboard 4. (Desenvolvido por João)
 
 
-| Pergunta                                                                 | Resposta |
-|--------------------------------------------------------------------------|----------|
-| 1. O objetivo do storyboard está claramente definido?                   | (X) SIM () NÃO |
-| 2. Você se identifica como o público-alvo?                              | (X) SIM () NÃO |
-| 3. Há uma linha do tempo lógica entre os quadros?                       | (X) SIM () NÃO |
-| 4. Os atores do storyboard são condizentes com a realidade?             | () SIM (X) NÃO |
-| 5. As transições entre os quadros são suaves e compreensíveis?          | (X) SIM () NÃO |
-| 6. As tarefas realizadas pelos atores condizem com o que se espera do produto? | (X) SIM () NÃO |
+| Pergunta                                                                                       | Resposta       |
+| ---------------------------------------------------------------------------------------------- | -------------- |
+| 1. O objetivo do storyboard está claramente definido?                                          | (X) SIM () NÃO |
+| 2. Você se identifica como o público-alvo?                                                     | (X) SIM () NÃO |
+| 3. Há uma linha do tempo lógica entre os quadros?                                              | (X) SIM () NÃO |
+| 4. Os atores do storyboard são condizentes com a realidade?                                    | () SIM (X) NÃO |
+| 5. As transições entre os quadros são suaves e compreensíveis?                                 | (X) SIM () NÃO |
+| 6. As tarefas realizadas pelos atores condizem com o que se espera do produto?                 | (X) SIM () NÃO |
 | 7. Os quadros são visualmente poluídos, dificultando a concentração no seu objetivo principal? | () SIM (X) NÃO |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
@@ -208,8 +208,8 @@ Baseando-se no fato de que um dos dois entrevistados ativamente usa a plataforma
             <td>1.1</td>
             <td>Adição da avalição do storyboard</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>14/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>

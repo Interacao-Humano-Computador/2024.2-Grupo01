@@ -77,7 +77,7 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td>Criação do documento de perguntas</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>01/12</td>
-            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro></a></td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>
     </table>
 </div>

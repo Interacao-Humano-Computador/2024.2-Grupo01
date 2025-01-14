@@ -141,11 +141,11 @@ A análise deve considerar:
 
 Por fim, é importante responder às questões levantadas no início do processo de avaliação, fornecendo uma visão clara sobre a eficácia do protótipo em papel do BlueSky e direcionando os próximos passos no desenvolvimento da plataforma.
 
-## Referências Bibliográficas
+## Bibliografica
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
-> PREECE, J.; ROGERS, Y.; SHARP, H. Design de Interação: Além da Interação Humano-Computador. Porto Alegre: Bookman, 2005.
+> 2. PREECE, J.; ROGERS, Y.; SHARP, H. Design de Interação: Além da Interação Humano-Computador. Porto Alegre: Bookman, 2005.
 
 ## Histórico de versão:
 

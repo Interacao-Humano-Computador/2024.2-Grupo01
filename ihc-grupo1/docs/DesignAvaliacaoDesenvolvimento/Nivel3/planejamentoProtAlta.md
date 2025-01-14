@@ -215,8 +215,8 @@ Figma:
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>14/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>
