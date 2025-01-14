@@ -270,7 +270,7 @@ Tabela 4: Análise da HTA - Publicar um post no BlueSky. Autor: Gabriel Monteiro
 Autopublicação. ISBN: 978-65-00-19677-1.
 
 
-## Histórico de Versão 
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

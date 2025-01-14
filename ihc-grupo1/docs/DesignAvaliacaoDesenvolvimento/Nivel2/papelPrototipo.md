@@ -54,7 +54,7 @@ A metologia utilizada foi o protótipo de papel, onde o grupo se reuniu para for
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
 
-## Histórico de versão:
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

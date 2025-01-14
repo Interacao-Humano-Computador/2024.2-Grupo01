@@ -121,7 +121,7 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 > 3. Bluesky. Inspeção 4. Repositório do Grupo Bluesky da disciplina de Interação Humano Computador da Universidade de Brasília, 2024.2. Disponível em: <https://interacao-humano-computador.github.io/2024.2-Grupo01/> Acesso em 28/12/2024 ás 23:00
 
 
-## Histórico de versão:
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

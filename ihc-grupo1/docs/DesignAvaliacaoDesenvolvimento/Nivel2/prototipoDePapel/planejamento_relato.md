@@ -147,7 +147,7 @@ Por fim, é importante responder às questões levantadas no início do processo
 
 > 2. PREECE, J.; ROGERS, Y.; SHARP, H. Design de Interação: Além da Interação Humano-Computador. Porto Alegre: Bookman, 2005.
 
-## Histórico de versão:
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

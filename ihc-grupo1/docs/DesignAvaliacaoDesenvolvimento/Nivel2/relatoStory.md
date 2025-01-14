@@ -183,7 +183,7 @@ Baseando-se no fato de que um dos dois entrevistados ativamente usa a plataforma
 > 3. Bilheteria Digital. Análise Hierárquica de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023.1. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/.> Acesso em 26/12/2024 ás 21:01
 
 
-## Histórico de versão:
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

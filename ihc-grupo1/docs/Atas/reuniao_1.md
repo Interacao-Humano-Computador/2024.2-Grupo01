@@ -56,7 +56,7 @@
 
 ---
 
-## Histórico de Versão
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>
