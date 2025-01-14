@@ -146,8 +146,8 @@ Nessa analise intersujeito, recorrências nos resultados serão buscadas a fim d
             <td>2.1</td>
             <td>Correções em "Explorar perguntas" e "Identificar questões práticas"</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>06/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>

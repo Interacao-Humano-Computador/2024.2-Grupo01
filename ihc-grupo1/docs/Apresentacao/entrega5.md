@@ -5,12 +5,12 @@ Este documento reúne todas as apresentações desenvolvidas pelo Grupo 01 para 
 O objetivo deste documento é consolidar as apresentações do Grupo 01, permitindo um acompanhamento claro e organizado do progresso das atividades realizadas na disciplina. Além disso, serve como um material de referência para os membros do grupo e para o professor, facilitando o acesso aos tópicos explorados, à metodologia aplicada.
 
 ## Metodologia
-A metodologia adotada para este documento consiste na gravação de todas as apresentações realizadas pelo Grupo 01 ao longo do semestre. Cada apresentação foi registrada em vídeo para garantir a preservação do conteúdo e facilitar o acesso a ele a qualquer momento. Além disso, todas as apresentações vão ser alocadas no YouTube na categoria "não listado"
+A metodologia adotada para este documento consiste na gravação de todas as apresentações realizadas pelo Grupo 01 ao longo do semestre. Cada apresentação foi registrada em vídeo para garantir a preservação do conteúdo e facilitar o acesso a ele a qualquer momento. Além disso, todas as apresentações vão ser alocadas no YouTube na categoria "não listado".
 
 ## Apresentação 5
-Nesta etapa foram entregues: Princípios gerais, metas de usabilidade, guia de estilo, caracteristicas da plataforma para o projeto e verificação da etapa 3. O link para o vídeo da apresentação é apresentado logo a seguir. A data da gravação foi dia 06/01/2025 e os integrantes presentes foram: Carla, Davi e Gabriel.
+Nesta etapa foram entregues: Princípios gerais, metas de usabilidade, guia de estilo, caracteristicas da plataforma para o projeto e verificação da etapa 5. O link para o vídeo da apresentação é apresentado logo a seguir. A data da gravação foi dia 06/01/2025 e os integrantes presentes foram: Carla, Davi e Gabriel.
 
-<p align="center"><a href="https://youtu.be/U4clYxAPHso">Link para a apresentação 3</a></p> 
+<p align="center"><a href="https://youtu.be/U4clYxAPHso">Link para a apresentação 5</a></p> 
 
 <iframe width="874" height="492" src="https://www.youtube.com/embed/U4clYxAPHso" title="Gravação Entrega 05" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

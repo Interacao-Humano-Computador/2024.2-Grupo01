@@ -25,7 +25,7 @@ O planejamento desta avaliação segue o framework DECIDE, proposto por Sharp, R
 | D | Decidir como lidar com as questões éticas |
 | E | Avaliar, interpretar e apresentar os dados colhidos |
 
-Fonte: Barbosa e Silva. Interação Humano-Computador. 1 ed. ELSEVIER INC, 2010[1]
+<b>Fonte:</b> Barbosa e Silva. Interação Humano-Computador. 1 ed. ELSEVIER INC, 2010[1]
 
 </center>
 
@@ -78,7 +78,7 @@ Após a simulação, utilizaremos o seguinte roteiro de perguntas:
 | Quais funcionalidades você gostaria de ver implementadas no BlueSky? | Aberta |
 | Como você compara a experiência do BlueSky com outras redes sociais que utiliza? | Aberta |
 
-Autor: [Gabriel Monteiro](https://github.com/GabrielSMonteiro)
+<b>Autor:</b> [Gabriel Monteiro](https://github.com/GabrielSMonteiro)
 
 </center>
 
@@ -96,7 +96,7 @@ Autor: [Gabriel Monteiro](https://github.com/GabrielSMonteiro)
 | Gabriel | Presencial | 10/01/2025 |
 | João Vitor | Presencial | 10/01/2025 |
 
-Autor: [Gabriel Monteiro](https://github.com/GabrielSMonteiro)
+<b>Autor:</b> [Gabriel Monteiro](https://github.com/GabrielSMonteiro)
 
 </center>
 
@@ -115,15 +115,15 @@ Após a coleta de dados, classificaremos os problemas observados de acordo com:
 
 Com base nessa classificação, elaboraremos propostas de melhorias para o protótipo do BlueSky, priorizando os problemas mais críticos e frequentes.
 
-## Referências Bibliográficas
+## Bibliografia
 
-> [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
->  SHARP, H.; ROGERS, Y.; PREECE, J. Interaction Design: Beyond Human-Computer Interaction. 5th ed. John Wiley & Sons, 2019.
+> 2. SHARP, H.; ROGERS, Y.; PREECE, J. Interaction Design: Beyond Human-Computer Interaction. 5th ed. John Wiley & Sons, 2019.
 
->  NIELSEN, J. Usability Engineering. Morgan Kaufmann, 1993.
+> 3. NIELSEN, J. Usability Engineering. Morgan Kaufmann, 1993.
 
-> INTERAÇÃO HUMANO COMPUTADOR. Planejamento da Avaliação do Protótipo de Papel. GitHub, 2023. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel2/prototipoDePapel/planejamento_avaliacao.md. Acesso em: 3 jan. 2025.
+> 4. INTERAÇÃO HUMANO COMPUTADOR. Planejamento da Avaliação do Protótipo de Papel. GitHub, 2023. Disponível em: https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel2/prototipoDePapel/planejamento_avaliacao.md. Acesso em: 3 jan. 2025.
 
 ## Histórico de versão:
 

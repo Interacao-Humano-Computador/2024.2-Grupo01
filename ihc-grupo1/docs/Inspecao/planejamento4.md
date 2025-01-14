@@ -36,15 +36,15 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 
 | ID  | Descrição                                                                                                          | Avaliação | Autor                                    |
 | --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ---------------------------------------- |
-| 1   | O artefato utiliza o framework DECIDE para realização do Planejamento da Avaliação do Storyboard?                  |           | [Davi Nobre](https://github.com/Jagaima) |
-| 2   | O artefato apresenta os objetivos da Avaliação do Storyboard?                                                      |           | [Davi Nobre](https://github.com/Jagaima) |
-| 3   | O artefato apresenta a metodologia que será utilizada na Avaliação do Storyboard?                                  |           | [Davi Nobre](https://github.com/Jagaima) |
-| 4   | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação do Storyboard?               |           | [Davi Nobre](https://github.com/Jagaima) |
-| 5   | O artefato identifica o orçamento necessário para a Avaliação?                                                     |           | [Davi Nobre](https://github.com/Jagaima) |
-| 6   | O documento cita as questões éticas?                                                                               |           | [Davi Nobre](https://github.com/Jagaima) |
-| 7   | O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação do Storyboard? |           | [Davi Nobre](https://github.com/Jagaima) |
-| 8   | O artefato possui no seu cronograma uma data e horário para realização da Avaliação do Storyboard?                 |           | [Davi Nobre](https://github.com/Jagaima) |
-| 9   | O artefato possui um roteiro indicando como o planejamento foi pensado pra ser executado?                          |           | [Davi Nobre](https://github.com/Jagaima) |
+| 1   | O artefato utiliza o framework DECIDE para realização do Planejamento da Avaliação do Storyboard?                  | -         | [Davi Nobre](https://github.com/Jagaima) |
+| 2   | O artefato apresenta os objetivos da Avaliação do Storyboard?                                                      | -         | [Davi Nobre](https://github.com/Jagaima) |
+| 3   | O artefato apresenta a metodologia que será utilizada na Avaliação do Storyboard?                                  | -         | [Davi Nobre](https://github.com/Jagaima) |
+| 4   | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação do Storyboard?               | -         | [Davi Nobre](https://github.com/Jagaima) |
+| 5   | O artefato identifica o orçamento necessário para a Avaliação?                                                     | -         | [Davi Nobre](https://github.com/Jagaima) |
+| 6   | O documento cita as questões éticas?                                                                               | -         | [Davi Nobre](https://github.com/Jagaima) |
+| 7   | O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação do Storyboard? | -         | [Davi Nobre](https://github.com/Jagaima) |
+| 8   | O artefato possui no seu cronograma uma data e horário para realização da Avaliação do Storyboard?                 | -         | [Davi Nobre](https://github.com/Jagaima) |
+| 9   | O artefato possui um roteiro indicando como o planejamento foi pensado pra ser executado?                          | -         | [Davi Nobre](https://github.com/Jagaima) |
 
 ## Inspeção 02: Planejamento Resultado da avaliação do Storyboard
 

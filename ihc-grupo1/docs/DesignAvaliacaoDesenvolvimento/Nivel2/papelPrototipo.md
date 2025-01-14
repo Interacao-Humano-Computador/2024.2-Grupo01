@@ -71,8 +71,8 @@ A metologia utilizada foi o protótipo de papel, onde o grupo se reuniu para for
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td></td>
-            <td><a</a></td>
+            <td>05/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>

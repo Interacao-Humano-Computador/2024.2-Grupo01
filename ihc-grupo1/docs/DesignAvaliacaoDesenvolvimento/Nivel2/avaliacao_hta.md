@@ -126,8 +126,8 @@ O vídeo a seguir contem a gravação da entrevista com o Usuário Sebastian.
             <td>1.1</td>
             <td>Adição do conteúdo referente a entrevista 2.</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>06/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>
