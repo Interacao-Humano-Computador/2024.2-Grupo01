@@ -108,10 +108,12 @@ A fim de respeitar os princípios éticos e tratar as pessoas envolvidas de mane
 A interpretação dos dados coletados será orientada pelos métodos escolhidos para a avaliação, inicialmente voltando-se aos dados coletados de cada indivíduo participante para posteriormente consolidar esses resultados coletivos.
 Nessa analise intersujeito, recorrências nos resultados serão buscadas a fim de identificar padrões representativos do grupo participante. E, enfim, busca-se responder as questões motivadoras do estudo e justificar o por que alguma resposta não foi encontrada, caso ocorra.
 
-## Referência Bibliografia
+## Referência Bibliográfica
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011. p. 250-251.
 > 2. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011. p. 258.
+
+## :round_pushpin: Histórico de Versão
 
 <div align="center">
     <table>
