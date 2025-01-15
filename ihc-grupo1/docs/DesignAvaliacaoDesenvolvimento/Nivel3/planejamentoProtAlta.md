@@ -221,7 +221,7 @@ Figma:
         <tr>
             <td>14/1</td>
             <td>1.1</td>
-            <td>Criação do documento</td>
+            <td>Adição de redirecionamentos</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
             <td>13/01</td>
             <td><a href="https://github.com/Jagaima">Davi</a></td>
