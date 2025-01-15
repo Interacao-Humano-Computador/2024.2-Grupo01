@@ -93,6 +93,10 @@ O vídeo a seguir contem a gravação da entrevista com o Usuário Sebastian.
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
+
+[Visualizar Termo de Livre Consentimento Sebastian](../../assets/TCanaliseTarefaAss.jpg)
+
+
 </center>
 
 ---

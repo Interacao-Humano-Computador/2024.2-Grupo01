@@ -59,10 +59,11 @@ Com o intuito de operacionalizar os objetivos supracitados, faz-se necessário s
 
 ## C - Escolher os métodos
 
-Para esse avaliação será o teste de usabilidade, método utilizado na interação humano computador o qual a equipe de pesquisa observa um usuário interagindo com um produto, incluindo versões anteriores do sistema e protótipos, para testar e avaliar sua usabilidade. A partir dele pode-se avaliar o desempenho de usuários integrantes do público-alvo e encontrar maneiras de facilitar o uso do produto.
+Para esse avaliação será o teste de usabilidade, método utilizado na interação humano computador o qual a equipe de pesquisa observa um usuário interagindo com um produto, incluindo versões anteriores do sistema e protótipos, para testar e avaliar sua usabilidade. A partir dele pode-se avaliar o desempenho de usuários integrantes do público-alvo e encontrar maneiras de facilitar o uso do produto. Com isso em consideração, o teste de usabilidade torna-se apropriado para avaliar problemas na interação e na interface, apropriação da tecnologia e deias e alternativas de design sobre o protótipo de alta fidelidade produzido no nível 3 da fase de design, avaliação e desenvolvimento do ciclo de vida para a engenharia de usabilidade de Mayhew.
 
 ## I - Identificar questões práticas
 
+Esta seção do planejamento dedica-se a identificar questões práticas da avaliação, o principal artefato produzido para essa atividade é o protótipo de alta fidelidade que se encontra ao final deste artefato.
 
 ### Roteiro da avaliação do protótipo de alta fidelidade
 
@@ -162,6 +163,8 @@ O cronograma planejado para a realização da Avaliação do protótipo de alta 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 </center>
 
+Antes da avaliação em si será realizado um teste-piloto para testar o planejamento contido neste artefato a fim de descobrir se a avaliação produzirá dados adequados a responder as questões estabelecidas no estudo. Esse teste será realizado como uma sessão normal de avaliação, pois, segundo Barbosa e Silva (2011), teremos a oportunidade de verificar se a linguagem nos materiais e explicações são claros e suficientes para a avaliação, se tempo estimado é adequado e se os equipamentos e softwares a serem utilizados no processo funcionam corretamente. 
+
 ## D - Decidir as questões éticas
 
 A fim de respeitar os princípios éticos e tratar as pessoas envolvidas de maneira justa e respeitosa, garantindo que suas escolhas sejam feitas com total clareza e sem pressões externas. Assim, será utilizado de uma versão adaptada do [Termo de Consentimento](../../AnaliseRequisitos/AspectosEticos.md) a essa avaliação.
@@ -175,17 +178,16 @@ quais características, partes e comportamentos da interface que podem ter causa
 
 ## Protótipo de alta fidelidade
 
-Protótipo de alta fidelidade:
+O protótipo a dessa avaliação foi construído no figma. A seguir o protótipo de alta fidelidade e o projeto da prototipação, respectivamente:
 
 
 <center>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/CZblyHKCluNZgxfl3bLYxE/IHC?node-id=14-208&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
 </center>
 
-Figma:
 
 <center>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/CZblyHKCluNZgxfl3bLYxE/IHC?node-id=14-59&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/CZblyHKCluNZgxfl3bLYxE/IHC?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 </center>
 
 ## Referência Bibliográfica
@@ -221,10 +223,18 @@ Figma:
         <tr>
             <td>14/1</td>
             <td>1.1</td>
-            <td>Criação do documento</td>
+            <td>Adição de redirecionamentos</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
-            <td>13/01</td>
-            <td><a href="https://github.com/Jagaima">Davi</a></td>
+            <td>14/01</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>14/1</td>
+            <td>1.2</td>
+            <td>Adicionando maior detalhamento em "Identificar questões práticas"</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>14/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>

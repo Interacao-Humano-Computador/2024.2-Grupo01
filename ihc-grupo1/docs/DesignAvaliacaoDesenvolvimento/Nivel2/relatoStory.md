@@ -153,7 +153,7 @@ O vídeo a seguir contem a gravação da entrevista com o Usuário Sebastian. Es
 
 ## Termo de Livre Conscentimento.
 
-Respeitando a vontade do usuário, foi desenvolvido, informado e assinado todos os termos do documento ético desenvolvido pelo grupo em entregas passadas.
+Respeitando a vontade dos usuários, foi desenvolvido, informado e assinado todos os termos do documento ético desenvolvido pelo grupo em entregas passadas.
 
 <center>
 
@@ -162,6 +162,16 @@ Respeitando a vontade do usuário, foi desenvolvido, informado e assinado todos 
 </figure>
 
 <p style="text-align:center;"><em>Figura 1 - Termo de livre Conscentimento João Victor. Autor: Davi Nobre</em></p>
+
+</center>
+
+<center>
+
+<figure markdown="span">
+  ![joao_storyboard](../../assets/TCstoryboardAss.jpg){ width="900" align="center" }
+</figure>
+
+<p style="text-align:center;"><em>Figura 1 - Termo de livre Conscentimento Sebastian. Autor: João Ribeiro</em></p>
 
 </center>
 
