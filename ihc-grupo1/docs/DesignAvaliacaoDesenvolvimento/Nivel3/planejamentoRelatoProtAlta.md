@@ -97,7 +97,7 @@ O relato dos resultados deve sintetizar os principais achados da avaliação do 
 
 ## Referências Bibliográficas
 
-[1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
+> [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
 
 ## Bibliografria
 

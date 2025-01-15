@@ -10,9 +10,9 @@ A metodologia adotada para este documento consiste na gravação de todas as apr
 ## Apresentação 6
 Nesta etapa foram entregues: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade, Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade e verificação da etapa 6. O link para o vídeo da apresentação é apresentado logo a seguir. A data da gravação foi dia 14/01/2025 e os integrantes presentes foram: Eduarda, João, Carla, Davi e Gabriel.
 
-<p align="center"><a href="https://youtu.be/">Link para a apresentação 6</a></p> 
+<p align="center"><a href="https://youtu.be/zIrp86uoHhk">Link para a apresentação 6</a></p> 
 
-<iframe width="874" height="492" src="https://www.youtube.com/embed/" title="Gravação Entrega 06" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="874" height="492" src="https://www.youtube.com/embed/zIrp86uoHhk" title="Gravação Entrega 06" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
  > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)

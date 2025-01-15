@@ -92,6 +92,8 @@ O seguinte storyboard ilustra a jornada de Pedro que deseja encontrar posts de s
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
 > 2. ROGERS, Yvonne; SHARP, Helen; PREECE, Jenny. Design de Interação: Além da Interação Humano-Computador. Tradução de Isabela Gasparini. 3. ed. Porto Alegre: Bookman, 2013.
 
+## :round_pushpin: Histórico de Versão 
+
 <div align="center">
     <table>
         <tr>

@@ -76,6 +76,7 @@ Com base nos resultados obtidos, será levantado as alterações necessárias e 
 
 > 2. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
 
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>
