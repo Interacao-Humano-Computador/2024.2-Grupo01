@@ -45,18 +45,14 @@ Com o intuito de operacionalizar os objetivos supracitados, faz-se necessário s
 
 | Aspecto                               | Pergunta                                                                            |
 | ------------------------------------- | ----------------------------------------------------------------------------------- |
-| Problemas na interação e na interface | O usuário consegue atingir seu objetivo? Ele cometeu erros?                         |
-|                                       | O usuário compreende os elementos da interface e seus propósitos?                   |
-|                                       | Que parte da interface/interação deixa a desejar para a satisfação do usuário?      |
+| Problemas na interação e na interface | O usuário consegue atingir seu objetivo através tarefa proposta?                    |
+|                                       | O usuário compreende as etapas da tarefa proposta?                                  |
+|                                       | Que parte da tarefa deixa a desejar para a satisfação do usuário?                   |
 |                                       | Quais problemas de IHC criam empecilhos ao usuário realizar seu objetivo?           |
-|                                       | Em que parte da interface esses problemas ocorrem? Com qual frequência e gravidade? |
+|                                       | Em que etapa esses problemas ocorrem?                                               |
 | Apropriação da tecnologia             | De que modo o sistema afeta a relação e comunicação dos usuários?                   |
-|                                       | Quais aspectos são personalizáveis para melhor adequação do sistema ao usuário?     |
-|                                       | Quanto tempo foi necessário para atingir seu objetivo?                              |
 |                                       | Na visão dos usuários, quais são os pontos fortes e fracos do sistema?              |
-|                                       | O quanto eles são motivados a explorar novas funcionalidades?                       |
 | Ideias e alternativas de design       | Qual ideia/alternativa de design tem a preferência dos usuários?                    |
-|                                       | De qual delas é esperado um impacto negativo menor?                                 |
 
 </center>
 
@@ -69,19 +65,16 @@ Com isso, espera-se a obtenção de dados mais robustos e confiáveis ao complem
 
 ## I - Identificar questões práticas
 
-Participarão da avaliação da análise de tarefas cinco usuários que se encaixam no perfil de usuário encontrado para o sistema trabalhado no projeto. Todos os integrantes do grupo participarão dessa avaliação como entrevistadores/observadores. As dinâmicas devem durar aproximadamente 20 minutos e serão realizadas de forma remota na plataforma Google Meet, já que é de mais fácil acesso por ser gratuita ao uso.
+Se você leu um livro de Silva (2020), que cita uma pesquisa de Oliveira (2005), a citação ficaria assim:
+Oliveira (2005, apud Silva, 2020, p. 45)
 
-Para as entrevistas os materiais necessários incluem: 
-- Roteiro/ perguntas para a entrevista,
-- Diagrama e tabela HTA e fluxo GOMS da tarefa escolhida,
-- Dispositivo para videochamada e gravação da dinâmica,
-- Termo de consentimento,
-- Meio para coleta de feedback.
+Participarão da avaliação da análise de tarefas cinco usuários que se encaixam no perfil de usuário encontrado para o sistema trabalhado no projeto, pois, segundo Nielsen(2000, apud Barbosa e Silva, 2011, p258)². Todos os integrantes do grupo participarão dessa avaliação como entrevistadores/observadores, sendo necessária a participação de ao menos um integrante para cada realização da dinâmica. As dinâmicas devem durar aproximadamente 20 minutos e serão realizadas de forma remota na FCTE - UnB (sala a definir), já que é de mais fácil acesso por ser gratuita ao uso. As avaliações não devem gerar custos ao grupo.
 
-Para as sessões de observação os materiais necessários incluem: 
-- Ambiente de observação (dispositivo com acesso ao sistema)
+Os materiais necessários às avaliações incluem:
+
 - Diagrama e tabela HTA e fluxo GOMS da tarefa escolhida,
-- Dispositivo para videochamada e gravação da dinâmica,
+- Dispositivo para videochamada e/ou gravação da dinâmica,
+- Dispositivo com acesso ao sistema que as tarefas analisadas se baseam, 
 - Termo de consentimento,
 - Meio para coleta de feedback.
 
@@ -93,11 +86,11 @@ A preparação para a avaliação inclui a providenciar os materiais necessário
 
 | Entrevistador(a)  | Entrevistado(a)       | Horário     | Data                      | Local                     |
 |-------------------|-----------------------|-------------|---------------------------|---------------------------|
-| Carla             | Bruna Araújo         | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
-| Davi              | Vinícius Chavito     | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
-| João              | Eduardo Paiva | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
-| Eduarda           | Ana Carolina         | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
-| Gabriel           | Laura Sumienski | A definir   | 16/12/2024 - 20/12/2024  | Plataforma Google Meet    |
+| Carla             | Bruna Araújo         | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (sala a definir)    |
+| Davi              | Vinícius Chavito     | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (sala a definir)    |
+| João              | Eduardo Paiva | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (sala a definir)    |
+| Eduarda           | Ana Carolina         | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (sala a definir)    |
+| Gabriel           | Laura Sumienski | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (sala a definir)    |
 
 **Autores:** Carla Clementino e Gabriel Santos.
 
@@ -115,9 +108,12 @@ A fim de respeitar os princípios éticos e tratar as pessoas envolvidas de mane
 A interpretação dos dados coletados será orientada pelos métodos escolhidos para a avaliação, inicialmente voltando-se aos dados coletados de cada indivíduo participante para posteriormente consolidar esses resultados coletivos.
 Nessa analise intersujeito, recorrências nos resultados serão buscadas a fim de identificar padrões representativos do grupo participante. E, enfim, busca-se responder as questões motivadoras do estudo e justificar o por que alguma resposta não foi encontrada, caso ocorra.
 
-## Referência Bibliografia
+## Referência Bibliográfica
 
-> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
+> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011. p. 250-251.
+> 2. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011. p. 258.
+
+## :round_pushpin: Histórico de Versão
 
 <div align="center">
     <table>
@@ -135,7 +131,23 @@ Nessa analise intersujeito, recorrências nos resultados serão buscadas a fim d
             <td>Criação do documento</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td>10/12</td>
-            <td><ahref="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+        </tr>
+        <tr>
+            <td>16/12</td>
+            <td>2.0</td>
+            <td>Alteração do local</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td>16/12</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>12/01</td>
+            <td>2.1</td>
+            <td>Correções em "Explorar perguntas" e "Identificar questões práticas"</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>06/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>

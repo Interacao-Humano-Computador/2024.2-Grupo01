@@ -141,9 +141,9 @@ Abaixo está apresentado o planejamento para a entrega 03 do projeto.
 
 ### Executado entrega 3
 
-Na Tabela 07 abaixo é definido o que foi executado do planejamento da Tabela 05.
+Na Tabela 06 abaixo é definido o que foi executado do planejamento da Tabela 05.
 
-<p align="center"><b>Tabela 07</b> - Entrega 3. Executado do planejamento da Entrega 03</p>
+<p align="center"><b>Tabela 06</b> - Entrega 3. Executado do planejamento da Entrega 03</p>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
 |-----------|---------------------------|--------------|---------|---------|
@@ -159,9 +159,9 @@ Na Tabela 07 abaixo é definido o que foi executado do planejamento da Tabela 05
 
 ### Cronograma planejado entrega 4
 
-Abaixo está apresentado o planejamento para a entrega 04 do projeto.
+Abaixo, na tabela 07, está apresentado o planejamento para a entrega 04 do projeto.
 
-<p align="center"><b>Tabela 06</b> - Entrega 4. Planejamento da Avaliação do Storyboard e Análise de Tarefas</p>
+<p align="center"><b>Tabela 07</b> - Entrega 4. Planejamento da Avaliação do Storyboard e Análise de Tarefas</p>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
 |-----------|---------------------------|--------------|---------|---------|
@@ -169,17 +169,35 @@ Abaixo está apresentado o planejamento para a entrega 04 do projeto.
 | Planejamento da avaliação do Storyboard | Início: 04/12<br>Fim: 07/12 | Gabriel, Davi | 08/12 | Carla |
 | Planejamento do relato dos resultados da avaliação do Storyboard | Início: 04/12<br>Fim: 07/12 | Carla, Eduarda | 08/12 | João Vitor |
 | Planejamento da Avaliação da Análise de tarefas | Início: 04/12<br>Fim: 07/12 | João Vitor, Gabriel | 08/12 | Davi |
-| Planejamento do relato da avaliação da análise de tarefas | Início: 04/12<br>Fim: 07/12 | Davi, Carla | 08/12 | Eduarda |
+| Planejamento do relato dos resultados da avaliação da análise de tarefas | Início: 04/12<br>Fim: 07/12 | Davi, Carla | 08/12 | Eduarda |
 | Gravação da apresentação | Início: 08/12<br>Fim: 08/12 | Carla, Davi, Eduarda, Gabriel e João Vitor | 09/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
 | Finalização da entrega | Início: 09/12<br>Fim: 10/12 | Carla, Davi, Eduarda, Gabriel e João Vitor | 10/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
 
+### Executado entrega 4
+
+Na Tabela 08 abaixo é definido o que foi executado do planejamento da Tabela 07.
+
+<p align="center"><b>Tabela 08</b> - Entrega 4. Executado do planejamento da Entrega 04</p>
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
+|-----------|---------------------------|--------------|---------|---------|
+| Correção dos artefatos da entrega 3 | Início: 04/12<br>Fim: 07/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |||
+| Planejamento da avaliação do Storyboard | Início: 05/12<br>Fim: 08/12 | Davi | 03/12 | Gabriel e Eduarda |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 05/12<br>Fim: 08/12 | Eduarda | 03/12 | Gabriel e Carla|
+| Planejamento da Avaliação da Análise de tarefas | Início: 08/12<br>Fim: 10/12 | Carla, Gabriel | 01/12 | João e Davi |
+| Planejamento do relato dos resultados da avaliação da análise de tarefas | Início: 09/12<br>Fim: 10/12 | João Vitor | 01/12 | João Vitor e Davi|
+| Gravação da apresentação | Início: 09/12<br>Fim: 10/12 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: 09/12<br>Fim: 10/12 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/12 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+
+<font size="3"><p style="text-align: center">Autor: Gabriel Santos Monteiro.</p></font>
+
 ### Cronograma planejado entrega 5
 
 Abaixo está apresentado o planejamento para a entrega 05 do projeto.
 
-<p align="center"><b>Tabela 07</b> - Entrega 5. Relato dos Resultados do Storyboard e da Análise de Tarefas</p>
+<p align="center"><b>Tabela 09</b> - Entrega 5. Relato dos Resultados do Storyboard e da Análise de Tarefas</p>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
 |-----------|---------------------------|--------------|---------|---------|
@@ -193,47 +211,67 @@ Abaixo está apresentado o planejamento para a entrega 05 do projeto.
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
 
-### Cronograma planejado entrega 6
+### Executado entrega 5
 
-Abaixo está apresentado o planejamento para a entrega 06 do projeto.
+Na Tabela 10 abaixo é definido o que foi executado do planejamento da Tabela 09.
 
-<p align="center"><b>Tabela 08</b> - Entrega 6.1. Verificação dos Artefatos I</p>
+<p align="center"><b>Tabela 10</b> - Entrega 5. Executado do planejamento da Entrega 05</p>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
 |-----------|---------------------------|--------------|---------|---------|
-| Correção dos artefatos da entrega 5 | Início: 06/01<br>Fim: 08/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 09/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
-| Verificação dos artefatos da Etapa 1 | Início: 06/01<br>Fim: 10/01 | Gabriel | 11/01 | Davi |
-| Verificação dos artefatos da Etapa 2 | Início: 06/01<br>Fim: 10/01 | Carla | 11/01 | Eduarda |
-| Verificação dos artefatos da Etapa 3 | Início: 06/01<br>Fim: 10/01 | João Vitor | 11/01 | Gabriel |
-| Verificação dos artefatos da Etapa 4 | Início: 06/01<br>Fim: 10/01 | Davi | 11/01 | Carla |
-| Verificação dos artefatos da Etapa 5 | Início: 06/01<br>Fim: 10/01 | Eduarda | 11/01 | João Vitor |
-| Gravação da apresentação | Início: 12/01<br>Fim: 12/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 13/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Correção dos artefatos da entrega 4 | Início: 02/01<br>Fim: 05/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |05/01|Carla, Davi, Eduarda, Gabriel e João Vitor|
+| Relato dos resultados do Storyboard | Início: 01/01<br>Fim: 05/01 | Davi e João Vitor| 05/01 | Davi e Carla |
+| Relato dos resultados da Análise de tarefas | Início: 01/01<br>Fim: 05/01 | Carla | 03/12 | Gabriel e Davi|
+| Planejamento da avaliação do protótipo de papel | Início: 01/01<br>Fim: 05/01 | Gabriel e Eduarda | 01/12 | João e Davi |
+| Planejamento do relato dos resultados da avaliação do protótipo de papel | Início: 01/01<br>Fim: 05/01 | Gabriel | 05/01 | João Vitor e Davi|
+| Gravação da apresentação | Início: 04/01<br>Fim: 05/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 05/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: Início: 05/01<br>Fim: 06/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 06/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+
+<font size="3"><p style="text-align: center">Autor: Gabriel Santos Monteiro.</p></font>
+
+### Cronograma planejado entrega 6
+
+Abaixo está apresentado o planejamento para a entrega 07 do projeto.
+
+<p align="center"><b>Tabela 11</b> - Entrega 6. Relato dos Resultados do Protótipo de Papel</p>
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
+|-----------|---------------------------|--------------|---------|---------|
+| Correção dos artefatos da entrega 5 | Início: 06/01<br>Fim: 08/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 14/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Relato dos resultados do Protótipo de Papel | Início: 06/01<br>Fim: 10/01 | Davi | 14/01 | Gabriel |
+| Protótipo de Alta Fidelidade | Início: 06/01<br>Fim: 10/01 | Carla | 14/01 | João Vitor |
+| Planejamento da Avaliação do protótipo de alta fidelidade | Início: 06/01<br>Fim: 10/01 | João Vitor| 14/01 | Eduarda |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 06/01<br>Fim: 10/01 | Gabriel | 14/01 | Davi |
+| Lista de Inspeção| Início: 06/01<br>Fim: 13/01 | Eduarda | 14/01 | Carla |
+| Gravação da apresentação | Início: 12/01<br>Fim: 14/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 14/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
 | Finalização da entrega | Início: 13/01<br>Fim: 14/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 14/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
 
-### Cronograma planejado entrega 7
+### Executado entrega 6
 
-Abaixo está apresentado o planejamento para a entrega 07 do projeto.
+Na Tabela 12 abaixo é definido o que foi executado do planejamento da Tabela 11.
 
-<p align="center"><b>Tabela 09</b> - Entrega 7. Relato dos Resultados do Protótipo de Papel</p>
+<p align="center"><b>Tabela 12</b> - Entrega 6. Executado do planejamento da Entrega 06</p>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
 |-----------|---------------------------|--------------|---------|---------|
-| Correção dos artefatos da entrega 6.1 | Início: 15/01<br>Fim: 16/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 17/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
-| Relato dos resultados do Protótipo de Papel | Início: 15/01<br>Fim: 20/01 | Gabriel, Davi | 21/01 | Carla |
-| Planejamento da Avaliação do protótipo de alta fidelidade | Início: 15/01<br>Fim: 20/01 | Carla, Eduarda | 21/01 | João Vitor |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 15/01<br>Fim: 20/01 | João Vitor, Gabriel | 21/01 | Davi |
-| Gravação da apresentação | Início: 24/01<br>Fim: 24/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 25/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
-| Finalização da entrega | Início: 25/01<br>Fim: 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Correção dos artefatos da entrega 5 | Início: 06/01<br>Fim: 08/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 12/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Relato dos resultados do Protótipo de Papel | Início: 06/01<br>Fim: 10/01 | Davi | 14/01 | Gabriel |
+| Protótipo de Alta Fidelidade | Início: 06/01<br>Fim: 10/01 | Carla | 14/01 | João Vitor |
+| Planejamento da Avaliação do protótipo de alta fidelidade | Início: 06/01<br>Fim: 10/01 | João Vitor| 14/01 | Eduarda |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 06/01<br>Fim: 10/01 | Gabriel| 14/01 | Davi |
+| Lista de Inspeção| Início: 06/01<br>Fim: 13/01 | Eduarda | 14/01 | João Vitor |
+| Gravação da apresentação | Início: 12/01<br>Fim: 14/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 14/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: 13/01<br>Fim: 14/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 14/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
 
-<font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
+<font size="3"><p style="text-align: center">Autor: Gabriel Santos Monteiro.</p></font>
 
-### Cronograma planejado entrega 8
+### Cronograma planejado entrega 7
 
 Abaixo está apresentado o planejamento para a entrega 08 do projeto.
 
-<p align="center"><b>Tabela 10</b> - Entrega 8. Relato dos Resultados do Protótipo de Alta Fidelidade</p>
+<p align="center"><b>Tabela 15</b> - Entrega 8. Relato dos Resultados do Protótipo de Alta Fidelidade</p>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
 |-----------|---------------------------|--------------|---------|---------|
@@ -248,7 +286,7 @@ Abaixo está apresentado o planejamento para a entrega 08 do projeto.
 
 Abaixo está apresentado o planejamento para a entrega final do projeto.
 
-<p align="center"><b>Tabela 11</b> - Entrega 6.2. Verificação dos Artefatos II</p>
+<p align="center"><b>Tabela 17</b> - Entrega 6.2. Verificação dos Artefatos II</p>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
 |-----------|---------------------------|--------------|---------|---------|
@@ -271,5 +309,6 @@ Abaixo está apresentado o planejamento para a entrega final do projeto.
 | `1.1`  | 11/11/2024 | Adicionado metodologia e planejamento    | [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Eduarda |
 | `1.1`  | 12/11/2024 | Adicionado correções finais de datas 1 entrega| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Eduarda |
 | `2.0`  | 20/11/2024 | Adicionado cronograma das demais entregas| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | João Vitor |
+| `2.0`  | 10/12/2024 | Adicionado cronograma executado entrega 04| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Carla |
 
 

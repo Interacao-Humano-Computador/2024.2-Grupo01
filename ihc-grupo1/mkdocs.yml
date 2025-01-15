@@ -63,8 +63,9 @@ markdown_extensions:
   - md_in_html
   - pymdownx.blocks.caption
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
       options:
         custom_icons:
           - overrides/.icons 
@@ -76,9 +77,15 @@ nav:
     - Entrega 2: Apresentacao/entrega2.md
     - Entrega 3: Apresentacao/entrega3.md
     - Entrega 4: Apresentacao/entrega4.md
+    - Entrega 5: Apresentacao/entrega5.md
+    - Entrega 6: Apresentacao/entrega6.md
   - Atas: 
     - Reunião 1: Atas/reuniao_1.md
     - Reunião 2: Atas/reuniao_2.md
+    - Reunião 3: Atas/reuniao_3.md
+    - Reunião 4: Atas/reuniao_4.md
+    - Reunião 5: Atas/reuniao_5.md
+    - Reunião 6: Atas/reuniao_6.md
   - Desenvolvimento:
     - Cronograma: Desenvolvimento/Cronograma.md
     - Ferramentas: Desenvolvimento/ferramentas.md
@@ -102,9 +109,21 @@ nav:
   - Design, Avaliação e Desenvolvimento: 
     - Nível 1: 
       - HTA: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/relato.md
-      - Planejamento da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/planejamentoStory.md
       - Planejamento da avaliação da Análise de Tarefas: DesignAvaliacaoDesenvolvimento/planejamentoAAT.md
+      - Avaliação da Análise de Tarefas: DesignAvaliacaoDesenvolvimento/Nivel2/avaliacao_hta.md
+      - Planejamento da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/planejamentoStory.md
       - Planejamento Resultado da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/planejamentoResultStory.md
+      - Execução da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel2/relatoStory.md
+      - Storyboards: DesignAvaliacaoDesenvolvimento/Nivel1/Storyboards.md
+    - Nível 2:
+      - Planejamento da Avaliação do Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel2/prototipoDePapel/planejamento_avaliacao.md
+      - Planejamento do Relato do Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel2/prototipoDePapel/planejamento_relato.md
+      
+      - Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel2/papelPrototipo.md
+    - Nível 3:
+      - Planejamento da Avaliação do Protótipo de Alta Fidelidade: DesignAvaliacaoDesenvolvimento/Nivel3/planejamentoProtAlta.md
+      - Planejamento do Relato do Protótipo de Alta Fidelidade: DesignAvaliacaoDesenvolvimento/Nivel3/planejamentoRelatoProtAlta.md
+      - Relato da avaliação do Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel3/Relatopapel.md
   - Inspeção:
     - Etapa 1: 
       - Planejamento: Inspecao/planejamento.md
@@ -122,3 +141,11 @@ nav:
       - Planejamento: Inspecao/planejamento4.md
       - Inspeção final: Inspecao/inspecaoFinal4.md
       - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-4.md
+    - Etapa 5:
+      - Planejamento: Inspecao/Planejamento5.md
+      - Inspeção final: Inspecao/inspecaoFinal5.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-5.1.md
+    - Etapa 6:
+      - Planejamento: Inspecao/planejamento6.md
+      - Inspeção final: Inspecao/inspecaoFinal6.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-6.md

@@ -125,7 +125,7 @@ Autopublicação. ISBN: 978-65-00-19677-1.
         <tr>
             <td>02/12</td>
             <td>1.1</td>
-            <td> Adição do 2º cenário</td>
+            <td>Adição do 2º cenário</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>01/12</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
@@ -141,17 +141,17 @@ Autopublicação. ISBN: 978-65-00-19677-1.
         <tr>
             <td>03/12</td>
             <td>1.3</td>
-            <td> Adição do 4º cenário</td>
+            <td>Adição do 4º cenário</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
-            <td></td>
+            <td>03/12</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
         </tr>
         <tr>
             <td>03/12</td>
             <td>1.4</td>
-            <td> Adição do 5º cenário</td>
+            <td>Adição do 5º cenário</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
-            <td></td>
+            <td>03/12</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro </a></td>
         </tr>
     </table>

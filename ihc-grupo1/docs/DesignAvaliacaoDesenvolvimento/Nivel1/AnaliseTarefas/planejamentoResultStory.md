@@ -36,14 +36,9 @@ Cada entrevistador deve incluir em seu relato apenas as entrevistas relacionadas
 
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma Planejado</p></font>
 
-| Entrevistador(es)           | Entrevistado(s)             | Horário de Início | Horário de Fim | Data       | Local           |
-| --------------------------- | --------------------------- | ----------------- | -------------- | ---------- | --------------- |
-| Eduarda Rodrigues Tavares   | Gabriel Santos Monteiro     | 18:15             | 18:25          | 12/12/2024 | Microsoft Teams |
-| João Vitor Lopes Ribeiro    | Carla A. C. Ribeiro         | 18:30             | 18:40          | 12/12/2024 | Microsoft Teams |
-| Carla A. C. Ribeiro         | Davi dos Santos Brito Nobre | 18:45             | 18:55          | 12/12/2024 | Microsoft Teams |
-| Gabriel Santos Monteiro     | Eduarda Rodrigues Tavares   | 19:00             | 19:10          | 12/12/2024 | Microsoft Teams |
-| Davi dos Santos Brito Nobre | João Vitor Lopes Ribeiro    | 19:15             | 19:25          | 12/12/2024 | Microsoft Teams |
-| Carla A. C. Ribeiro         | João Vitor Lopes Ribeiro    | 19:30             | 19:40          | 12/12/2024 | Microsoft Teams |
+| Entrevistador(es)         | Entrevistado(s) | Horário de Início | Horário de Fim | Data       | Local                       |
+| ------------------------- | --------------- | ----------------- | -------------- | ---------- | --------------------------- |
+| Eduarda Rodrigues Tavares | Ana             | 15:00             | 15:40          | 12/12/2024 | FCTE - UnB (Sala a definir) |
 
 <font size="3"><p style="text-align: center">Autor: [Eduarda Tavares](https://github.com/erteduarda).</p></font>
 
@@ -97,12 +92,14 @@ O cronograma para o reprojeto está apresentado na Tabela 2, com a previsão de 
 | João Vitor Lopes Ribeiro    | 20:00             | 20:30          | 14/12/2024 |
 | Carla A. C. Ribeiro         | 22:00             | 22:10          | 14/12/2024 |
 | Davi dos Santos Brito Nobre | 12:40             | 13:10          | 14/12/2024 |
-| Gabriel Santos Monteiro     | 12:40             | 13:10          | 14/12/2024 |
 
 <font size="3"><p style="text-align: center">Autor: [Eduarda Tavares](https://github.com/erteduarda).</p></font>
 </center>
 
 ---
+## Teste Piloto
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/3K1muAqv4YY" title="piloto - hta - grupo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 
@@ -129,6 +126,22 @@ O cronograma para o reprojeto está apresentado na Tabela 2, com a previsão de 
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td>10/12</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>15/12</td>
+            <td>1.1</td>
+            <td>Atualização da tabela</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td>10/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>06/12</td>
+            <td>1.2</td>
+            <td>Add teste piloto</td>
+            <td><a href="https://github.com/ccarlaa">Carla Ribeiro</a></td>
+            <td>10/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>
