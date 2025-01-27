@@ -84,7 +84,7 @@ Este vídeo foi gravado pelo participante Gabriel. Utilizando o roteiro autentic
 
 <center>
 
-<iframe width="1280" height="720" src="https://youtu.be/Kp0GyfO1-7k" title="entrevista gabriel - protótipo de alta fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/Kp0GyfO1-7k" title="Entrevista Gabriel - Protótipo de alta fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/GabrielSMonteiro">Gabriel</a></p> 
 
