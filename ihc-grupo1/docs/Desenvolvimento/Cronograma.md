@@ -320,11 +320,11 @@ Abaixo está apresentado o planejamento para a entrega final do projeto.
 
 | Versão |    Data    | Descrição                                | Autor                                                          | Revisor |
 | :----: | :--------: | :--------------------------------------- | -------------------------------------------------------------- | ------- |
-| `1.0`  | 08/11/2024 | Criação da primeira versão do cronograma | [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Eduarda |
-| `1.1`  | 11/11/2024 | Adicionado metodologia e planejamento    | [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Eduarda |
-| `1.1`  | 12/11/2024 | Adicionado correções finais de datas 1 entrega| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Eduarda |
-| `2.0`  | 20/11/2024 | Adicionado cronograma das demais entregas| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | João Vitor |
-| `2.0`  | 10/12/2024 | Adicionado cronograma executado entrega 04| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Carla |
-| `3.0`  | 10/12/2024 | Adicionado cronograma executado entrega 05| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Davi Brito |
-| `4.0`  | 10/12/2024 | Adicionado cronograma executado entrega 06| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Carla |
-| `5.0`  | 10/12/2024 | Adicionado cronograma executado entrega 07| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | João Vitor |
+| `1.0`  | 08/11 | Criação da primeira versão do cronograma | [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Eduarda |
+| `1.1`  | 11/11 | Adicionado metodologia e planejamento    | [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Eduarda |
+| `1.1`  | 12/11 | Adicionado correções finais de datas 1 entrega| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Eduarda |
+| `2.0`  | 20/11 | Adicionado cronograma das demais entregas| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | João Vitor |
+| `2.0`  | 10/12 | Adicionado cronograma executado entrega 04| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Carla |
+| `3.0`  | 05/01 | Adicionado cronograma executado entrega 05| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Davi Brito |
+| `4.0`  | 14/01 | Adicionado cronograma executado entrega 06| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Carla |
+| `5.0`  | 26/01 | Adicionado cronograma executado entrega 07| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | João Vitor |
