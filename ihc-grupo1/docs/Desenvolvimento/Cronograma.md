@@ -269,16 +269,31 @@ Na Tabela 12 abaixo é definido o que foi executado do planejamento da Tabela 11
 
 ### Cronograma planejado entrega 7
 
-Abaixo está apresentado o planejamento para a entrega 08 do projeto.
+Abaixo está apresentado o planejamento para a entrega 07 do projeto.
 
-<p align="center"><b>Tabela 15</b> - Entrega 8. Relato dos Resultados do Protótipo de Alta Fidelidade</p>
+<p align="center"><b>Tabela 13</b> - Entrega 8. Relato dos Resultados do Protótipo de Alta Fidelidade</p>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
 |-----------|---------------------------|--------------|---------|---------|
-| Correção dos artefatos da entrega 7 | Início: 27/01<br>Fim: 28/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 29/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 27/01<br>Fim: 31/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 01/02 | Carla, Davi, Eduarda, Gabriel e João Vitor |
-| Gravação da apresentação | Início: 02/02<br>Fim: 02/02 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/02 | Carla, Davi, Eduarda, Gabriel e João Vitor |
-| Finalização da entrega | Início: 03/02<br>Fim: 04/02 | Carla, Davi, Eduarda, Gabriel e João Vitor | 04/02 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Correção dos artefatos da entrega 6 | Início: 15/01<br>Fim: 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 25/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 23/01<br>Fim: 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Gravação da apresentação | Início: 25/01<br>Fim: 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: 26/01<br>Fim: 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
+
+### Cronograma Executado entrega 7
+
+Abaixo está é definido o que foi executado do planejamento da Tabela 13 .
+
+<p align="center"><b>Tabela 14</b> - Entrega 7. Relato dos Resultados do Protótipo de Alta Fidelidade</p>
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
+|-----------|---------------------------|--------------|---------|---------|
+| Correção dos artefatos da entrega 6 | Início: 15/01<br>Fim: 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 25/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 23/01<br>Fim: 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Gravação da apresentação | Início: 25/01<br>Fim: 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: 26/01<br>Fim: 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor | 26/01 | Carla, Davi, Eduarda, Gabriel e João Vitor |
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
 
