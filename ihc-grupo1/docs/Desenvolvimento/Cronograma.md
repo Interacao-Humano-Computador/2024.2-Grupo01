@@ -325,3 +325,6 @@ Abaixo está apresentado o planejamento para a entrega final do projeto.
 | `1.1`  | 12/11/2024 | Adicionado correções finais de datas 1 entrega| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Eduarda |
 | `2.0`  | 20/11/2024 | Adicionado cronograma das demais entregas| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | João Vitor |
 | `2.0`  | 10/12/2024 | Adicionado cronograma executado entrega 04| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Carla |
+| `3.0`  | 10/12/2024 | Adicionado cronograma executado entrega 05| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Davi Brito |
+| `4.0`  | 10/12/2024 | Adicionado cronograma executado entrega 06| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Carla |
+| `5.0`  | 10/12/2024 | Adicionado cronograma executado entrega 07| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | João Vitor |
