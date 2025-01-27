@@ -32,17 +32,26 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 | ID  | Descrição                                                                        | Avaliação | Autor                                      | Referência                                            |
 | --- | -------------------------------------------------------------------------------- | --------- | ------------------------------------------ | ----------------------------------------------------- |
 | 1   | Estão descritos os objetivos e escopo da avaliação no documento?                 | SIM         | [João Ribeiro](https://github.com/Joa0V)   | [Barbosa e Silva(2021)¹](../assets/images/insp71.PNG) |
-| 2   | Está descrita a forma de realização da avaliação?                                | NÃO         | [João Ribeiro](https://github.com/Joa0V)   | [Barbosa e Silva(2021)¹](../assets/images/insp71.PNG) |
+| 2   | Está descrita a forma de realização da avaliação?                                | SIM         | [João Ribeiro](https://github.com/Joa0V)   | [Barbosa e Silva(2021)¹](../assets/images/insp71.PNG) |
 | 3   | É informado o número e perfil de usuários participantes?                         | NÃO         | [Davi](https://github.com/Jagaima)         | [Barbosa e Silva(2021)¹](../assets/images/insp71.PNG) |
-| 4   | São informadas as tarefas realizadas pelos usuários participantes?               | NÃO         | [Gabriel](https://github.com/GabrielSMonteiro) | [Barbosa e Silva(2021)¹](../assets/images/insp71.PNG) |
+| 4   | São informadas as tarefas realizadas pelos usuários participantes?               | SIM         | [Gabriel](https://github.com/GabrielSMonteiro) | [Barbosa e Silva(2021)¹](../assets/images/insp71.PNG) |
 | 5   | Apresenta um sumário dos dados coletados? (ex.: tabelas, gráficos, etc.)         | SIM         | [Eduarda](https://github.com/erteduarda)   | [Barbosa e Silva(2021)¹](../assets/images/insp71.PNG) |
 | 6   | Há uma lista dos problemas encontrados?                                          | SIM         | [João Ribeiro](https://github.com/ccarlaa) | [Barbosa e Silva(2021)¹](../assets/images/insp72.PNG) |
 | 7   | Nessa lista é informado o local de ocorrência de cada problema?                  | NÃO         | [João Ribeiro](https://github.com/Joa0V)   | [Barbosa e Silva(2021)¹](../assets/images/insp72.PNG) |
 | 8   | Nessa lista contém descrição e justificativa para cada problema?                 | NÃO         | [João Ribeiro](https://github.com/Joa0V)   | [Barbosa e Silva(2021)¹](../assets/images/insp72.PNG) |
-| 9   | Nessa lista é indicado os fatores de usabilidade prejudicados por cada problema? | NÃO         | [João Ribeiro](https://github.com/Joa0V)   | [Barbosa e Silva(2021)¹](../assets/images/insp72.PNG) |
-| 10  | Nessa lista existem sugestões de solução cada problema?                          | NÃO         | [João Ribeiro](https://github.com/Joa0V)   | [Barbosa e Silva(2021)¹](../assets/images/insp72.PNG) |
+| 9   | Nessa lista é indicado os fatores de usabilidade prejudicados por cada problema? | SIM         | [João Ribeiro](https://github.com/Joa0V)   | [Barbosa e Silva(2021)¹](../assets/images/insp72.PNG) |
+| 10  | Nessa lista existem sugestões de solução cada problema?                          | SIM         | [João Ribeiro](https://github.com/Joa0V)   | [Barbosa e Silva(2021)¹](../assets/images/insp72.PNG) |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+<center>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/2TLv9jpvLik" title="Inspeção do grupo 01 protótipo AF v1.0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+
+</center>
+
 
 ## Bibliografia
 
@@ -75,6 +84,14 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td>26/01</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>26/01</td>
+            <td>1.2</td>
+            <td>Inspeção upload video</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>26/01</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 </div>
