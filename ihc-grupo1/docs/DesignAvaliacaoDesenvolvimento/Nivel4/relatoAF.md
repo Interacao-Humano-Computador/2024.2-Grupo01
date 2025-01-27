@@ -146,7 +146,7 @@ Entrevista 02: O protótipo de alta fidelidade foi validado durante a entrevista
             <td>Adição segunda entrevista</td>
             <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
             <td>26/01</td>
-            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td><a href="https://github.com/Joa0V">João Vitor Ribeiro</a></td>
         </tr>
     </table>
 </div>
