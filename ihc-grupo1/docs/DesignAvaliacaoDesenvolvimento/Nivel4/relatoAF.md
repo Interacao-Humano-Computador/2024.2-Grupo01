@@ -140,5 +140,13 @@ Entrevista 02: O protótipo de alta fidelidade foi validado durante a entrevista
             <td>26/01</td>
             <td><a href="https://github.com/ccarlaa">Carla</a></td>
         </tr>
+        <tr>
+            <td>26/01</td>
+            <td>1.1</td>
+            <td>Adição segunda entrevista</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td>26/01</td>
+            <td><a href="https://github.com/Joa0V">João Vitor Ribeiro</a></td>
+        </tr>
     </table>
 </div>
