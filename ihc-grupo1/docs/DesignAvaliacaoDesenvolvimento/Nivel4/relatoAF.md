@@ -74,9 +74,44 @@ Respostas:
 </center>
 
 
-## COnclusão 
+## Conclusão 
 
 Entrevista 01: O protótipo atingiu o objetivo, baseando-se na observação, o usuário pareceu familiarizado com os botões e interface, respeitando a baixa duração de tempo em aprendizagem e execução de tarefas cotidianas no software. Aparentemente o botão não é de agrado do usuário, mas como estamos com um potencial usuário (se encaixa no perfil em idade, gostos, publico desejado etc) e não um usuário ativo como já tivemos algumas vezes, não podemos colocar em cheque a questão do botão de repost, ainda mais com o mesmo tendo um alto grau de exito em todas as protipações feitas pelo grupo. 
+
+## Vídeo 2
+
+Este vídeo foi gravado pelo participante Gabriel. Utilizando o roteiro autenticado no teste piloto. 
+
+<center>
+
+<iframe width="1280" height="720" src="https://youtu.be/Kp0GyfO1-7k" title="entrevista gabriel - protótipo de alta fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/GabrielSMonteiro">Gabriel</a></p> 
+
+
+</center>
+
+Respostas: 
+
+<center>
+
+<p align="center"><b>Tabela 3 - Respostas Pós-Teste</b></p>
+
+
+| Perguntas ao participante                                                            |
+| ------------------------------------------------------------------------------------ |
+| A sua experiência com protótipo foi satisfatória ao executar as tarefas? ->   SIM         |
+| Você sente que conseguiu completar seus objetivos quanto usuário de uma rede social? -> SIM |
+| Qual parte deixou mais a desejar durante sua interação?  -> Nenhuma                            |
+| Quais são suas sugestões de melhorias para a interface do protótipo apresentado?  -> Mostrar identificações visuais do perfil do usuário já na tela inicial>   |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+</center>
+
+
+## Conclusão 
+
+Entrevista 02: O protótipo de alta fidelidade foi validado durante a entrevista, baseando-se no método de perguntas e observação, a usuária pareceu bem familizarizada com o modelo e realizou as tarefas em pouco tempo, demonstrando uma facilidade de aprendizagem. Aparentemente o não reclamou de nada do design, comentou que é bastante intuitivo e de fácil compreensão até para não usuários frequentes, apenas sugeriu a melhora na identificação do usuário desde a tela inicial do site.
 
 
 ## Bibliografia
