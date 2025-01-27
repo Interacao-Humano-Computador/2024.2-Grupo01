@@ -77,8 +77,8 @@ Esse processo será iterativo para garantir que todas as revisões sejam conclu�
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>26/01</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>
