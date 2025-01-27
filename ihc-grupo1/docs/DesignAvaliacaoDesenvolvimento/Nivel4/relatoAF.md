@@ -91,6 +91,8 @@ Este vídeo foi gravado pelo participante Gabriel. Utilizando o roteiro autentic
 
 </center>
 
+<center>[Termo Assinado](../../assets/TermoAssinado_Laura.jpg)</center>
+
 Respostas: 
 
 <center>
