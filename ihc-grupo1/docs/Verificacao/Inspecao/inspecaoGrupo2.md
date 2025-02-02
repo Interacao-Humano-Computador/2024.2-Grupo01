@@ -11,37 +11,38 @@ Para realizar a inspeção, o Grupo 01 utilizará um checklist específico elabo
 
 |  ID   |                                                                                          Descrição                                                                                          | Resposta | Data da verificação |
 | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------------: |
-|  01   |                                                    Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                                                    |    -     |        07/11        |
-|  02   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |    -     |        07/11        |
-|  03   |                                                O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.                                                 |    -     |        07/11        |
-|  04   |                                      O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                      |    -     |        07/11        |
-|  05   |                                                                     A motivação e os critérios para a escolha do Site?                                                                      |    -     |        07/11        |
-|  06   |                                      Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                      |    -     |        07/11        |
-|  07   |                                                                             Possui opção de contraste de cores?                                                                             |    -     |        07/11        |
-|  08   |                                                                             O histórico de versão padronizado?                                                                              |    -     |        07/11        |
-|  09   |                                                                    O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                    |    -     |        07/11        |
-|  10   |                                                             Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                             |    -     |        07/11        |
-|  11   |                                                       As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                                                        |    -     |        07/11        |
-|  12   |                                                                       Um texto fazendo uma introdução dos artefatos?                                                                        |    -     |        07/11        |
-|  13   |                        O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.                        |    -     |        07/11        |
-|  14   |                                     Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                                      |    -     |        07/11        |
-|  15   |                                                                               A gravação da reunião do grupo.                                                                               |    -     |        07/11        |
-|  16   |                                                                Vídeo de apresentação na categoria “  - listado” no youtube?                                                                 |    -     |        07/11        |
+|  01   |                                                    Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                                                    |   Sim    |        13/11        |
+|  02   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |    Sim    |        13/11        |
+|  03   |                                                O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.                                                 |    Sim     |        13/11        |
+|  04   |                                      O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                      |    Não     |        13/11        |
+|  05   |                                                                     A motivação e os critérios para a escolha do Site?                                                                      |    Sim     |        13/11        |
+|  06   |                                      Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                      |    Não     |        13/11        |
+|  07   |                                                                             Possui opção de contraste de cores?                                                                             |    Sim     |        13/11        |
+|  08   |                                                                             O histórico de versão padronizado?                                                                              |    Sim     |        13/11        |
+|  09   |                                                                    O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                    |    Sim     |        13/11        |
+|  10   |                                                             Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                             |    Não     |        13/11        |
+|  11   |                                                       As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                                                        |    Parcialmente     |        13/11        |
+|  12   |                                                                       Um texto fazendo uma introdução dos artefatos?                                                                        |    Sim     |        13/11        |
+|  13   |                        O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.                        |    Sim     |        13/11        |
+|  14   |                                     Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                                      |   Sim    |        13/11        |
+|  15   |                                                                               A gravação da reunião do grupo.                                                                               |    Sim     |        13/11        |
+|  16   |                                                                Vídeo de apresentação na categoria “não listado” no youtube?                                                                 |    Sim    |        13/11        |
+|  17   |                                                                A justificativa da escolha do Processo de Design?                                                                |    Sim    |        13/11        |
 
 <p align="center">Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ### Conclusão
-<!-- A estrega está boa, mas foram encontrados alguns erros. Aqui vão algumas sugestões de melhoria:
+A estrega está boa, mas foram encontrados alguns erros. Aqui vão algumas sugestões de melhoria:
 
 - ID 04: Adicionar um período de revisão pós apresentação.
-- ID 09: Adicionar os revisores em todos os artefatos.
-- ID 11: Fazer a chamada das tabelas e figuras nos textos.
-- ID 13: Adicionar o cronograma executado. -->
+- ID 06: Adicionar o termo de uso do site analisado.
+- ID 10: Adicionar as referências bibliográficas todos os artefatos.
+- ID 11: Adicionar legendas nas imagens, possui apenas nas tabelas.
 
 ## Gravação da verificação
-A seguir se encontra o vídeo da verificação realizada pelo grupo 01, todos os integrantes do grupo participaram.
+A seguir se encontra o vídeo da verificação realizada pelo grupo 01, feito por Gabriel e Davvi.
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/WqJllyL1EPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+[Vídeo YouTube](https://youtu.be/Sa7q14Zm3vo?si=Cb65-khYu1iM1qSZ)
 
 ## Bibliografia
 > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
@@ -61,10 +62,18 @@ A seguir se encontra o vídeo da verificação realizada pelo grupo 01, todos os
         <tr>
             <td>12/11</td>
             <td>1.0</td>
-            <td>Criação do documento e reivsões</td>
+            <td>Criação do documento e revisões</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td>12/11</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
+        <tr>
+         <td>13/11</td>
+            <td>1.1</td>
+            <td>Adicionado avaliação do grupo+1</td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+            <td>13/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            </tr>
     </table>
 </div>

@@ -77,9 +77,16 @@ nav:
     - Entrega 2: Apresentacao/entrega2.md
     - Entrega 3: Apresentacao/entrega3.md
     - Entrega 4: Apresentacao/entrega4.md
+    - Entrega 5: Apresentacao/entrega5.md
+    - Entrega 6: Apresentacao/entrega6.md
+    - Entrega 7: Apresentacao/entrega7.md
   - Atas: 
     - Reunião 1: Atas/reuniao_1.md
     - Reunião 2: Atas/reuniao_2.md
+    - Reunião 3: Atas/reuniao_3.md
+    - Reunião 4: Atas/reuniao_4.md
+    - Reunião 5: Atas/reuniao_5.md
+    - Reunião 6: Atas/reuniao_6.md
   - Desenvolvimento:
     - Cronograma: Desenvolvimento/Cronograma.md
     - Ferramentas: Desenvolvimento/ferramentas.md
@@ -102,16 +109,17 @@ nav:
     - Metas de Usabilidade: AnaliseRequisitos/MetaDeUsabilidade.md
   - Design, Avaliação e Desenvolvimento: 
     - Nível 1: 
-      - Planejamento da avaliação da Análise de Tarefas: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/relato.md
-      - Planejamento da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/planejamentoStory.md
+      - HTA: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/relato.md
       - Planejamento da avaliação da Análise de Tarefas: DesignAvaliacaoDesenvolvimento/planejamentoAAT.md
-      - Planejamento do Resultado da Avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/planejamentoResultStory.md
+      - Avaliação da Análise de Tarefas: DesignAvaliacaoDesenvolvimento/Nivel2/avaliacao_hta.md
+      - Planejamento da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/planejamentoStory.md
+      - Planejamento Resultado da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/planejamentoResultStory.md
+      - Execução da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel2/relatoStory.md
       - Storyboards: DesignAvaliacaoDesenvolvimento/Nivel1/Storyboards.md
     - Nível 2:
       - Planejamento da Avaliação do Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel2/prototipoDePapel/planejamento_avaliacao.md
       - Planejamento do Relato do Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel2/prototipoDePapel/planejamento_relato.md
-      - Execução da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel2/relatoStory.md
-      - Avaliação da Análise de Tarefas: DesignAvaliacaoDesenvolvimento/Nivel2/avaliacao_hta.md
+      
       - Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel2/papelPrototipo.md
   - Inspeções:
     - Entregas:

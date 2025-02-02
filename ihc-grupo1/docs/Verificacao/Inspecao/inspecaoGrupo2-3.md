@@ -69,7 +69,7 @@ Para realizar a inspeção, o Grupo 01 utilizará um checklist específico elabo
 
 ---
 
-### Histórico de Versão  
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

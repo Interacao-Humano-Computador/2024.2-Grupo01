@@ -29,13 +29,13 @@ O método utilizado será a observação direta e entrevistas guiadas. Para asse
 
 **Tabela 1**  - Cronograma Planejado
 
-| Entrevistador(a)  | Entrevistado(a)       | Horário     | Data                      | Local                     |
-|-------------------|-----------------------|-------------|---------------------------|---------------------------|
-| Carla             | Bruna Araújo         | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (Sala a definir)    |
-| Davi              | Vinícius Chavito     | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (Sala a definir)    |
-| João              | Eduardo Paiva | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (Sala a definir)    |
-| Eduarda           | Ana Carolina         | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (Sala a definir)    |
-| Gabriel           | Laura Sumienski | A definir   | 16/12/2024 - 20/12/2024  | FCTE - UnB (Sala a definir)    |
+| Entrevistador(a) | Entrevistado(a) | Horário   | Data                    | Local                       |
+| ---------------- | --------------- | --------- | ----------------------- | --------------------------- |
+| Carla            | Bruna           | A definir | 16/12/2024 - 20/12/2024 | FCTE - UnB (Sala a definir) |
+| Davi             | Vinícius        | A definir | 16/12/2024 - 20/12/2024 | FCTE - UnB (Sala a definir) |
+| João             | Eduardo         | A definir | 16/12/2024 - 20/12/2024 | FCTE - UnB (Sala a definir) |
+| Eduarda          | Ana             | A definir | 16/12/2024 - 20/12/2024 | FCTE - UnB (Sala a definir) |
+| Gabriel          | Laura           | A definir | 16/12/2024 - 20/12/2024 | FCTE - UnB (Sala a definir) |
 
 **Autores:** Carla Clementino e Gabriel Santos.
 
@@ -76,6 +76,7 @@ Com base nos resultados obtidos, será levantado as alterações necessárias e 
 
 > 2. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, 2011.
 
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

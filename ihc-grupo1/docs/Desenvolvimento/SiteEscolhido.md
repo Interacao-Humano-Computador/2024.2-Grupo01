@@ -34,6 +34,9 @@ Para decidir o site foi utilizado o Framework DECIDE e para execução as heurí
     <a href="../../assets/execucao.pdf" target="_blank">Execução</a>
 </div>
 
+## Termo de uso do site
+[Termo-de-Uso-FAB](https://www2.fab.mil.br/cenipa/index.php/termo-de-uso-e-politica-de-privacidade)
+
 ## Bibliografia
 
 > 1. BARBOSA, S D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro:

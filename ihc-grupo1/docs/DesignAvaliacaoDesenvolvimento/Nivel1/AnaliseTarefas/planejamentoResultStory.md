@@ -36,9 +36,9 @@ Cada entrevistador deve incluir em seu relato apenas as entrevistas relacionadas
 
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma Planejado</p></font>
 
-| Entrevistador(es)           | Entrevistado(s)             | Horário de Início | Horário de Fim | Data       | Local           |
-| --------------------------- | --------------------------- | ----------------- | -------------- | ---------- | --------------- |
-|    |      |              |           |  | FCTE - UnB (Sala a definir) |
+| Entrevistador(es)         | Entrevistado(s) | Horário de Início | Horário de Fim | Data       | Local                       |
+| ------------------------- | --------------- | ----------------- | -------------- | ---------- | --------------------------- |
+| Eduarda Rodrigues Tavares | Ana             | 15:00             | 15:40          | 12/12/2024 | FCTE - UnB (Sala a definir) |
 
 <font size="3"><p style="text-align: center">Autor: [Eduarda Tavares](https://github.com/erteduarda).</p></font>
 
