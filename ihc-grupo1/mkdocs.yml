@@ -122,53 +122,81 @@ nav:
       
       - Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel2/papelPrototipo.md
   - Inspeções:
-    - Entregas:
-      - Etapa 1: 
-        - Planejamento: Verificacao/Inspecao/planejamento.md
-        - Inspeção final: Verificacao/Inspecao/inspecaoFinal.md
-        - Inspeção Grupo 02: Verificacao/Inspecao/inspecaoGrupo2.md
-      - Etapa 2: 
-        - Planejamento: Verificacao/Inspecao/planejamento2.md
-        - Inspeção final: Verificacao/Inspecao/inspecaoFinal2.md
-        - Inspeção Grupo 02: Verificacao/Inspecao/inspecaoGrupo2-2.md
-      - Etapa 3: 
-        - Planejamento: Verificacao/Inspecao/planejamento3.md
-        - Inspeção final: Verificacao/Inspecao/inspecaoFinal3.md
-        - Inspeção Grupo 02: Verificacao/Inspecao/inspecaoGrupo2-3.md
-      - Etapa 4: 
-        - Planejamento: Verificacao/Inspecao/planejamento4.md
-        - Inspeção final: Verificacao/Inspecao/inspecaoFinal4.md
-        - Inspeção Grupo 02: Verificacao/Inspecao/inspecaoGrupo2-4.md
-      - Etapa 5:
-        - Planejamento: Verificacao/Inspecao/Planejamento5.md
-        - Inspeção final: Verificacao/Inspecao/inspecaoFinal5.md
-        - Inspeção Grupo 02: Verificacao/Inspecao/inspecaoGrupo2-5.1.md
-    - Verificações:
+    - Etapa 1: 
+      - Planejamento: Inspecao/planejamento.md
+      - Inspeção final: Inspecao/inspecaoFinal.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2.md
+    - Etapa 2: 
+      - Planejamento: Inspecao/planejamento2.md
+      - Inspeção final: Inspecao/inspecaoFinal2.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-2.md
+    - Etapa 3: 
+      - Planejamento: Inspecao/planejamento3.md
+      - Inspeção final: Inspecao/inspecaoFinal3.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-3.md
+    - Etapa 4: 
+      - Planejamento: Inspecao/planejamento4.md
+      - Inspeção final: Inspecao/inspecaoFinal4.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-4.md
+    - Etapa 5:
+      - Planejamento: Inspecao/Planejamento5.md
+      - Inspeção final: Inspecao/inspecaoFinal5.md
+      - Inspeção Grupo 02: Inspecao/inspecaoGrupo2-5.1.md
+  - Verificação e Validação:
+    - Planejamento:
       - Análise de Requisitos: 
-        - Características Gerais da Plataforma: Verificacao/analise_req/caracteristicas_gerais.md
-        - Cenários: Verificacao/analise_req/cenarios.md
-        - Guia de Estilos: Verificacao/analise_req/guia_estilos.md
-        - Metas de Usabilidade: Verificacao/analise_req/metas_usabilidade.md
-        - Personas: Verificacao/analise_req/personas.md
-        - Elenco de Personas: Verificacao/analise_req/elenco_personas.md
-        - HTA: Verificacao/analise_req/hta.md
-        - GOMS: Verificacao/analise_req/goms.md
+        - Características Gerais da Plataforma: Verificacao/planejamento/analise_req/caracteristicas_gerais.md
+        - Cenários: Verificacao/planejamento/analise_req/cenarios.md
+        - Guia de Estilos: Verificacao/planejamento/analise_req/guia_estilos.md
+        - Metas de Usabilidade: Verificacao/planejamento/analise_req/metas_usabilidade.md
+        - Personas: Verificacao/planejamento/analise_req/personas.md
+        - Elenco de Personas: Verificacao/planejamento/analise_req/elenco_personas.md
+        - HTA: Verificacao/planejamento/analise_req/hta.md
+        - GOMS: Verificacao/planejamento/analise_req/goms.md
       - Design, Avaliação e Desenvolvimento:
         - Nível 1:
-          - Planejamento da Avaliação da Análise de Tarefas: Verificacao/design_avaliacao_dev/nivel1/planejamento_avaliacao_tarefas.md
-          - Planejamento do Relato da Análise de Tarefas: Verificacao/design_avaliacao_dev/nivel1/planejamento_relato_tarefas.md
-          - Execução da Avaliação da Análise de Tarefas: Verificacao/design_avaliacao_dev/nivel1/execucao_avaliacao_tarefas.md
-          - Storyboard: Verificacao/design_avaliacao_dev/nivel1/relato_storyboard.md
-          - Planejamento da Avaliação do Storyboard: Verificacao/design_avaliacao_dev/nivel1/planejamento_avaliacao_storyboard.md
-          - Planejamento do Resultado da Avaliação do Storyboard: Verificacao/design_avaliacao_dev/nivel1/planejamento_resultado_storyboard.md
-          - Execução da Avaliação do Storyboard: Verificacao/design_avaliacao_dev/nivel1/execucao_avaliacao_storyboard.md
+          - Planejamento da Avaliação da Análise de Tarefas: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_avaliacao_tarefas.md
+          - Planejamento do Relato da Análise de Tarefas: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_relato_tarefas.md
+          - Execução da Avaliação da Análise de Tarefas: Verificacao/planejamento/design_avaliacao_dev/nivel1/execucao_avaliacao_tarefas.md
+          - Storyboard: Verificacao/planejamento/design_avaliacao_dev/nivel1/relato_storyboard.md
+          - Planejamento da Avaliação do Storyboard: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_avaliacao_storyboard.md
+          - Planejamento do Resultado da Avaliação do Storyboard: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_resultado_storyboard.md
+          - Execução da Avaliação do Storyboard: Verificacao/planejamento/design_avaliacao_dev/nivel1/execucao_avaliacao_storyboard.md
         - Nível 2: 
-          - Planejamento da Avaliação do Protótipo de papel: Verificacao/design_avaliacao_dev/nivel2/planejamento_avaliacao_prototipo_papel.md
-          - Planejamento do Relato do Protótipo de papel: Verificacao/design_avaliacao_dev/nivel2/planejamento_relato_prototipo_papel.md
-          - Protótipo de papel: Verificacao/design_avaliacao_dev/nivel2/prototipo_papel.md
+          - Planejamento da Avaliação do Protótipo de papel: Verificacao/planejamento/design_avaliacao_dev/nivel2/planejamento_avaliacao_prototipo_papel.md
+          - Planejamento do Relato do Protótipo de papel: Verificacao/planejamento/design_avaliacao_dev/nivel2/planejamento_relato_prototipo_papel.md
         - Nível 3:
-          - Planejamento da Avaliação do Protótipo de Alta Fidelidade: Verificacao/design_avaliacao_dev/nivel3/planejamento_avaliacao_prototipo_alta.md
-          - Planejamento do Relato do Protótipo de Alta Fidelidade: Verificacao/design_avaliacao_dev/nivel3/planejamento_relato_prototipo_alta.md
-          - Relato do Protótipo de Papel: Verificacao/design_avaliacao_dev/nivel3/relato_prototipo_papel.md
+          - Planejamento da Avaliação do Protótipo de Alta Fidelidade: Verificacao/planejamento/design_avaliacao_dev/nivel3/planejamento_avaliacao_prototipo_alta.md
+          - Planejamento do Relato do Protótipo de Alta Fidelidade: Verificacao/planejamento/design_avaliacao_dev/nivel3/planejamento_relato_prototipo_alta.md
+          - Relato do Protótipo de Papel: Verificacao/planejamento/design_avaliacao_dev/nivel3/relato_prototipo_papel.md
         - Nível 4:
-          - Relato do Protótipo de Alta Fidelidade: Verificacao/design_avaliacao_dev/nivel4/relato_prototipo_alta.md
+          - Protótipo de Alta Fidelidade:  Verificacao/planejamento/design_avaliacao_dev/nivel4/relato_prototipo_alta.md
+    - Inpeções:
+      - Análise de Requisitos: 
+        - Características Gerais da Plataforma: Verificacao/planejamento/analise_req/caracteristicas_gerais.md
+        - Cenários: Verificacao/planejamento/analise_req/cenarios.md
+        - Guia de Estilos: Verificacao/planejamento/analise_req/guia_estilos.md
+        - Metas de Usabilidade: Verificacao/planejamento/analise_req/metas_usabilidade.md
+        - Personas: Verificacao/planejamento/analise_req/personas.md
+        - Elenco de Personas: Verificacao/planejamento/analise_req/elenco_personas.md
+        - HTA: Verificacao/planejamento/analise_req/hta.md
+        - GOMS: Verificacao/planejamento/analise_req/goms.md
+      - Design, Avaliação e Desenvolvimento:
+        - Nível 1:
+          - Planejamento da Avaliação da Análise de Tarefas: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_avaliacao_tarefas.md
+          - Planejamento do Relato da Análise de Tarefas: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_relato_tarefas.md
+          - Execução da Avaliação da Análise de Tarefas: Verificacao/planejamento/design_avaliacao_dev/nivel1/execucao_avaliacao_tarefas.md
+          - Storyboard: Verificacao/planejamento/design_avaliacao_dev/nivel1/relato_storyboard.md
+          - Planejamento da Avaliação do Storyboard: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_avaliacao_storyboard.md
+          - Planejamento do Resultado da Avaliação do Storyboard: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_resultado_storyboard.md
+          - Execução da Avaliação do Storyboard: Verificacao/planejamento/design_avaliacao_dev/nivel1/execucao_avaliacao_storyboard.md
+        - Nível 2: 
+          - Planejamento da Avaliação do Protótipo de papel: Verificacao/planejamento/design_avaliacao_dev/nivel2/planejamento_avaliacao_prototipo_papel.md
+          - Planejamento do Relato do Protótipo de papel: Verificacao/planejamento/design_avaliacao_dev/nivel2/planejamento_relato_prototipo_papel.md
+        - Nível 3:
+          - Planejamento da Avaliação do Protótipo de Alta Fidelidade: Verificacao/planejamento/design_avaliacao_dev/nivel3/planejamento_avaliacao_prototipo_alta.md
+          - Planejamento do Relato do Protótipo de Alta Fidelidade: Verificacao/planejamento/design_avaliacao_dev/nivel3/planejamento_relato_prototipo_alta.md
+          - Relato do Protótipo de Papel: Verificacao/planejamento/design_avaliacao_dev/nivel3/relato_prototipo_papel.md
+        - Nível 4:
+          - Protótipo de Alta Fidelidade:  Verificacao/planejamento/design_avaliacao_dev/nivel4/relato_prototipo_alta.md
+    # -Validação:
