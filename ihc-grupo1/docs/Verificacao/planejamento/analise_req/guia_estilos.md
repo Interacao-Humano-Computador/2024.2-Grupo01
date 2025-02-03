@@ -46,6 +46,16 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 </center>
 
 
+## vídeo grupo 01
+
+<center>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/gfDqAdfSJTo" title="guia de estilo grupo 01 ihc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+
+</center>
+
 
 ## Checklist da Verificação Grupo 02
 <center>
@@ -73,6 +83,17 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 |  28   |             Existe um subtópico de seleção de um estilo?             | Eduarda     |  [3] Dominio Público   | NÃO |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+</center>
+
+
+## vídeo grupo 02
+
+<center>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/h7seEu3W9jg" title="guia de estilo grupo 02 ihc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+
 </center>
 
 ## Referências Bibliográficas
