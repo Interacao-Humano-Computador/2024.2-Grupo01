@@ -64,7 +64,7 @@ A tabela 2 mostra o lista de verificação da análise de tarefas GOMS
             <td>Criação do documento</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
         </tr>
     </table>
 </div>
