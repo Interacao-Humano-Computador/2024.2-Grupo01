@@ -29,7 +29,7 @@ A tabela 2 mostra o checklist dos questionário
 | O elenco possui ao três personas primárias? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 179)](../../assets/images/inspecao2/inspQuestionario1.PNG)<sup>[1](#ref1)  | João|
 | Cada persona possui uma interface distinta e única? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 180)](../../assets/images/inspecao2/inspQuestionario2.PNG)<sup>[1](#ref1)  | Eduarda |
 | As personas são memoráveis?         | [VAZQUEZ, C. E.; SIMÕES, G. S. Engenharia de Requisitos: software orientado ao negócio. 01. ed. Rio de Janeiro, Brasport, 2016.(pg. 180)](../../assets/images/inspecao2/inspQuestionario4.PNG)<sup>[1](#ref1)  | Carla |
-| O elenco de personas possui uma variedade equilibrada? Sem excessos de personas?          | [VAZQUEZ, C. E.; SIMÕES, G. S. Engenharia de Requisitos: software orientado ao negócio. 01. ed. Rio de Janeiro, Brasport, 2016.(pg. 180)](../../assets/images/inspecao2/inspQuestionario4.PNG)<sup>[1](#ref1)  | Renata |
+| O elenco de personas possui uma variedade equilibrada? Sem excessos de personas?          | [VAZQUEZ, C. E.; SIMÕES, G. S. Engenharia de Requisitos: software orientado ao negócio. 01. ed. Rio de Janeiro, Brasport, 2016.(pg. 180)](../../assets/images/inspecao2/inspQuestionario4.PNG)<sup>[1](#ref1)  | Renata | SIM |
 
 
 

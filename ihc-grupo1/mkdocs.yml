@@ -116,11 +116,17 @@ nav:
       - Planejamento Resultado da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/planejamentoResultStory.md
       - Execução da avaliação do Storyboard: DesignAvaliacaoDesenvolvimento/Nivel2/relatoStory.md
       - Storyboards: DesignAvaliacaoDesenvolvimento/Nivel1/Storyboards.md
+      - Execução da avaliação do HTA: DesignAvaliacaoDesenvolvimento/Nivel2/avaliacao_hta.md
     - Nível 2:
       - Planejamento da Avaliação do Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel2/prototipoDePapel/planejamento_avaliacao.md
       - Planejamento do Relato do Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel2/prototipoDePapel/planejamento_relato.md
-      
       - Protótipo de papel: DesignAvaliacaoDesenvolvimento/Nivel2/papelPrototipo.md
+      - Relato do Protótipo de Papel: DesignAvaliacaoDesenvolvimento/Nivel3/Relatopapel.md
+    - Nível 3:
+      - Planejamento da Avaliação do Protótipo de Alta Fidelidade: DesignAvaliacaoDesenvolvimento/Nivel3/planejamentoProtAlta.md
+      - Planejamento do Relato do Protótipo de Alta Fidelidade: DesignAvaliacaoDesenvolvimento/Nivel3/planejamentoRelatoProtAlta.md
+    - Nível 4:
+      - Relato do protótipo: DesignAvaliacaoDesenvolvimento/Nivel4/relatoAF.md
   - Inspeções:
     - Etapa 1: 
       - Planejamento: Inspecao/planejamento.md
@@ -179,6 +185,7 @@ nav:
           - Relato do Protótipo de Papel: Verificacao/planejamento/design_avaliacao_dev/nivel3/relato_prototipo_papel.md
         - Nível 4:
           - Protótipo de Alta Fidelidade:  Verificacao/planejamento/design_avaliacao_dev/nivel4/relato_prototipo_alta.md
+    
     - Inpeções:
       - Análise de Requisitos: 
         - Características Gerais da Plataforma: Verificacao/planejamento/analise_req/caracteristicas_gerais.md

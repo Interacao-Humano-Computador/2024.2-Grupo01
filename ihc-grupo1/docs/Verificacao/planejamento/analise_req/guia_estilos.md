@@ -18,33 +18,59 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 </center>
 
 ## Checklist da Verificação
-A tabela 2 mostra o checklist.
-
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - questionário </font>
+<font size="3"><b>Tabela 2:</b> Verificação - Guia de estilo </font>
 
-    Tabela 4: Guia de estilo
-|  ID   |                              Descrição                               | Autor |       Referência       |
-| :---: | :------------------------------------------------------------------: | :-------: | :--------------------: |
-|  11   |                   Existe um tópico de introdução?                    | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  |
-|  12   |          Existe um subtópico de objetivo do guia de estilo?          | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) |
-|  13   |   Existe um subtópico de organização e conteúdo do guia de estilo?   | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) |
-|  14   |        Existe um subtópico de público-alvo do guia de estilo?        | Eduarda     |  [3] Dominio Público   |
-|  15   |             Existe um subtópico de como utilizar o guia?             | Eduarda     |  [3] Dominio Público   |
-|  16   |              Existe um subtópico de como manter o guia?              | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  |
-|  17   |              Existe um tópico de resultados de análise?              | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) |
-|  18   | Existe um subtópico de descrição do ambiente de trabalho do usuário? | Eduarda     |  [3] Dominio Público   |
-|  19   |             Existe um tópico de elementos de interface?              | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) |
-|  20   |          Existe um subtópico de disposição espacial e grid?          | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  |
-|  21   |                   Existe um subtópico de janelas?                    | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) |
-|  22   |                  Existe um subtópico de tipografia?                  | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) |
-|  23   |          Existe um subtópico de símbolos não tipográficos?           | Eduarda     |  [3] Dominio Público   |
-|  24   |                    Existe um subtópico de cores?                     | Eduarda     |  [3] Dominio Público   |
-|  25   |                  Existe um subtópico de animações?                   | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  |
-|  26   |             Existe um tópico de elementos de interação?              | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  |
-|  27   |             Existe um subtópico de estilos de interação?             | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) |
-|  28   |             Existe um subtópico de seleção de um estilo?             | Eduarda     |  [3] Dominio Público   |
+|  ID   |                              Descrição                               | Autor |       Referência       | Resposta |
+| :---: | :------------------------------------------------------------------: | :-------: | :--------------------: | :------: |
+|  11   |                   Existe um tópico de introdução?                    | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  | SIM |
+|  12   |          Existe um subtópico de objetivo do guia de estilo?          | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | SIM |
+|  13   |   Existe um subtópico de organização e conteúdo do guia de estilo?   | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | NÃO |
+|  14   |        Existe um subtópico de público-alvo do guia de estilo?        | Eduarda     |  [3] Dominio Público   | NÃO |
+|  15   |             Existe um subtópico de como utilizar o guia?             | Eduarda     |  [3] Dominio Público   | SIM |
+|  16   |              Existe um subtópico de como manter o guia?              | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  | NÃO |
+|  17   |              Existe um tópico de resultados de análise?              | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | NÃO |
+|  18   | Existe um subtópico de descrição do ambiente de trabalho do usuário? | Eduarda     |  [3] Dominio Público   | NÃO |
+|  19   |             Existe um tópico de elementos de interface?              | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | SIM |
+|  20   |          Existe um subtópico de disposição espacial e grid?          | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  | SIM |
+|  21   |                   Existe um subtópico de janelas?                    | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | NÃO |
+|  22   |                  Existe um subtópico de tipografia?                  | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | SIM |
+|  23   |          Existe um subtópico de símbolos não tipográficos?           | Eduarda     |  [3] Dominio Público   | SIM |
+|  24   |                    Existe um subtópico de cores?                     | Eduarda     |  [3] Dominio Público   | SIM |
+|  25   |                  Existe um subtópico de animações?                   | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  | NÃO |
+|  26   |             Existe um tópico de elementos de interação?              | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  | SIM |
+|  27   |             Existe um subtópico de estilos de interação?             | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | NÃO |
+|  28   |             Existe um subtópico de seleção de um estilo?             | Eduarda     |  [3] Dominio Público   | NÃO |
 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+</center>
+
+
+
+## Checklist da Verificação Grupo 02
+<center>
+<font size="3"><b>Tabela 2:</b> Verificação - Guia de estilo </font>
+
+|  ID   |                              Descrição                               | Autor |       Referência       | Resposta |
+| :---: | :------------------------------------------------------------------: | :-------: | :--------------------: | :------: |
+|  11   |                   Existe um tópico de introdução?                    | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  | SIM |
+|  12   |          Existe um subtópico de objetivo do guia de estilo?          | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | SIM |
+|  13   |   Existe um subtópico de organização e conteúdo do guia de estilo?   | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | NÃO |
+|  14   |        Existe um subtópico de público-alvo do guia de estilo?        | Eduarda     |  [3] Dominio Público   | SIM |
+|  15   |             Existe um subtópico de como utilizar o guia?             | Eduarda     |  [3] Dominio Público   | SIM |
+|  16   |              Existe um subtópico de como manter o guia?              | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  | SIM |
+|  17   |              Existe um tópico de resultados de análise?              | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | NÃO |
+|  18   | Existe um subtópico de descrição do ambiente de trabalho do usuário? | Eduarda     |  [3] Dominio Público   | NÃO |
+|  19   |             Existe um tópico de elementos de interface?              | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | SIM |
+|  20   |          Existe um subtópico de disposição espacial e grid?          | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  | NÃO |
+|  21   |                   Existe um subtópico de janelas?                    | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | NÃO |
+|  22   |                  Existe um subtópico de tipografia?                  | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | SIM |
+|  23   |          Existe um subtópico de símbolos não tipográficos?           | Eduarda     |  [3] Dominio Público   | NÃO|
+|  24   |                    Existe um subtópico de cores?                     | Eduarda     |  [3] Dominio Público   | SIM |
+|  25   |                  Existe um subtópico de animações?                   | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  | NÃO |
+|  26   |             Existe um tópico de elementos de interação?              | Eduarda     |  [1] [Barbosa e Silva¹](../../../assets/guiaestilo.png)  | NÃO |
+|  27   |             Existe um subtópico de estilos de interação?             | Eduarda     | [2] [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/) | NÃO |
+|  28   |             Existe um subtópico de seleção de um estilo?             | Eduarda     |  [3] Dominio Público   | NÃO |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 </center>
