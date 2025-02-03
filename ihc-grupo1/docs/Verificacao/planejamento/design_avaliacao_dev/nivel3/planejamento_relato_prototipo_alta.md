@@ -1,0 +1,71 @@
+## Introdução
+A verificação de artefatos tem como finalidade garantir a conformidade, a qualidade e a eficiência de processos e atividades em diferentes áreas. Tais ferramentas são essenciais para organizar as etapas de execução e assegurar que todas as ações necessárias sejam realizadas de maneira adequada. 
+
+## Objetivo
+Este artefato tem como objetivo documentar a lista de verificação do [Planejamento do Relato da Avaliação do Protótipo de Alta Fidelidade](../../../../DesignAvaliacaoDesenvolvimento/Nivel3/planejamentoRelatoProtAlta.md) com o intuito de facilitar a gestão.
+
+## Metodologia
+Como metodologia teremos uma tabela modelo para realização da lista de verificação, como mostra a tabela 1. 
+
+<center>
+<font size="3"><b>Tabela 1:</b> Tabela modelo </font>
+
+| Descrição | Referência | Autor(a) |
+|:---------:|:---------:|:-----------:|
+| Pergunta para verificação | Referência | Integrante do grupo responsável pela pergunta |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+</center>
+
+## Checklist da Verificação
+A tabela 2 mostra o lista de verificação do Planejamento do Relato da Avaliação do Protótipo de Alta Fidelidade
+
+<center>
+<font size="3"><b>Tabela 2:</b> Verificação - GOMS </font>
+
+|                                                         Descrição                                                         | Referência                                             |                 Autor                                                        |
+| :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
+| O planejamento do relato do protótipo de alta fidelidade prevê a descrição dos objetivos e escopo da avaliação no relato? | [Barbosa e Silva(2021)](../../../../assets/images/insp71.PNG) [¹](#ref1)  | [João Ribeiro](https://github.com/Joa0V)/[Carla](https://github.com/ccarlaa) |
+|                O planejamento do relato prevê a descrição do método utilizado na realização da avaliação?                 | [Barbosa e Silva(2021)](../../../../assets/images/insp71.PNG) [¹](#ref1) |                  [João Ribeiro](https://github.com/Joa0V)                    |
+|              O planejamento do relato determina a  informação do número e perfil de usuários participantes?               | [Barbosa e Silva(2021)](../../../../assets/images/insp71.PNG) [¹](#ref1) |                      [Davi](https://github.com/Jagaima)                      |
+|            No planejamento determina que as tarefas realizadas pelos usuários participantes sejam informadas?             | [Barbosa e Silva(2021)](../../../../assets/images/insp71.PNG) [¹](#ref1) |                [Gabriel](https://github.com/GabrielSMonteiro)                |
+|       O planejamento determina que seja apresentado um sumário dos dados coletados? (ex.: tabelas, gráficos, etc.)        | [Barbosa e Silva(2021)](../../../../assets/images/insp71.PNG) [¹](#ref1) |                   [Eduarda](https://github.com/erteduarda)                   |
+|              Há, no planejamento, a previsão de uma lista dos problemas encontrados no relato da avaliação?               | [Barbosa e Silva(2021)](../../../../assets/images/insp72.PNG) [¹](#ref1) |                  [João Ribeiro](https://github.com/ccarlaa)                  |
+|                   É determinado que nessa lista seja informado o local de ocorrência de cada problema?                    | [Barbosa e Silva(2021)](../../../../assets/images/insp72.PNG) [¹](#ref1) |                  [João Ribeiro](https://github.com/Joa0V)                    |
+|                   É determinado que essa lista contenha a descrição e justificativa para cada problema?                   | [Barbosa e Silva(2021)](../../../../assets/images/insp72.PNG) [¹](#ref1) |                  [João Ribeiro](https://github.com/Joa0V)                    |
+|          É determinado que nessa lista sejam indicados os fatores de usabilidade prejudicados por cada problema?          | [Barbosa e Silva(2021)](../../../../assets/images/insp72.PNG) [¹](#ref1) |                  [João Ribeiro](https://github.com/Joa0V)                    |
+|                      É determinado que nessa lista existam sugestões de solução para cada problema?                       | [Barbosa e Silva(2021)](../../../../assets/images/insp72.PNG) [¹](#ref1) |                   [João Ribeiro](https://github.com/Joa0V)                   |
+
+
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+</center>
+
+## Referências Bibliográficas
+
+> 1. <a id="ref1"></a> Barbosa, S. D.J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> 2. <a id="ref2"></a> Github. Requisitos de Software. Projeto Bluesky ano 2024.2. Disponível em <https://requisitos-de-software.github.io/2024.2-Bluesky/>
+
+## :round_pushpin: Histórico de Versão 
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Data</th>
+            <th>Versão</th>
+            <th>Descrição</th>
+            <th>Autor</th>
+            <th>Data da Revisão</th>
+            <th>Revisor</th>
+        </tr>
+        <tr>
+            <td>02/02/2025</td>
+            <td>1.0</td>
+            <td>Criação do documento</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
+            <td><a href="https://github.com/"></a></td>
+        </tr>
+    </table>
+</div>
