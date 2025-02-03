@@ -297,11 +297,60 @@ Abaixo está é definido o que foi executado do planejamento da Tabela 13 .
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
 
+### Cronograma planejado entrega 8
+
+Abaixo está apresentado o planejamento para a entrega 08 do projeto.
+
+<p align="center"><b>Tabela 15</b> - Entrega 8. Verificação dos artefatos</p>
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
+|-----------|---------------------------|--------------|---------|---------|
+| Correção dos artefatos da entrega 7 | Início: 28/01<br>Fim: 02/02 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/02 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Verificação dos artefatos | Início: 28/01<br>Fim: 02/02 | Carla, Davi, Eduarda, Gabriel e João Vitor | 02/02 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Gravação da apresentação | Início: 03/02<br>Fim: 03/02 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/02 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: 03/02<br>Fim: 03/02 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/02 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
+
+### Cronograma Executado entrega 8
+
+Abaixo está definido o que foi executado do planejamento da Tabela 15.
+
+<p align="center"><b>Tabela 16</b> - Entrega 8. Verificação dos artefatos</p>
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
+|-----------|---------------------------|--------------|---------|---------|
+| Verificação: Personas | Início: 28/01<br>Fim: 02/02 | Carla | 02/02 | Gabriel |
+| Verificação: Cenários | Início: 28/01<br>Fim: 02/02 | Davi | 02/02 | Eduarda |
+| Verificação: Elenco de personas | Início: 28/01<br>Fim: 02/02 | Eduarda | 02/02 | João Vitor |
+| Verificação: HTA | Início: 28/01<br>Fim: 02/02 | Gabriel | 02/02 | Carla |
+| Verificação: GOMS | Início: 28/01<br>Fim: 02/02 | João Vitor | 02/02 | Davi |
+| Verificação: Guia de estilos | Início: 28/01<br>Fim: 02/02 | Carla | 02/02 | Eduarda |
+| Verificação: Características gerais | Início: 28/01<br>Fim: 02/02 | Davi | 02/02 | Gabriel |
+| Verificação: Metas de Usabilidade | Início: 28/01<br>Fim: 02/02 | Eduarda | 02/02 | João Vitor |
+| Verificação: Planejamento da avaliação da análise de tarefas | Início: 28/01<br>Fim: 02/02 | João Vitor | 02/02 | Carla |
+| Verificação: Avaliação da análise de tarefas | Início: 28/01<br>Fim: 02/02 | Carla | 02/02 | Davi |
+| Verificação: Planejamento da avaliação do storyboard | Início: 28/01<br>Fim: 02/02 | Davi | 02/02 | Eduarda |
+| Verificação: Avaliação do storyboard | Início: 28/01<br>Fim: 02/02 | Eduarda | 02/02 | Gabriel |
+| Verificação: Resultado do storyboard | Início: 28/01<br>Fim: 02/02 | Gabriel | 02/02 | João Vitor |
+| Verificação: Storyboards | Início: 28/01<br>Fim: 02/02 | João Vitor | 02/02 | Carla |
+| Verificação: Planejamento do protótipo de papel | Início: 28/01<br>Fim: 02/02 | Carla | 02/02 | Davi |
+| Verificação: Planejamento do relato do protótipo de papel | Início: 28/01<br>Fim: 02/02 | Davi | 02/02 | Eduarda |
+| Verificação: Protótipo de papel | Início: 28/01<br>Fim: 02/02 | Eduarda | 02/02 | Gabriel |
+| Verificação: Planejamento da avaliação do protótipo de alta fidelidade | Início: 28/01<br>Fim: 02/02 | Gabriel | 02/02 | João Vitor |
+| Verificação: Planejamento do relato do protótipo de alta fidelidade | Início: 28/01<br>Fim: 02/02 | João Vitor | 02/02 | Carla |
+| Verificação: Relato da avaliação do protótipo de papel | Início: 28/01<br>Fim: 02/02 | Davi | 02/02 | Eduarda |
+| Verificação: Relato do protótipo de alta fidelidade | Início: 28/01<br>Fim: 02/02 | Carla | 02/02 | Gabriel |
+| Gravação da apresentação | Início: 03/02<br>Fim: 03/02 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/02 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+| Finalização da entrega | Início: 03/02<br>Fim: 03/02 | Carla, Davi, Eduarda, Gabriel e João Vitor | 03/02 | Carla, Davi, Eduarda, Gabriel e João Vitor |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro).</p></font>
+
 ### Cronograma planejado entrega final
 
 Abaixo está apresentado o planejamento para a entrega final do projeto.
 
-<p align="center"><b>Tabela 17</b> - Entrega 6.2. Verificação dos Artefatos II</p>
+<p align="center"><b>Tabela 17</b> - Entrega final. Verificação dos Artefatos II</p>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisor |
 |-----------|---------------------------|--------------|---------|---------|
@@ -328,3 +377,4 @@ Abaixo está apresentado o planejamento para a entrega final do projeto.
 | `3.0`  | 05/01 | Adicionado cronograma executado entrega 05| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Davi Brito |
 | `4.0`  | 14/01 | Adicionado cronograma executado entrega 06| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | Carla |
 | `5.0`  | 26/01 | Adicionado cronograma executado entrega 07| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | João Vitor |
+| `6.0`  | 03/02 | Adicionado cronograma executado entrega 08| [Gabriel Santos Monteiro](https://github.com/GabrielSMonteiro) | João Vitor |
