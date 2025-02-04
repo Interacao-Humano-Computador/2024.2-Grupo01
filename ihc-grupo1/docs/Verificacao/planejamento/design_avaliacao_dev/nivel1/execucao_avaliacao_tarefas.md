@@ -20,48 +20,17 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 ## Checklist da Verificação
 A tabela 2 mostra o checklist.
 
-<center>
 <font size="3"><b>Tabela 2:</b> Verificação - Planejamento da Avaliação de Análise de Tarefas </font>
 
-| Descrição | Referência | Autor(a) | Resposta |
-|:---------:|:---------:|:-----------:|:--------:|
-| O artefato possui a gravação da avaliação?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1) | Davi | SIM |
-| O artefato possui uma cópia assinada do termo ético? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | João | SIM (apenas um) |
-| O artefato possui as considerações feitas com base na entrevista? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Eduarda | SIM |
-| O artefato seguiu o planejamento previamente realizado? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Carla | SIM |
-| O artefato apresenta o cronograma executado? |[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Gabriel | SIM |
+| Descrição | Referência | Autor(a) |
+|:---------:|:---------:|:--------:|
+| O artefato possui a gravação da avaliação?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1) | Davi |
+| O artefato possui uma cópia assinada do termo ético? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | João |
+| O artefato possui as considerações feitas com base na entrevista? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Eduarda |
+| O artefato seguiu o planejamento previamente realizado? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Carla |
+| O artefato apresenta o cronograma executado? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Gabriel |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
-</center>
-
-
-## Checklist da Verificação Grupo 02
-A tabela 2 mostra o checklist.
-
-<center>
-<font size="3"><b>Tabela 2:</b> Verificação - Planejamento da Avaliação de Análise de Tarefas </font>
-
-| Descrição | Referência | Autor(a) | Resposta |
-|:---------:|:---------:|:-----------:|:--------:|
-| O artefato possui a gravação da avaliação?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1) | Davi | SIM |
-| O artefato possui uma cópia assinada do termo ético? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | João | NÃO |
-| O artefato possui as considerações feitas com base na entrevista? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Eduarda | SIM |
-| O artefato seguiu o planejamento previamente realizado? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Carla | SIM |
-| O artefato apresenta o cronograma executado? |[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Gabriel | NÃO|
-
-<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
-</center>
-
-
-## vídeo grupo 01 e 02
-
-<center>
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/eE0In9Xjh_s" title="HTA grupo 01 e 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
-
-</center>
+<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p>
 
 ## Referências Bibliográficas
  > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)

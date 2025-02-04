@@ -1,0 +1,77 @@
+## Introdução
+A verificação de artefatos tem como finalidade garantir a conformidade, a qualidade e a eficiência de processos e atividades em diferentes áreas. Tais ferramentas são essenciais para organizar as etapas de execução e assegurar que todas as ações necessárias sejam realizadas de maneira adequada. 
+
+## Objetivo
+Este artefato tem como objetivo documentar a inspeção dos artefatos da entrega 07 com o intuito de facilitar a gestão. 
+
+## Metodologia
+Como metodologia teremos uma tabela modelo para realização do checklist, como mostra a tabela 1. 
+
+<center>
+<font size="3"><b>Tabela 1:</b> Tabela modelo </font>
+
+| Descrição | Referência | Autor(a) | Avaliação |
+|:---------:|:---------:|:-----------:|:-------:|
+| Pergunta para verificação | Referência | Integrante do grupo responsável pela pergunta | Resposta |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+</center>
+
+## Checklist da Verificação do Relato do Protótipo de Alta Fidelidade
+
+<center>
+<font size="3"><b>Tabela 2:</b> Verificação - Planejamento da Avaliação do Protótipo de Alta Fidelidade </font>
+
+| Descrição | Referência | Autor(a) | Resposta |
+|:---------:|:---------:|:-----------:|:--------:|
+| O artefato possui a gravação da avaliação?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1) | Davi | SIM |
+| O artefato possui uma cópia assinada do termo ético? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | João | NÃO |
+| O artefato possui as considerações feitas com base na entrevista? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Eduarda | SIM |
+| O artefato seguiu o planejamento previamente realizado?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Carla | SIM |
+| O artefato apresenta o cronograma executado?        |[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Gabriel | NÃO |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
+</center>
+
+
+## Vídeo da inspeção - Relato do Protótipo de Alta Fidelidade
+
+<center>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/LS8kG9-5JQM" title="Prototipo de alta fidelidade grupo 01 e 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+
+</center>
+
+
+## Comentários - Relato do Protótipo de Alta Fidelidade
+
+O artefato precisa de correções.
+
+## Referências Bibliográficas
+ > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
+
+
+## :round_pushpin: Histórico de Versão 
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Data</th>
+            <th>Versão</th>
+            <th>Descrição</th>
+            <th>Autor</th>
+            <th>Data da Revisão</th>
+            <th>Revisor</th>
+        </tr>
+        <tr>
+            <td>04/02/2025</td>
+            <td>1.0</td>
+            <td>Criaçãod do documento</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>03/02/2025</td>
+            <td><a href="https://github.com/"></a></td>
+        </tr>
+    </table>
+</div>

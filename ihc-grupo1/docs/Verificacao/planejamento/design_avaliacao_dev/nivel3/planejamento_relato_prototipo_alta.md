@@ -21,7 +21,7 @@ Como metodologia teremos uma tabela modelo para realização da lista de verific
 A tabela 2 mostra o lista de verificação do Planejamento do Relato da Avaliação do Protótipo de Alta Fidelidade
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - GOMS </font>
+<font size="3"><b>Tabela 2:</b> Verificação - Planejamento do Relato da Avaliação do Protótipo de Alta Fidelidade </font>
 
 |                                                         Descrição                                                         | Referência                                             |                 Autor                                                        |
 | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------------------------------: |

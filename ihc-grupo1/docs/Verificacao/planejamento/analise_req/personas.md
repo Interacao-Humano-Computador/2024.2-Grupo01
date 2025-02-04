@@ -25,51 +25,13 @@ A tabela 2 mostra o checklist.
 
 | Descrição | Referência | Autor(a) | Resposta |
 |:---------:|:---------:|:-----------:|:--------:|
-| O elenco de personas consiste de 3 a 12 personas distintas?  | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. (pg. 179)](../../assets/images/inspecao2/inspQuestionario1.PNG)<sup>[1](#ref1) | Davi | SIM |
-| O elenco possui ao menos uma persona primária? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 179)](../../assets/images/inspecao2/inspQuestionario1.PNG)<sup>[1](#ref1)  | João | SIM |
-| Cada persona possui uma interface distinta e única? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 180)](../../assets/images/inspecao2/inspQuestionario2.PNG)<sup>[1](#ref1)  | Eduarda | SIM |
-| As personas são memoráveis? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 180)](../../assets/images/inspecao2/inspQuestionario4.PNG)<sup>[1](#ref1)  | Carla | SIM |
-| O elenco de personas possui uma variedade equilibrada? Sem excessos de personas? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 180)](../../assets/images/inspecao2/inspQuestionario4.PNG)<sup>[1](#ref1)  | Gabriel | SIM |
-
-
-<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
-</center>
-
-## vídeo grupo 01
-
-<center>
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/wVVdNo7momU" title="Personas grupo 01 ihc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
-
-</center>
-
-## Checklist da Verificação grupo 02
-A tabela 2 mostra o checklist.
-
-<center>
-<font size="3"><b>Tabela 2:</b> Verificação - questionário </font>
-
-| Descrição | Referência | Autor(a) | Resposta |
-|:---------:|:---------:|:-----------:|:--------:|
-| O elenco de personas consiste de 3 a 12 personas distintas?  | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. (pg. 179)](../../assets/images/inspecao2/inspQuestionario1.PNG)<sup>[1](#ref1) | Davi | SIM |
-| O elenco possui ao menos uma persona primária? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 179)](../../assets/images/inspecao2/inspQuestionario1.PNG)<sup>[1](#ref1)  | João | SIM |
-| Cada persona possui uma interface distinta e única? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 180)](../../assets/images/inspecao2/inspQuestionario2.PNG)<sup>[1](#ref1)  | Eduarda | SIM |
-| As personas são memoráveis? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 180)](../../assets/images/inspecao2/inspQuestionario4.PNG)<sup>[1](#ref1)  | Carla | SIM |
-| O elenco de personas possui uma variedade equilibrada? Sem excessos de personas? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 180)](../../assets/images/inspecao2/inspQuestionario4.PNG)<sup>[1](#ref1)  | Gabriel | SIM |
-
+| O elenco de personas consiste de 3 a 12 personas distintas?  | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. (pg. 179)](../../assets/images/inspecao2/inspQuestionario1.PNG)<sup>[1](#ref1) | Davi |  |
+| O elenco possui ao menos uma persona primária? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 179)](../../assets/images/inspecao2/inspQuestionario1.PNG)<sup>[1](#ref1)  | João |  |
+| Cada persona possui uma interface distinta e única? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 180)](../../assets/images/inspecao2/inspQuestionario2.PNG)<sup>[1](#ref1)  | Eduarda |  |
+| As personas são memoráveis? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 180)](../../assets/images/inspecao2/inspQuestionario4.PNG)<sup>[1](#ref1)  | Carla |  |
+| O elenco de personas possui uma variedade equilibrada? Sem excessos de personas? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.(pg. 180)](../../assets/images/inspecao2/inspQuestionario4.PNG)<sup>[1](#ref1)  | Gabriel |  |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
-</center>
-
-## vídeo grupo 02
-
-<center>
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/JxTQGUNg06Q" title="Personas grupo 02 IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
 </center>
 

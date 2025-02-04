@@ -23,32 +23,13 @@ A tabela 2 mostra o checklist dos questionário
 <center>
 <font size="3"><b>Tabela 2:</b> Verificação - questionário </font>
 
-| Descrição | Referência | Autor(a) | Resposta |
-|:---------:|:---------:|:-----------:|:--------:|
-| O protótipo se aproxima da interface da solução final?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1) | Davi | SIM |
-| O artefato apresenta a metodologia que será utilizada na Avaliação? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | João | SIM |
-| O artefato identifica o orçamento necessário para a Avaliação? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Eduarda | NÃO |
-| O artefato possui um roteiro indicando como o planejamento foi pensado pra ser executado?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Carla | SIM |
-| O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação?        |[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Gabriel | SIM (ficou confuso) |
-
-<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
-</center>
-
-
-
-## Checklist da Verificação Grupo 02
-A tabela 2 mostra o checklist dos questionário
-
-<center>
-<font size="3"><b>Tabela 2:</b> Verificação - questionário </font>
-
-| Descrição | Referência | Autor(a) | Resposta |
-|:---------:|:---------:|:-----------:|:--------:|
-| O protótipo se aproxima da interface da solução final?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1) | Davi | SIM |
-| O artefato apresenta a metodologia que será utilizada na Avaliação? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | João | SIM |
-| O artefato identifica o orçamento necessário para a Avaliação? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Eduarda | NÃO |
-| O artefato possui um roteiro indicando como o planejamento foi pensado pra ser executado?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Carla | SIM |
-| O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação?        |[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Gabriel | NÃO |
+| Descrição | Referência | Autor(a) |
+|:---------:|:---------:|:--------:|
+| O protótipo se aproxima da interface da solução final?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1) | Davi |
+| O artefato apresenta a metodologia que será utilizada na Avaliação? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | João |
+| O artefato identifica o orçamento necessário para a Avaliação? | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Eduarda |
+| O artefato possui um roteiro indicando como o planejamento foi pensado pra ser executado?  | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Carla |
+| O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação?        |[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)<sup>[1](#ref1)  | Gabriel |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 </center>
