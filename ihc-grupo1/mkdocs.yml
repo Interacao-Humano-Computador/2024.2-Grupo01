@@ -80,6 +80,7 @@ nav:
     - Entrega 5: Apresentacao/entrega5.md
     - Entrega 6: Apresentacao/entrega6.md
     - Entrega 7: Apresentacao/entrega7.md
+    - Entrega 8: Apresentacao/entrega8.md
   - Atas: 
     - Reunião 1: Atas/reuniao_1.md
     - Reunião 2: Atas/reuniao_2.md
@@ -159,7 +160,7 @@ nav:
   - Verificação e Validação:
     - Planejamento:
       - Análise de Requisitos: 
-        - Características Gerais da Plataforma: Verificacao/planejamento/analise_req/caracteristicas_gerais.md
+        # - Características Gerais da Plataforma: Verificacao/planejamento/analise_req/caracteristicas_gerais.md
         - Cenários: Verificacao/planejamento/analise_req/cenarios.md
         - Guia de Estilos: Verificacao/planejamento/analise_req/guia_estilos.md
         - Metas de Usabilidade: Verificacao/planejamento/analise_req/metas_usabilidade.md
@@ -170,7 +171,7 @@ nav:
       - Design, Avaliação e Desenvolvimento:
         - Nível 1:
           - Planejamento da Avaliação da Análise de Tarefas: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_avaliacao_tarefas.md
-          - Planejamento do Relato da Análise de Tarefas: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_relato_tarefas.md
+          # - Planejamento do Relato da Análise de Tarefas: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_relato_tarefas.md
           - Execução da Avaliação da Análise de Tarefas: Verificacao/planejamento/design_avaliacao_dev/nivel1/execucao_avaliacao_tarefas.md
           - Storyboard: Verificacao/planejamento/design_avaliacao_dev/nivel1/relato_storyboard.md
           - Planejamento da Avaliação do Storyboard: Verificacao/planejamento/design_avaliacao_dev/nivel1/planejamento_avaliacao_storyboard.md
@@ -188,7 +189,7 @@ nav:
     
     - Inpeções:
       - Análise de Requisitos: 
-        - Características Gerais da Plataforma: Verificacao/planejamento/analise_req/caracteristicas_gerais.md
+        # - Características Gerais da Plataforma: Verificacao/planejamento/analise_req/caracteristicas_gerais.md
         - Cenários: Verificacao/planejamento/analise_req/cenarios.md
         - Guia de Estilos: Verificacao/planejamento/analise_req/guia_estilos.md
         - Metas de Usabilidade: Verificacao/planejamento/analise_req/metas_usabilidade.md
