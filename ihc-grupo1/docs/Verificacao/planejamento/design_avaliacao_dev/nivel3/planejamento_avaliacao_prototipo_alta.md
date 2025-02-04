@@ -15,7 +15,7 @@ Como metodologia teremos uma tabela modelo para realização da lista de verific
 |:---------:|:---------:|:-----------:|
 | Pergunta para verificação | Referência | Integrante do grupo responsável pela pergunta |
 
-<p align="center"><b>Autor:</b> Gabriel Monteiro</p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 </center>
 
 ## Checklist da Verificação  
