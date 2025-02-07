@@ -48,64 +48,82 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 
 Não é necessário realizar alterações no artefato.
 
-## Checklist da Verificação Cenários
+## Checklist de Verificação Cenários
+
+Inspeção do artefato de cenários realizada pelo integrante [João Ribeiro](https://github.com/Joa0V) com base na [lista de verificação de cenários](../../planejamento/analise_req/cenarios.md).
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - Cenários </font>
+<font size="3"><b>Tabela 3:</b> Verificação - Cenários </font>
 
 | Descrição | Referência | Autor(a) | Avaliação |
 |:---------:|:---------:|:-----------:|:-----------:|
-| Os cenários apresentam um ambiente ou contexto detalhando a situação que motivam ou explicam os objetivos, ações e reações dos atores presentes? | [Barbosa et al. (2021) - pg. 158](../../../assets/images/k2.png)<sup>[1](#ref1) | João/Davi |  |
-| Os cenários apresentam atores, pessoas interagindo com o sistema ou outros elementos do ambiente? Suas características relevantes ao cenário são descritas? | [Barbosa et al. (2021)](../../../assets/images/k3.png)<sup>[1](#ref1) | João |  |
-| Os cenários apresentam objetivos, que motivam e dirigem as ações realizadas pelos atores presentes? | [Barbosa et al. (2021)](../../../assets/images/k4.png)<sup>[1](#ref1) | Eduarda |  |
-| Os cenários incluem o planejamento pensado pelo ator para transformar um objetivo em comportamentos/ações? | [Barbosa et al. (2021)](../../../assets/images/k5.png)<sup>[1](#ref1) | Carla |  |
-| Os cenários mostram as ações, ou seja, o comportamento observável dos atores presentes neles?  | [Barbosa et al. (2021)](../../../assets/images/k6.png)<sup>[1](#ref1) | Gabriel |  |
-| Os cenários descrevem os eventos, ações externas ou reações produzidas pelo computador ou outras características do ambiente que são relevantes ao cenário?  | [Barbosa et al. (2021)](../../../assets/images/k7.png)<sup>[1](#ref1) | João |  |
+| Os cenários apresentam um ambiente ou contexto detalhando a situação que motivam ou explicam os objetivos, ações e reações dos atores presentes? | [Barbosa et al. (2021) - pg. 158](../../../assets/images/k2.png)<sup>[1](#ref1) | João/Davi | Sim |
+| Os cenários apresentam atores, pessoas interagindo com o sistema ou outros elementos do ambiente? Suas características relevantes ao cenário são descritas? | [Barbosa et al. (2021)](../../../assets/images/k3.png)<sup>[1](#ref1) | João | Sim |
+| Os cenários apresentam objetivos, que motivam e dirigem as ações realizadas pelos atores presentes? | [Barbosa et al. (2021)](../../../assets/images/k4.png)<sup>[1](#ref1) | Eduarda | Sim |
+| Os cenários incluem o planejamento pensado pelo ator para transformar um objetivo em comportamentos/ações? | [Barbosa et al. (2021)](../../../assets/images/k5.png)<sup>[1](#ref1) | Carla | Sim |
+| Os cenários mostram as ações, ou seja, o comportamento observável dos atores presentes neles?  | [Barbosa et al. (2021)](../../../assets/images/k6.png)<sup>[1](#ref1) | Gabriel | Sim |
+| Os cenários descrevem os eventos, ações externas ou reações produzidas pelo computador ou outras características do ambiente que são relevantes ao cenário?  | [Barbosa et al. (2021)](../../../assets/images/k7.png)<sup>[1](#ref1) | João | Sim |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a> e <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 </center>
-
 
 
 ### Vídeo da inspeção - Cenários
 
+<center>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/UTv4viLA9C8" title="Personas grupo 01 ihc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+</center>
 
 ### Comentários - Cenários
 
+Não é necessário realizar alterações no artefato.
 
-## Checklist da Verificação HTA
+## Checklist da Verificação do HTA
+
+Inspeção do artefato do HTA realizada pelo integrante [João Ribeiro](https://github.com/Joa0V) com base na [lista de verificação de hta](../../planejamento/analise_req/hta.md).
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - Análise Hierárquica de Tarefas </font>
+<font size="3"><b>Tabela 4:</b> Verificação - Análise Hierárquica de Tarefas </font>
 
 | Descrição | Referência | Autor(a) | Avaliação |
 |:---------:|:---------:|:-----------:|:----------:|
-| O documento possui uma introdução clara sobre o que é HTA e sua importância? | Barbosa e Silva, 2021, Cap. 5, p. 127 | Gabriel Monteiro |  |
-| Os objetivos da análise estão claramente definidos? | Barbosa e Silva, 2021, Cap. 5, p. 130 | Gabriel Monteiro |  |
-| A metodologia utilizada para a HTA está descrita detalhadamente? | Barbosa e Silva, 2021, Cap. 5, p. 132-135 | Gabriel Monteiro |  |
-| As tarefas principais estão decompostas em subtarefas de forma hierárquica? | Barbosa e Silva, 2021, Cap. 5, p. 136 | Gabriel Monteiro |  |
-| Os diagramas HTA estão claros e bem estruturados? | Barbosa e Silva, 2021, Cap. 5, p. 138 | Gabriel Monteiro |  |
-| As relações entre as tarefas (sequencial, alternativa, paralela) estão corretamente representadas? | Barbosa e Silva, 2021, Cap. 5, p. 140 | Gabriel Monteiro |  |
-| Há uma descrição textual complementando os diagramas HTA? | Barbosa e Silva, 2021, Cap. 6, p. 167 | Gabriel Monteiro |  |
-| Os planos de cada nível da hierarquia estão especificados? | Barbosa e Silva, 2021, Cap. 5, p. 144 | Gabriel Monteiro |  |
-| As operações e ações estão claramente identificadas e descritas? | Barbosa e Silva, 2021, Cap. 7, p. 189 | Gabriel Monteiro |  |
-| Foram identificados possíveis problemas e recomendações para cada tarefa analisada? | Barbosa e Silva, 2021, Cap. 7, p. 195 | Gabriel Monteiro |  |
+| O documento possui uma introdução clara sobre o que é HTA e sua importância? | Barbosa e Silva, 2021, Cap. 5, p. 127 | Gabriel Monteiro | Sim |
+| Os objetivos da análise estão claramente definidos? | Barbosa e Silva, 2021, Cap. 5, p. 130 | Gabriel Monteiro | Sim |
+| A metodologia utilizada para a HTA está descrita detalhadamente? | Barbosa e Silva, 2021, Cap. 5, p. 132-135 | Gabriel Monteiro | Sim |
+| As tarefas principais estão decompostas em subtarefas de forma hierárquica? | Barbosa e Silva, 2021, Cap. 5, p. 136 | Gabriel Monteiro | Sim |
+| Os diagramas HTA estão claros e bem estruturados? | Barbosa e Silva, 2021, Cap. 5, p. 138 | Gabriel Monteiro | Não |
+| As relações entre as tarefas (sequencial, alternativa, paralela) estão corretamente representadas? | Barbosa e Silva, 2021, Cap. 5, p. 140 | Gabriel Monteiro | Não |
+| Há uma descrição textual complementando os diagramas HTA? | Barbosa e Silva, 2021, Cap. 6, p. 167 | Gabriel Monteiro | Sim |
+| Os planos de cada nível da hierarquia estão especificados? | Barbosa e Silva, 2021, Cap. 5, p. 144 | Gabriel Monteiro | Sim |
+| As operações e ações estão claramente identificadas e descritas? | Barbosa e Silva, 2021, Cap. 7, p. 189 | Gabriel Monteiro | Sim |
+| Foram identificados possíveis problemas e recomendações para cada tarefa analisada? | Barbosa e Silva, 2021, Cap. 7, p. 195 | Gabriel Monteiro | Sim |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a> e <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 </center>
-
-
 
 ### Vídeo da inspeção - HTA
 
+<center>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/cUIfyCIJc0c" title="Personas grupo 01 ihc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+</center>
 
 ### Comentários - HTA
+
+Existem diagramas em que as operações não estão no nível mais baixo da hierarquia de objetivos, além das algumas representações de relações não estarem de acordo com o estabelecido para os diagramas deou estarem faltantes.
 
 
 ## Checklist da Verificação GOMS
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - GOMS </font>
+<font size="3"><b>Tabela 5:</b> Verificação - GOMS </font>
 
 |                                                                                    Descrição                                                                                    | Referência                                             |                       Autor                                  | Avaliação |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :-------------------------------------------------------------------------------------: | :----------: |
@@ -154,9 +172,17 @@ Não é necessário realizar alterações no artefato.
         <tr>
             <td>04/02/2025</td>
             <td>1.0</td>
-            <td>Criaçãod do documento</td>
+            <td>Criação do documento</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>03/02/2025</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>07/02/2025</td>
+            <td>1.1</td>
+            <td>Inspeção dos cenários e hta</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
             <td><a href="https://github.com/"></a></td>
         </tr>
     </table>
