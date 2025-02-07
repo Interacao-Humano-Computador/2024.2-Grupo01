@@ -43,7 +43,7 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 ## Checklist da Verificação Execução da Avaliação do HTA
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - Planejamento da Avaliação de Análise de Tarefas </font>
+<font size="3"><b>Tabela 3:</b> Verificação - Planejamento da Avaliação de Análise de Tarefas </font>
 
 | Descrição | Referência | Autor(a) | Resposta |
 |:---------:|:---------:|:-----------:|:--------:|
@@ -74,30 +74,41 @@ Não é necessário realizar alterações no artefato
 
 ## Checklist da Verificação do Planejamento da Avaliação do Storyboard
 
+Na tabela 4 abaixo encontra-se o resultado da inspeção do artefato do Planejamento da Avaliação do Storyboard pelo integrante [João Ribeiro](https://github.com/Joa0V) com base na [lista do Planejamento da Avaliação do Storyboard](../../planejamento/design_avaliacao_dev/nivel1/planejamento_avaliacao_storyboard.md).
+
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - Planejamento da avaliação dos storyboards </font>
+<font size="3"><b>Tabela 4:</b> Verificação - Planejamento da avaliação dos storyboards </font>
 
 | Descrição | Referência | Autor(a) | Avaliação |
 |:---------:|:---------:|:--------:|:---------:|
-| O artefato utiliza o framework DECIDE ou outro definido para realização do Planejamento da Avaliação do Storyboard? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T. Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../../../assets/images/f1.png)<sup>[1](#ref1) | João | |
-| O artefato apresenta os objetivos da Avaliação do Storyboard? | [ROSA, José Guilherme Santa. Avaliação e Projeto No Design de Interfaces. 1. ed. Rio de Janeiro: Elsevier, 2010](../../../../assets/images/f2.png)<sup>[1](#ref1) | Davi | |
-| O documento cita as questões éticas? | [ROSA, José Guilherme Santa. Avaliação e Projeto No Design de Interfaces. 1. ed. Rio de Janeiro: Elsevier, 2010](../../../../assets/images/f2.png)<sup>[1](#ref1) | Eduarda | |
-| O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação do Storyboard? | [ROSA, José Guilherme Santa. Avaliação e Projeto No Design de Interfaces. 1. ed. Rio de Janeiro: Elsevier, 2010](../../../../assets/images/f2.png)<sup>[1](#ref1) | Carla | |
-| O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação do Storyboard? | [ROSA, José Guilherme Santa. Avaliação e Projeto No Design de Interfaces. 1. ed. Rio de Janeiro: Elsevier, 2010](../../../../assets/images/f2.png)<sup>[1](#ref1) | Gabriel | |
+| O artefato utiliza o framework DECIDE ou outro definido para realização do Planejamento da Avaliação do Storyboard? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T. Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../../../assets/images/f1.png)<sup>[1](#ref1) | João | Sim |
+| O artefato apresenta os objetivos da Avaliação do Storyboard? | [ROSA, José Guilherme Santa. Avaliação e Projeto No Design de Interfaces. 1. ed. Rio de Janeiro: Elsevier, 2010](../../../../assets/images/f2.png)<sup>[1](#ref1) | Davi | Sim |
+| O documento cita as questões éticas? | [ROSA, José Guilherme Santa. Avaliação e Projeto No Design de Interfaces. 1. ed. Rio de Janeiro: Elsevier, 2010](../../../../assets/images/f2.png)<sup>[1](#ref1) | Eduarda | Sim |
+| O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação do Storyboard? | [ROSA, José Guilherme Santa. Avaliação e Projeto No Design de Interfaces. 1. ed. Rio de Janeiro: Elsevier, 2010](../../../../assets/images/f2.png)<sup>[1](#ref1) | Carla | Sim |
+| O artefato possui no seu cronograma uma data e horário para realização do teste piloto da Avaliação do Storyboard? | [ROSA, José Guilherme Santa. Avaliação e Projeto No Design de Interfaces. 1. ed. Rio de Janeiro: Elsevier, 2010](../../../../assets/images/f2.png)<sup>[1](#ref1) | Gabriel | Sim |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a> e  <a href="https://github.com/Joa0V">João Ribeiro</a></p>
 </center>
 
 
 ### Vídeo da inspeção - Verificação do Planejamento da Avaliação do Storyboard
 
+<center>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/y6_87v-ilVg" title="Personas grupo 01 ihc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+</center>
 
 ### Comentários - Verificação do Planejamento da Avaliação do Storyboard
+
+O resultado da inspeção não aponta melhorias a serem feitas.
 
 ## Checklist da Verificação do Planejamento do HTA
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - Planejamento da avaliação dos storyboards </font>
+<font size="3"><b>Tabela 5:</b> Verificação - Planejamento da avaliação dos storyboards </font>
 
 | Descrição | Referência | Autor(a) | Avaliação |
 |:---------:|:---------:|:--------:|:---------:|
@@ -123,7 +134,7 @@ Não é necessário realizar alterações no artefato
 ## Checklist da Verificação do Planejamento do Resultado da Avaliação do Storyboard
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - Planejamento do Relato dos Resultados do Storyboard </font>
+<font size="3"><b>Tabela 6:</b> Verificação - Planejamento do Relato dos Resultados do Storyboard </font>
 
 | ID | Descrição | Referência | Autor | Avaliação |
 |:--:|:---------:|:----------:|:-----:|:--------:|
@@ -151,7 +162,7 @@ Não é necessário realizar alterações no artefato
 ## Checklist da Verificação do Storyboard
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - Planejamento do Relato dos Resultados do Storyboard </font>
+<font size="3"><b>Tabela 7:</b> Verificação - Planejamento do Relato dos Resultados do Storyboard </font>
 
 | ID | Descrição | Referência | Autor | Avaliação |
 |:--:|:---------:|:----------:|:-----:|:--------:|
@@ -203,6 +214,14 @@ Não é necessário realizar alterações no artefato
             <td>Criaçãod do documento</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>03/02/2025</td>
+            <td><a href="https://github.com/"></a></td>
+        </tr>
+        <tr>
+            <td>07/02/2025</td>
+            <td>1.1</td>
+            <td>Adicionando inspeção do Planejamento da Avaliação do Storyboard</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
             <td><a href="https://github.com/"></a></td>
         </tr>
     </table>

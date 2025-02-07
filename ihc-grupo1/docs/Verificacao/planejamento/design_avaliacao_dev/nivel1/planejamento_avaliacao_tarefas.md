@@ -20,7 +20,6 @@ Como metodologia teremos uma tabela modelo para realização da lista de verific
 ## Checklist da Verificação
 A tabela 2 mostra o lista de verificação do Planejamento da Avaliação da Análise de Tarefas
 
-../../../../assets/images/verificacao/planAnalise1.PNG
 
 <center>
 <font size="3"><b>Tabela 2:</b> Verificação - Planejamento da Avaliação da Análise de Tarefas </font>

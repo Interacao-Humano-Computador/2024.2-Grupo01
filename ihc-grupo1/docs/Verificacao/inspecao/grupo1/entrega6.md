@@ -49,7 +49,7 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 ## Checklist da Verificação do Planejamento do Relato de Tarefas
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - Planejamento do Relato de Tarefas</font>
+<font size="3"><b>Tabela 3:</b> Verificação - Planejamento do Relato de Tarefas</font>
 
 |                                                         Descrição                                                         | Referência                                       |                 Autor                                        | Avaliação |
 | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------------------------------: | --------- |
@@ -76,23 +76,35 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 
 ## Checklist do Relato do Protótipo de Papel
 
+Na tabela 4 abaixo encontra-se o resultado da inspeção do artefato do relato do protótipo de papel pelo integrante [João Ribeiro](https://github.com/Joa0V) com base na [lista do relato do protótipo de papel](../../planejamento/design_avaliacao_dev/nivel3/relato_prototipo_papel.md).
+
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - Planejamento da avaliação do storyboard</font>
+<font size="3"><b>Tabela 4:</b> Verificação - Planejamento da avaliação do storyboard</font>
 
 | Descrição | Referência | Autor(a) | Avaliação |
 |:---------:|:---------:|:--------:|:---------:|
-| Estão descritos os objetivos e escopo da avaliação no documento?  | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T. Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../../../assets/images/insp71.PNG)<sup>[1](#ref1)  | João |           |
-| São coletados dados sobre a avaliação? como vídeos ou anotações | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T. Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../../../assets/images/f6.png)<sup>[1](#ref1) | Davi |           |
-| É definido as atividades que serão feitas pelo usuário? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T. Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../../../assets/images/f7.png)<sup>[1](#ref1) | Carla |           |
-| Está descrita a forma de realização da avaliação? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T. Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../../../assets/images/insp71.PNG)<sup>[1](#ref1) | Eduarda/ Gabriel |           |
+| Estão descritos os objetivos e escopo da avaliação no documento?  | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T. Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../../../assets/images/insp71.PNG)<sup>[1](#ref1)  | João |     Sim      |
+| São coletados dados sobre a avaliação? como vídeos ou anotações | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T. Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../../../assets/images/f6.png)<sup>[1](#ref1) | Davi |     Sim      |
+| É definido as atividades que serão feitas pelo usuário? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T. Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../../../assets/images/f7.png)<sup>[1](#ref1) | Carla |     Não      |
+| Está descrita a forma de realização da avaliação? | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T. Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../../../assets/images/insp71.PNG)<sup>[1](#ref1) | Eduarda/ Gabriel |     Não      |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a> e <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 </center>
 
 
 ### Vídeo da inspeção - Relato do Protótipo de Papel
 
+<center>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/RAk3PmELjCs" title="Personas grupo 01 ihc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+</center>
+
 ### Comentários - Relato do Protótipo de Papel
+
+Para a alcançar maior qualidade no relato do protótipo de papel é necessário definir as atividades feitas pelo usuário e ainda descrever a forma que a avaliação foi realizada.
 
 
 ## Referências Bibliográficas
@@ -119,6 +131,14 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
             <td>Criaçãod do documento</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>03/02/2025</td>
+            <td><a href="https://github.com/"></a></td>
+        </tr>
+        <tr>
+            <td>07/02/2025</td>
+            <td>1.1</td>
+            <td>Adicionando inspeção do relato da avaliação do protótipo de papel</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
             <td><a href="https://github.com/"></a></td>
         </tr>
     </table>

@@ -50,7 +50,7 @@ Não é necessário realizar alterações no artefato.
 
 ## Checklist de Verificação Cenários
 
-Inspeção do artefato de cenários realizada pelo integrante [João Ribeiro](https://github.com/Joa0V) com base na [lista de verificação de cenários](../../planejamento/analise_req/cenarios.md).
+Na tabela 3 abaixo encontra-se o resultado da inspeção do artefato de cenários realizada pelo integrante [João Ribeiro](https://github.com/Joa0V) com base na [lista de verificação de cenários](../../planejamento/analise_req/cenarios.md).
 
 <center>
 <font size="3"><b>Tabela 3:</b> Verificação - Cenários </font>
@@ -84,7 +84,7 @@ Não é necessário realizar alterações no artefato.
 
 ## Checklist da Verificação do HTA
 
-Inspeção do artefato do HTA realizada pelo integrante [João Ribeiro](https://github.com/Joa0V) com base na [lista de verificação de hta](../../planejamento/analise_req/hta.md).
+Na tabela 4 abaixo encontra-se o resultado da inspeção do artefato do HTA realizada pelo integrante [João Ribeiro](https://github.com/Joa0V) com base na [lista de verificação de hta](../../planejamento/analise_req/hta.md).
 
 <center>
 <font size="3"><b>Tabela 4:</b> Verificação - Análise Hierárquica de Tarefas </font>
