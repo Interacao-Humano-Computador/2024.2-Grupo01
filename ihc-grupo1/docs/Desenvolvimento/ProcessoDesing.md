@@ -70,7 +70,7 @@ O ciclo de vida proposto por Deborah Mayhew  avalia no início, as necessidades 
 
 ## Escolha do grupo para o projeto
 
-Nossa equipe irá utilizar o modelo de Mayhew, por estar amplamente detalhado ao longo do projeto, evitando assdim tirar conclusões próprias e errôneas como também melhorar nossa avaliação pessoal para com as necessidades de nosso projeto. É evidenciado também em projetos passados que alunos que escolheram este processo tiveram trabalhos de maior qualidade (trabalhos usados de exemplo na matéria). 
+Nossa equipe irá utilizar o modelo de Mayhew, por estar amplamente detalhado ao longo do projeto, evitando assim tirar conclusões próprias e errôneas como também melhorar nossa avaliação pessoal para com as necessidades de nosso projeto. É evidenciado também em projetos passados que alunos que escolheram este processo tiveram trabalhos de maior qualidade (trabalhos usados de exemplo na matéria). 
 
 ## Bibliografia
 
