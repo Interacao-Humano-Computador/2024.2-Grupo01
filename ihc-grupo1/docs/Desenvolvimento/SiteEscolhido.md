@@ -1,6 +1,6 @@
 ## Introdução
 
-Neste documento são apresentados os critérios e motivações para a escolha do site da **BlueSky**, escolhido pelo grupo para o projeto da disciplina de Requisitos de Software. Também será apresentado a execucção de sua avaliação com o Framework DECIDE. 
+Neste documento são apresentados os critérios e motivações para a escolha do site da **BlueSky**, escolhido pelo grupo para o projeto da disciplina de Interação Humano Computador. Também será apresentado a execucção de sua avaliação com o Framework DECIDE. 
 
 ## Objetivo
 
@@ -73,5 +73,12 @@ em: <https://marcelohsantos.com/aulas/include/2022-1/projeto_Interface_Usuario/A
             <td>19/11</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
+        <tr>
+            <td>08/02</td>
+            <td>1.0</td>
+            <td>Correção de erros gerais na apresetnação do documento </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>02/02</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
     </table>
 </div>
