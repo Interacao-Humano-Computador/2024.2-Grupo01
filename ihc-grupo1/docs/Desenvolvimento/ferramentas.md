@@ -70,8 +70,9 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
             </tr>
         </tbody>
     </table>
-    
 </div>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
 ## Bibliografia
 > 1. Figma disponível em: https://www.figma.com/  Acessado dia 14/11/2024 ás 22:08<br> 
