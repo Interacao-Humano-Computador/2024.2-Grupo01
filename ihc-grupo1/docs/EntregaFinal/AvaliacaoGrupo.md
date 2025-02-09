@@ -34,7 +34,7 @@ Tabela de Feedback - Membro x
 
 ## Opiniões gerais. 
 
-O grupo sofreu com grave perca de desemepnho devido a execução de duas tarefas similares em matérias distintas (requisitos e IHC) bem como membros com trabalhos e projetos de outras matérias que coincidiam junto com as entregas. A falta de horários em conjunto prejudicou as reuniões fora do horário de sala de aula e os trabalhos de alguns membros ocasionaram com os mesmos não podendo dedicar-se/ abdicando de tempo para completude de outras matérias ou trabalho pessoal. Isso embora seja uma razão normal e que todos precisam passar nesse trabalho em especifico dificultou bastante o desenvolvimento, com alguns membros ganhando um grande volume de tarefas para compensar outros em algumas entregas. Apesar disso todos os membros conseguiram contribuir para o projeto, finalizando as entregas conforme elas passavam. 
+O grupo sofreu com grave perca de desempenho devido a execução de duas tarefas similares em matérias distintas (requisitos e IHC) bem como membros com trabalhos e projetos de outras matérias que coincidiam junto com as entregas. A falta de horários em conjunto prejudicou as reuniões fora do horário de sala de aula e os trabalhos de alguns membros ocasionaram com os mesmos não podendo dedicar-se/ abdicando de tempo para completude de outras matérias ou trabalho pessoal. Isso embora seja uma razão normal e que todos precisam passar nesse trabalho em especifico dificultou bastante o desenvolvimento, com alguns membros ganhando um grande volume de tarefas para compensar outros em algumas entregas. Apesar disso todos os membros conseguiram contribuir para o projeto, finalizando as entregas conforme elas passavam. 
 
 
 ## Tabela de Feedback - Membro 1 Davi Nobre
@@ -54,20 +54,20 @@ O grupo sofreu com grave perca de desemepnho devido a execução de duas tarefas
 </center>
 
 
-## Tabela de Feedback - Membro x
+## Tabela de Feedback - Membro 2 Gabriel Monteiro
 
 <center>
 
 | Item                       | Resposta do Membro          |
 |----------------------------|------------------------------|
-| **Nome do Membro**          | [Preencher aqui]             |
-| **Feedback Positivo**       | [Ex: "A equipe foi colaborativa e as ferramentas facilitaram o trabalho"] |
-| **Feedback Negativo**       | [Ex: "Prazos muito apertados para tarefas complexas"] |
-| **Dificuldade Esperada**    | [Ex: 7 (em uma escala de 1 a 10)] |
-| **Dificuldade Real**        | [Ex: 9 (em uma escala de 1 a 10)] |
+| **Nome do Membro**          | Gabriel Santos Monteiro             |
+| **Feedback Positivo**       | A equipe sempre foi bastante engajada em apresentar todas as atividades propostas, independente de feriados ou prazos apertados, seguindo a bibliografia da disciplina foi possível aprender e desenvolver muitas habilidades, hoje já acredito que somos capazes de conduzir uma avaliação de IHC desde o levantamento de requisitos. |
+| **Feedback Negativo**       | Prazos extremamente apertados, algumas vezes precisamos correr para a próxima entrega logo após fazer a apresentação da anterior, o que prejudicou o desempenho por não ser a única demanda academica. |
+| **Dificuldade Esperada**    | 5 |
+| **Dificuldade Real**        | 9 |
 
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/GabrielSMonteiro">Gabriel Moonteiro</a></p> 
 
 </center>
 
